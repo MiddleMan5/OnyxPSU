@@ -1,0 +1,30 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 23 12:02:13 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=26516 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Reference/SnapEDA/SOIC-8/SOIC127P600X175-8N.dra
+\i (00:00:03) trapsize 5074
+\i (00:00:03) trapsize 5229
+\i (00:00:03) trapsize 5603
+\i (00:00:03) trapsize 5239
+\i (00:00:03) trapsize 5239
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 1.5241 -0.4249
+\i (00:00:05) trapsize 2620
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 0.6403 -0.4248
+\i (00:00:05) trapsize 1310
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 0.6403 -0.4248
+\i (00:00:05) trapsize 655
+\i (00:00:06) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.6403 -0.4248
+\i (00:00:07) trapsize 1310
+\i (00:00:32) exit 
+\t (00:00:32)     Journal end - Mon Jan 23 12:02:45 2017

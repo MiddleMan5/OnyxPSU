@@ -1,0 +1,36 @@
+# Allegro script
+#   name: s_r71_28_d1000_m90_48_p71_28_pad.scr
+#   copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+version 16.3
+
+setwindow form.padedit
+
+pse_new
+fillin "s_r71_28_d1000_m90_48_p71_28"
+FORM padedit units Millimeter
+FORM padedit decimal_places 4
+FORM padedit inner_layer_opt YES
+FORM padedit single YES
+
+# Pads
+setwindow Form.padedit
+FORM padedit layers
+
+# TOP
+FORM padedit grid row begin_layer
+FORM padedit geometry Shape
+FORM padedit shapename ps_r71_28_d1000
+
+# SOLDERMASK_TOP
+FORM padedit grid row SOLDERMASK_TOP
+FORM padedit geometry Shape
+FORM padedit shapename ps_r90_48_d1000
+
+# PASTEMASK_TOP
+FORM padedit grid row PASTEMASK_TOP
+FORM padedit geometry Shape
+FORM padedit shapename ps_r71_28_d1000
+
+pse_check
+pse_save
+pse_exit

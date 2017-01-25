@@ -1,0 +1,96 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 23 11:55:49 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=4120 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Reference/SnapEDA/TQFP32A/TQFP32A.dra
+\i (00:00:02) trapsize 8385
+\i (00:00:02) trapsize 8641
+\i (00:00:02) trapsize 9260
+\i (00:00:02) trapsize 8658
+\i (00:00:02) trapsize 8658
+\i (00:00:03) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 6.1740 -2.4837
+\i (00:00:03) trapsize 4329
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -14.5180 -2.5702
+\i (00:00:03) trapsize 2164
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -15.2972 -2.7001
+\i (00:00:03) trapsize 1082
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -15.3838 -2.6352
+\i (00:00:03) trapsize 541
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -10.7194 -2.3646
+\i (00:00:04) trapsize 1082
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -7.6243 -2.2347
+\i (00:00:04) trapsize 2164
+\i (00:00:05) roam start
+\i (00:00:05) roam x 112
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y -16
+\i (00:00:05) roam end
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.6654 -0.1027
+\i (00:00:05) trapsize 1082
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -3.8255 0.0705
+\i (00:00:06) trapsize 541
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -3.5116 0.1571
+\i (00:00:10) trapsize 1082
+\i (00:00:10) roam start
+\i (00:00:10) roam x 80
+\i (00:00:10) roam y -16
+\i (00:00:11) roam end
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1.7587 -0.8387
+\i (00:00:16) trapsize 541
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1.7587 -0.8387
+\i (00:00:16) trapsize 271
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 1.7858 -0.8387
+\i (00:00:17) trapsize 135
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1.7804 -0.8522
+\i (00:00:17) trapsize 271
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1.7750 -0.8521
+\i (00:00:17) trapsize 541
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1.7750 -0.8522
+\i (00:00:17) trapsize 1082
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1.7750 -0.9171
+\i (00:00:17) trapsize 2164
+\i (00:00:18) roam start
+\i (00:00:18) roam x 48
+\i (00:00:18) roam y -48
+\i (00:00:18) roam x 16
+\i (00:00:19) roam end
+\i (00:00:20) save 
+\i (00:00:21) fillin no 
+\i (00:00:24) fillin "menu_cancel"
+\i (00:00:24) generaledit 
+\i (00:00:24) exit 
+\t (00:00:24)     Journal end - Mon Jan 23 11:56:13 2017

@@ -1,0 +1,2308 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 23 13:11:39 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=14284 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 945
+\i (00:00:02) trapsize 920
+\i (00:00:02) trapsize 949
+\i (00:00:03) trapsize 976
+\i (00:00:03) trapsize 1625
+\i (00:00:03) replay QFP80P900X900X120-32N_pkg.scr 
+\i (00:00:03) version 16.3 
+\t (00:00:03) Script version: 16.3
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) new 
+\i (00:00:03) newdrawfillin QFP80P900X900X120-32N.dra 'Package Symbol' 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 976
+\i (00:00:03) trapsize 945
+\i (00:00:03) trapsize 976
+\i (00:00:03) trapsize 1625
+\i (00:00:03) trapsize 1625
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) Color 
+\i (00:00:03) setwindow form.cvf_main
+\i (00:00:03) FORM cvf_main class_list Geometry
+\i (00:00:03) setwindow Form.cvf_main 
+\i (00:00:03) FORM cvf_main class_list Components 
+\i (00:00:03) FORM cvf_main all_visible1 YES 
+\i (00:00:03) FORM cvf_main all_visible2 YES 
+\i (00:00:03) FORM cvf_main all_visible3 YES 
+\i (00:00:03) FORM cvf_main class_list Geometry 
+\i (00:00:04) FORM cvf_main all_visible5 YES 
+\i (00:00:04) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:04) FORM cvf_main class_list Stack-Up 
+\i (00:00:04) FORM cvf_main all_visible1 YES 
+\i (00:00:04) FORM cvf_main ok 
+\i (00:00:04) generaledit 
+\i (00:00:04) prmed 
+\i (00:00:04) setwindow Form.prmedit 
+\i (00:00:04) FORM prmedit design 
+\i (00:00:04) FORM prmedit units Millimeter 
+\e (00:00:04) Change may cause round-off; run dbcheck.
+\i (00:00:04) FORM prmedit accuracy 4 
+\i (00:00:04) FORM prmedit size other 
+\e (00:00:04) Value for field is not legal
+\i (00:00:04) FORM prmedit width 98.392 
+\i (00:00:04) FORM prmedit height 109.365 
+\i (00:00:04) FORM prmedit Apply 
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 10456
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) FORM prmedit x -38.147 
+\i (00:00:04) FORM prmedit y -42.2618 
+\i (00:00:04) FORM prmedit done 
+\i (00:00:04) trapsize 10456
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) chg origin 
+\t (00:00:04) Pick new location for drawing origin.
+\i (00:00:04) pick -0 -0 
+\t (00:00:04) last pick:  0.0000  0.0000
+\t (00:00:04) Pick point (0.0000 0.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:04) add pin 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini pad_name s_r50_147_m70_167_p50_147 
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) FORM mini next_pin_number 1 
+\i (00:00:04) rotate 
+\t (00:00:04) Spin the element(s).
+\i (00:00:04) iangle 270 
+\t (00:00:04) last angle:  +270.000 Degrees
+\t (00:00:04) Pin rotated by '270.000' degrees.
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) FORM mini pintype_mechanical NO 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -4.1148 2.794 
+\t (00:00:04) last pick:  -4.1148  2.7940
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 10 
+\i (00:00:04) rotate 
+\t (00:00:04) Spin the element(s).
+\i (00:00:04) iangle -90 
+\t (00:00:04) last angle:  +270.000 Degrees
+\t (00:00:04) Pin rotated by '180.000' degrees.
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -2.0066 -4.1148 
+\t (00:00:04) last pick:  -2.0066  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 11 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -1.1938 -4.1148 
+\t (00:00:04) last pick:  -1.1938  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 12 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -0.4064 -4.1148 
+\t (00:00:04) last pick:  -0.4064  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 13 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 0.4064 -4.1148 
+\t (00:00:04) last pick:  0.4064  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 14 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 1.1938 -4.1148 
+\t (00:00:04) last pick:  1.1938  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 15 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 2.0066 -4.1148 
+\t (00:00:04) last pick:  2.0066  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 16 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 2.794 -4.1148 
+\t (00:00:04) last pick:  2.7940  -4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 17 
+\i (00:00:04) rotate 
+\t (00:00:04) Spin the element(s).
+\i (00:00:04) iangle 90 
+\t (00:00:04) last angle:  +90.000 Degrees
+\t (00:00:04) Pin rotated by '270.000' degrees.
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 -2.794 
+\t (00:00:04) last pick:  4.1148  -2.7940
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 18 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 -2.0066 
+\t (00:00:04) last pick:  4.1148  -2.0066
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 19 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 -1.1938 
+\t (00:00:04) last pick:  4.1148  -1.1938
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 2 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -4.1148 2.0066 
+\t (00:00:04) last pick:  -4.1148  2.0066
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 20 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 -0.4064 
+\t (00:00:04) last pick:  4.1148  -0.4064
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 21 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 0.4064 
+\t (00:00:04) last pick:  4.1148  0.4064
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 22 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 1.1938 
+\t (00:00:04) last pick:  4.1148  1.1938
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 23 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 2.0066 
+\t (00:00:04) last pick:  4.1148  2.0066
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 24 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 4.1148 2.794 
+\t (00:00:04) last pick:  4.1148  2.7940
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 25 
+\i (00:00:04) rotate 
+\t (00:00:04) Spin the element(s).
+\i (00:00:04) iangle -90 
+\t (00:00:04) last angle:  +270.000 Degrees
+\t (00:00:04) Pin rotated by '180.000' degrees.
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 2.794 4.1148 
+\t (00:00:04) last pick:  2.7940  4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 26 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 2.0066 4.1148 
+\t (00:00:04) last pick:  2.0066  4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini next_pin_number 27 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 1.1938 4.1148 
+\t (00:00:04) last pick:  1.1938  4.1148
+\t (00:00:04) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 28 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0.4064 4.1148 
+\t (00:00:05) last pick:  0.4064  4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 29 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -0.4064 4.1148 
+\t (00:00:05) last pick:  -0.4064  4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 3 
+\i (00:00:05) rotate 
+\t (00:00:05) Spin the element(s).
+\i (00:00:05) iangle 90 
+\t (00:00:05) last angle:  +90.000 Degrees
+\t (00:00:05) Pin rotated by '270.000' degrees.
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 1.1938 
+\t (00:00:05) last pick:  -4.1148  1.1938
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 30 
+\i (00:00:05) rotate 
+\t (00:00:05) Spin the element(s).
+\i (00:00:05) iangle -90 
+\t (00:00:05) last angle:  +270.000 Degrees
+\t (00:00:05) Pin rotated by '180.000' degrees.
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -1.1938 4.1148 
+\t (00:00:05) last pick:  -1.1938  4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 31 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -2.0066 4.1148 
+\t (00:00:05) last pick:  -2.0066  4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 32 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -2.794 4.1148 
+\t (00:00:05) last pick:  -2.7940  4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 4 
+\i (00:00:05) rotate 
+\t (00:00:05) Spin the element(s).
+\i (00:00:05) iangle 90 
+\t (00:00:05) last angle:  +90.000 Degrees
+\t (00:00:05) Pin rotated by '270.000' degrees.
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 0.4064 
+\t (00:00:05) last pick:  -4.1148  0.4064
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 5 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 -0.4064 
+\t (00:00:05) last pick:  -4.1148  -0.4064
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 6 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 -1.1938 
+\t (00:00:05) last pick:  -4.1148  -1.1938
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 7 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 -2.0066 
+\t (00:00:05) last pick:  -4.1148  -2.0066
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 8 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -4.1148 -2.794 
+\t (00:00:05) last pick:  -4.1148  -2.7940
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 9 
+\i (00:00:05) rotate 
+\t (00:00:05) Spin the element(s).
+\i (00:00:05) iangle -90 
+\t (00:00:05) last angle:  +270.000 Degrees
+\t (00:00:05) Pin rotated by '180.000' degrees.
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -2.794 -4.1148 
+\t (00:00:05) last pick:  -2.7940  -4.1148
+\t (00:00:05) Using 'S_R50_147_M70_167_P50_147.pad'.
+\i (00:00:05) done 
+\t (00:00:05) Exiting from Add Pin.
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.1524 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -2.0066 -6.1976 
+\t (00:00:05) last pick:  -2.0066  -6.1976
+\i (00:00:05) pick -2.0066 -5.1816 
+\t (00:00:05) last pick:  -2.0066  -5.1816
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.1524 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -1.1938 5.1816 
+\t (00:00:05) last pick:  -1.1938  5.1816
+\i (00:00:05) pick -1.1938 6.223 
+\t (00:00:05) last pick:  -1.1938  6.2230
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.1524 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 5.1816 -0.381 
+\t (00:00:05) last pick:  5.1816  -0.3810
+\i (00:00:05) pick 6.1976 -0.381 
+\t (00:00:05) last pick:  6.1976  -0.3810
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.1524 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -3.0734 2.667 
+\t (00:00:05) last pick:  -3.0734  2.6670
+\i (00:00:05) pick -2.667 3.0734 
+\t (00:00:05) last pick:  -2.6670  3.0734
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -3.5052 -3.5052 
+\t (00:00:06) last pick:  -3.5052  -3.5052
+\i (00:00:06) pick -3.0226 -3.5052 
+\t (00:00:06) last pick:  -3.0226  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -2.5654 -3.5052 
+\t (00:00:06) last pick:  -2.5654  -3.5052
+\i (00:00:06) pick -2.2352 -3.5052 
+\t (00:00:06) last pick:  -2.2352  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -1.778 -3.5052 
+\t (00:00:06) last pick:  -1.7780  -3.5052
+\i (00:00:06) pick -1.4224 -3.5052 
+\t (00:00:06) last pick:  -1.4224  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -0.9652 -3.5052 
+\t (00:00:06) last pick:  -0.9652  -3.5052
+\i (00:00:06) pick -0.635 -3.5052 
+\t (00:00:06) last pick:  -0.6350  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -0.1778 -3.5052 
+\t (00:00:06) last pick:  -0.1778  -3.5052
+\i (00:00:06) pick 0.1778 -3.5052 
+\t (00:00:06) last pick:  0.1778  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 0.635 -3.5052 
+\t (00:00:06) last pick:  0.6350  -3.5052
+\i (00:00:06) pick 0.9652 -3.5052 
+\t (00:00:06) last pick:  0.9652  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 1.4224 -3.5052 
+\t (00:00:06) last pick:  1.4224  -3.5052
+\i (00:00:06) pick 1.778 -3.5052 
+\t (00:00:06) last pick:  1.7780  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 2.2352 -3.5052 
+\t (00:00:06) last pick:  2.2352  -3.5052
+\i (00:00:06) pick 2.5654 -3.5052 
+\t (00:00:06) last pick:  2.5654  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 3.0226 -3.5052 
+\t (00:00:06) last pick:  3.0226  -3.5052
+\i (00:00:06) pick 3.5052 -3.5052 
+\t (00:00:06) last pick:  3.5052  -3.5052
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 3.5052 -3.5052 
+\t (00:00:06) last pick:  3.5052  -3.5052
+\i (00:00:06) pick 3.5052 -3.0226 
+\t (00:00:06) last pick:  3.5052  -3.0226
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 3.5052 -2.5654 
+\t (00:00:06) last pick:  3.5052  -2.5654
+\i (00:00:06) pick 3.5052 -2.2352 
+\t (00:00:06) last pick:  3.5052  -2.2352
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 -1.778 
+\t (00:00:07) last pick:  3.5052  -1.7780
+\i (00:00:07) pick 3.5052 -1.4224 
+\t (00:00:07) last pick:  3.5052  -1.4224
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 -0.9652 
+\t (00:00:07) last pick:  3.5052  -0.9652
+\i (00:00:07) pick 3.5052 -0.635 
+\t (00:00:07) last pick:  3.5052  -0.6350
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 -0.1778 
+\t (00:00:07) last pick:  3.5052  -0.1778
+\i (00:00:07) pick 3.5052 0.1778 
+\t (00:00:07) last pick:  3.5052  0.1778
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 0.635 
+\t (00:00:07) last pick:  3.5052  0.6350
+\i (00:00:07) pick 3.5052 0.9652 
+\t (00:00:07) last pick:  3.5052  0.9652
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 1.4224 
+\t (00:00:07) last pick:  3.5052  1.4224
+\i (00:00:07) pick 3.5052 1.778 
+\t (00:00:07) last pick:  3.5052  1.7780
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 2.2352 
+\t (00:00:07) last pick:  3.5052  2.2352
+\i (00:00:07) pick 3.5052 2.5654 
+\t (00:00:07) last pick:  3.5052  2.5654
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow Form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 3.5052 3.0226 
+\t (00:00:07) last pick:  3.5052  3.0226
+\i (00:00:07) pick 3.5052 3.5052 
+\t (00:00:07) last pick:  3.5052  3.5052
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:08) FORM mini line_width 0 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 3.5052 3.5052 
+\t (00:00:08) last pick:  3.5052  3.5052
+\i (00:00:08) pick 3.0226 3.5052 
+\t (00:00:08) last pick:  3.0226  3.5052
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:08) FORM mini line_width 0 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 2.5654 3.5052 
+\t (00:00:08) last pick:  2.5654  3.5052
+\i (00:00:08) pick 2.2352 3.5052 
+\t (00:00:08) last pick:  2.2352  3.5052
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:08) FORM mini line_width 0 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 1.778 3.5052 
+\t (00:00:08) last pick:  1.7780  3.5052
+\i (00:00:08) pick 1.4224 3.5052 
+\t (00:00:08) last pick:  1.4224  3.5052
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:08) FORM mini line_width 0 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 0.9652 3.5052 
+\t (00:00:08) last pick:  0.9652  3.5052
+\i (00:00:08) pick 0.635 3.5052 
+\t (00:00:08) last pick:  0.6350  3.5052
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:08) setwindow Form.mini 
+\i (00:00:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:08) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:08) FORM mini line_width 0 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) pick 0.1778 3.5052 
+\t (00:00:08) last pick:  0.1778  3.5052
+\i (00:00:08) pick -0.1778 3.5052 
+\t (00:00:08) last pick:  -0.1778  3.5052
+\i (00:00:08) done 
+\i (00:00:08) add line 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) FORM mini line_width 0 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -0.635 3.5052 
+\t (00:00:09) last pick:  -0.6350  3.5052
+\i (00:00:09) pick -0.9652 3.5052 
+\t (00:00:09) last pick:  -0.9652  3.5052
+\i (00:00:09) done 
+\i (00:00:09) add line 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) FORM mini line_width 0 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -1.4224 3.5052 
+\t (00:00:09) last pick:  -1.4224  3.5052
+\i (00:00:09) pick -1.778 3.5052 
+\t (00:00:09) last pick:  -1.7780  3.5052
+\i (00:00:09) done 
+\i (00:00:09) add line 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) FORM mini line_width 0 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -2.2352 3.5052 
+\t (00:00:09) last pick:  -2.2352  3.5052
+\i (00:00:09) pick -2.5654 3.5052 
+\t (00:00:09) last pick:  -2.5654  3.5052
+\i (00:00:09) done 
+\i (00:00:09) add line 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) FORM mini line_width 0 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -3.0226 3.5052 
+\t (00:00:09) last pick:  -3.0226  3.5052
+\i (00:00:09) pick -3.5052 3.5052 
+\t (00:00:09) last pick:  -3.5052  3.5052
+\i (00:00:09) done 
+\i (00:00:09) add line 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:09) FORM mini line_width 0 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -3.5052 3.5052 
+\t (00:00:09) last pick:  -3.5052  3.5052
+\i (00:00:09) pick -3.5052 3.0226 
+\t (00:00:09) last pick:  -3.5052  3.0226
+\i (00:00:09) done 
+\i (00:00:10) add line 
+\i (00:00:10) setwindow Form.mini 
+\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:10) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:10) FORM mini line_width 0 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -3.5052 2.5654 
+\t (00:00:10) last pick:  -3.5052  2.5654
+\i (00:00:10) pick -3.5052 2.2352 
+\t (00:00:10) last pick:  -3.5052  2.2352
+\i (00:00:10) done 
+\i (00:00:10) add line 
+\i (00:00:10) setwindow Form.mini 
+\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:10) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:10) FORM mini line_width 0 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -3.5052 1.778 
+\t (00:00:10) last pick:  -3.5052  1.7780
+\i (00:00:10) pick -3.5052 1.4224 
+\t (00:00:10) last pick:  -3.5052  1.4224
+\i (00:00:10) done 
+\i (00:00:10) add line 
+\i (00:00:10) setwindow Form.mini 
+\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:10) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:10) FORM mini line_width 0 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -3.5052 0.9652 
+\t (00:00:10) last pick:  -3.5052  0.9652
+\i (00:00:10) pick -3.5052 0.635 
+\t (00:00:10) last pick:  -3.5052  0.6350
+\i (00:00:10) done 
+\i (00:00:10) add line 
+\i (00:00:10) setwindow Form.mini 
+\i (00:00:10) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:10) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:10) FORM mini line_width 0 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -3.5052 0.1778 
+\t (00:00:10) last pick:  -3.5052  0.1778
+\i (00:00:10) pick -3.5052 -0.1778 
+\t (00:00:10) last pick:  -3.5052  -0.1778
+\i (00:00:10) done 
+\i (00:00:10) add line 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:11) FORM mini line_width 0 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -3.5052 -0.635 
+\t (00:00:11) last pick:  -3.5052  -0.6350
+\i (00:00:11) pick -3.5052 -0.9652 
+\t (00:00:11) last pick:  -3.5052  -0.9652
+\i (00:00:11) done 
+\i (00:00:11) add line 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:11) FORM mini line_width 0 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -3.5052 -1.4224 
+\t (00:00:11) last pick:  -3.5052  -1.4224
+\i (00:00:11) pick -3.5052 -1.778 
+\t (00:00:11) last pick:  -3.5052  -1.7780
+\i (00:00:11) done 
+\i (00:00:11) add line 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:11) FORM mini line_width 0 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -3.5052 -2.2352 
+\t (00:00:11) last pick:  -3.5052  -2.2352
+\i (00:00:11) pick -3.5052 -2.5654 
+\t (00:00:11) last pick:  -3.5052  -2.5654
+\i (00:00:11) done 
+\i (00:00:11) add line 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:11) FORM mini line_width 0 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -3.5052 -3.0226 
+\t (00:00:11) last pick:  -3.5052  -3.0226
+\i (00:00:11) pick -3.5052 -3.5052 
+\t (00:00:11) last pick:  -3.5052  -3.5052
+\t (00:00:11) Merged with existing line. Start next line.
+\i (00:00:11) done 
+\i (00:00:11) add line 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:11) FORM mini line_width 0 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick 2.5654 3.5052 
+\t (00:00:11) last pick:  2.5654  3.5052
+\i (00:00:11) pick 3.0226 3.5052 
+\t (00:00:11) last pick:  3.0226  3.5052
+\t (00:00:11) Merged with existing line. Start next line.
+\i (00:00:11) done 
+\i (00:00:11) add line 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 3.0226 3.5052 
+\t (00:00:12) last pick:  3.0226  3.5052
+\i (00:00:12) pick 3.0226 4.4958 
+\t (00:00:12) last pick:  3.0226  4.4958
+\i (00:00:12) done 
+\i (00:00:12) add line 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 3.0226 4.4958 
+\t (00:00:12) last pick:  3.0226  4.4958
+\i (00:00:12) pick 2.5654 4.4958 
+\t (00:00:12) last pick:  2.5654  4.4958
+\i (00:00:12) done 
+\i (00:00:12) add line 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 2.5654 4.4958 
+\t (00:00:12) last pick:  2.5654  4.4958
+\i (00:00:12) pick 2.5654 3.5052 
+\t (00:00:12) last pick:  2.5654  3.5052
+\i (00:00:12) done 
+\i (00:00:12) add line 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 1.778 3.5052 
+\t (00:00:12) last pick:  1.7780  3.5052
+\i (00:00:12) pick 2.2352 3.5052 
+\t (00:00:12) last pick:  2.2352  3.5052
+\t (00:00:12) Merged with existing line. Start next line.
+\i (00:00:12) done 
+\i (00:00:12) add line 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 2.2352 3.5052 
+\t (00:00:12) last pick:  2.2352  3.5052
+\i (00:00:12) pick 2.2352 4.4958 
+\t (00:00:12) last pick:  2.2352  4.4958
+\i (00:00:12) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow Form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 2.2352 4.4958 
+\t (00:00:13) last pick:  2.2352  4.4958
+\i (00:00:13) pick 1.778 4.4958 
+\t (00:00:13) last pick:  1.7780  4.4958
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow Form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 1.778 4.4958 
+\t (00:00:13) last pick:  1.7780  4.4958
+\i (00:00:13) pick 1.778 3.5052 
+\t (00:00:13) last pick:  1.7780  3.5052
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow Form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 0.9652 3.5052 
+\t (00:00:13) last pick:  0.9652  3.5052
+\i (00:00:13) pick 1.4224 3.5052 
+\t (00:00:13) last pick:  1.4224  3.5052
+\t (00:00:13) Merged with existing line. Start next line.
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow Form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 1.4224 3.5052 
+\t (00:00:13) last pick:  1.4224  3.5052
+\i (00:00:13) pick 1.4224 4.4958 
+\t (00:00:13) last pick:  1.4224  4.4958
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow Form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 1.4224 4.4958 
+\t (00:00:14) last pick:  1.4224  4.4958
+\i (00:00:14) pick 0.9652 4.4958 
+\t (00:00:14) last pick:  0.9652  4.4958
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:14) setwindow Form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 0.9652 4.4958 
+\t (00:00:14) last pick:  0.9652  4.4958
+\i (00:00:14) pick 0.9652 3.5052 
+\t (00:00:14) last pick:  0.9652  3.5052
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:14) setwindow Form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 0.1778 3.5052 
+\t (00:00:14) last pick:  0.1778  3.5052
+\i (00:00:14) pick 0.635 3.5052 
+\t (00:00:14) last pick:  0.6350  3.5052
+\t (00:00:14) Merged with existing line. Start next line.
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:14) setwindow Form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 0.635 3.5052 
+\t (00:00:14) last pick:  0.6350  3.5052
+\i (00:00:14) pick 0.635 4.4958 
+\t (00:00:14) last pick:  0.6350  4.4958
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:14) setwindow Form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick 0.635 4.4958 
+\t (00:00:14) last pick:  0.6350  4.4958
+\i (00:00:14) pick 0.1778 4.4958 
+\t (00:00:14) last pick:  0.1778  4.4958
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:15) FORM mini line_width 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick 0.1778 4.4958 
+\t (00:00:15) last pick:  0.1778  4.4958
+\i (00:00:15) pick 0.1778 3.5052 
+\t (00:00:15) last pick:  0.1778  3.5052
+\i (00:00:15) done 
+\i (00:00:15) add line 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:15) FORM mini line_width 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -0.635 3.5052 
+\t (00:00:15) last pick:  -0.6350  3.5052
+\i (00:00:15) pick -0.1778 3.5052 
+\t (00:00:15) last pick:  -0.1778  3.5052
+\t (00:00:15) Merged with existing line. Start next line.
+\i (00:00:15) done 
+\i (00:00:15) add line 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:15) FORM mini line_width 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -0.1778 3.5052 
+\t (00:00:15) last pick:  -0.1778  3.5052
+\i (00:00:15) pick -0.1778 4.4958 
+\t (00:00:15) last pick:  -0.1778  4.4958
+\i (00:00:15) done 
+\i (00:00:15) add line 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:15) FORM mini line_width 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -0.1778 4.4958 
+\t (00:00:15) last pick:  -0.1778  4.4958
+\i (00:00:15) pick -0.635 4.4958 
+\t (00:00:15) last pick:  -0.6350  4.4958
+\i (00:00:15) done 
+\i (00:00:15) add line 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:15) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:15) FORM mini line_width 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -0.635 4.4958 
+\t (00:00:15) last pick:  -0.6350  4.4958
+\i (00:00:15) pick -0.635 3.5052 
+\t (00:00:15) last pick:  -0.6350  3.5052
+\i (00:00:15) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini line_width 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -1.4224 3.5052 
+\t (00:00:16) last pick:  -1.4224  3.5052
+\i (00:00:16) pick -0.9652 3.5052 
+\t (00:00:16) last pick:  -0.9652  3.5052
+\t (00:00:16) Merged with existing line. Start next line.
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini line_width 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -0.9652 3.5052 
+\t (00:00:16) last pick:  -0.9652  3.5052
+\i (00:00:16) pick -0.9652 4.4958 
+\t (00:00:16) last pick:  -0.9652  4.4958
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini line_width 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -0.9652 4.4958 
+\t (00:00:16) last pick:  -0.9652  4.4958
+\i (00:00:16) pick -1.4224 4.4958 
+\t (00:00:16) last pick:  -1.4224  4.4958
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini line_width 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -1.4224 4.4958 
+\t (00:00:16) last pick:  -1.4224  4.4958
+\i (00:00:16) pick -1.4224 3.5052 
+\t (00:00:16) last pick:  -1.4224  3.5052
+\i (00:00:16) done 
+\i (00:00:16) add line 
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:16) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:16) FORM mini line_width 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -2.2352 3.5052 
+\t (00:00:16) last pick:  -2.2352  3.5052
+\i (00:00:16) pick -1.778 3.5052 
+\t (00:00:16) last pick:  -1.7780  3.5052
+\t (00:00:16) Merged with existing line. Start next line.
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -1.778 3.5052 
+\t (00:00:17) last pick:  -1.7780  3.5052
+\i (00:00:17) pick -1.778 4.4958 
+\t (00:00:17) last pick:  -1.7780  4.4958
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -1.778 4.4958 
+\t (00:00:17) last pick:  -1.7780  4.4958
+\i (00:00:17) pick -2.2352 4.4958 
+\t (00:00:17) last pick:  -2.2352  4.4958
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -2.2352 4.4958 
+\t (00:00:17) last pick:  -2.2352  4.4958
+\i (00:00:17) pick -2.2352 3.5052 
+\t (00:00:17) last pick:  -2.2352  3.5052
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:17) FORM mini line_width 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -3.0226 3.5052 
+\t (00:00:17) last pick:  -3.0226  3.5052
+\i (00:00:17) pick -2.5654 3.5052 
+\t (00:00:17) last pick:  -2.5654  3.5052
+\t (00:00:17) Merged with existing line. Start next line.
+\i (00:00:17) done 
+\i (00:00:17) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -2.5654 3.5052 
+\t (00:00:18) last pick:  -2.5654  3.5052
+\i (00:00:18) pick -2.5654 4.4958 
+\t (00:00:18) last pick:  -2.5654  4.4958
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -2.5654 4.4958 
+\t (00:00:18) last pick:  -2.5654  4.4958
+\i (00:00:18) pick -3.0226 4.4958 
+\t (00:00:18) last pick:  -3.0226  4.4958
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -3.0226 4.4958 
+\t (00:00:18) last pick:  -3.0226  4.4958
+\i (00:00:18) pick -3.0226 3.5052 
+\t (00:00:18) last pick:  -3.0226  3.5052
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -3.5052 2.5654 
+\t (00:00:18) last pick:  -3.5052  2.5654
+\i (00:00:18) pick -3.5052 3.0226 
+\t (00:00:18) last pick:  -3.5052  3.0226
+\t (00:00:18) Merged with existing line. Start next line.
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini line_width 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -3.5052 3.0226 
+\t (00:00:18) last pick:  -3.5052  3.0226
+\i (00:00:18) pick -4.4958 3.0226 
+\t (00:00:18) last pick:  -4.4958  3.0226
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -4.4958 3.0226 
+\t (00:00:19) last pick:  -4.4958  3.0226
+\i (00:00:19) pick -4.4958 2.5654 
+\t (00:00:19) last pick:  -4.4958  2.5654
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -4.4958 2.5654 
+\t (00:00:19) last pick:  -4.4958  2.5654
+\i (00:00:19) pick -3.5052 2.5654 
+\t (00:00:19) last pick:  -3.5052  2.5654
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5052 1.778 
+\t (00:00:19) last pick:  -3.5052  1.7780
+\i (00:00:19) pick -3.5052 2.2352 
+\t (00:00:19) last pick:  -3.5052  2.2352
+\t (00:00:19) Merged with existing line. Start next line.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5052 2.2352 
+\t (00:00:19) last pick:  -3.5052  2.2352
+\i (00:00:19) pick -4.4958 2.2352 
+\t (00:00:19) last pick:  -4.4958  2.2352
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -4.4958 2.2352 
+\t (00:00:19) last pick:  -4.4958  2.2352
+\i (00:00:19) pick -4.4958 1.778 
+\t (00:00:19) last pick:  -4.4958  1.7780
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -4.4958 1.778 
+\t (00:00:19) last pick:  -4.4958  1.7780
+\i (00:00:19) pick -3.5052 1.778 
+\t (00:00:19) last pick:  -3.5052  1.7780
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5052 0.9652 
+\t (00:00:19) last pick:  -3.5052  0.9652
+\i (00:00:19) pick -3.5052 1.4224 
+\t (00:00:19) last pick:  -3.5052  1.4224
+\t (00:00:19) Merged with existing line. Start next line.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5052 1.4224 
+\t (00:00:19) last pick:  -3.5052  1.4224
+\i (00:00:19) pick -4.4958 1.4224 
+\t (00:00:19) last pick:  -4.4958  1.4224
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -4.4958 1.4224 
+\t (00:00:20) last pick:  -4.4958  1.4224
+\i (00:00:20) pick -4.4958 0.9652 
+\t (00:00:20) last pick:  -4.4958  0.9652
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -4.4958 0.9652 
+\t (00:00:20) last pick:  -4.4958  0.9652
+\i (00:00:20) pick -3.5052 0.9652 
+\t (00:00:20) last pick:  -3.5052  0.9652
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.5052 0.1778 
+\t (00:00:20) last pick:  -3.5052  0.1778
+\i (00:00:20) pick -3.5052 0.635 
+\t (00:00:20) last pick:  -3.5052  0.6350
+\t (00:00:20) Merged with existing line. Start next line.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.5052 0.635 
+\t (00:00:20) last pick:  -3.5052  0.6350
+\i (00:00:20) pick -4.4958 0.635 
+\t (00:00:20) last pick:  -4.4958  0.6350
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -4.4958 0.635 
+\t (00:00:20) last pick:  -4.4958  0.6350
+\i (00:00:20) pick -4.4958 0.1778 
+\t (00:00:20) last pick:  -4.4958  0.1778
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -4.4958 0.1778 
+\t (00:00:20) last pick:  -4.4958  0.1778
+\i (00:00:20) pick -3.5052 0.1778 
+\t (00:00:20) last pick:  -3.5052  0.1778
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.5052 -0.635 
+\t (00:00:20) last pick:  -3.5052  -0.6350
+\i (00:00:20) pick -3.5052 -0.1778 
+\t (00:00:20) last pick:  -3.5052  -0.1778
+\t (00:00:20) Merged with existing line. Start next line.
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.5052 -0.1778 
+\t (00:00:20) last pick:  -3.5052  -0.1778
+\i (00:00:20) pick -4.4958 -0.1778 
+\t (00:00:20) last pick:  -4.4958  -0.1778
+\i (00:00:20) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -4.4958 -0.1778 
+\t (00:00:21) last pick:  -4.4958  -0.1778
+\i (00:00:21) pick -4.4958 -0.635 
+\t (00:00:21) last pick:  -4.4958  -0.6350
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -4.4958 -0.635 
+\t (00:00:21) last pick:  -4.4958  -0.6350
+\i (00:00:21) pick -3.5052 -0.635 
+\t (00:00:21) last pick:  -3.5052  -0.6350
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -3.5052 -1.4224 
+\t (00:00:21) last pick:  -3.5052  -1.4224
+\i (00:00:21) pick -3.5052 -0.9652 
+\t (00:00:21) last pick:  -3.5052  -0.9652
+\t (00:00:21) Merged with existing line. Start next line.
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:21) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:21) FORM mini line_width 0 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick -3.5052 -0.9652 
+\t (00:00:21) last pick:  -3.5052  -0.9652
+\i (00:00:21) pick -4.4958 -0.9652 
+\t (00:00:21) last pick:  -4.4958  -0.9652
+\i (00:00:21) done 
+\i (00:00:21) add line 
+\i (00:00:22) setwindow Form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -4.4958 -0.9652 
+\t (00:00:22) last pick:  -4.4958  -0.9652
+\i (00:00:22) pick -4.4958 -1.4224 
+\t (00:00:22) last pick:  -4.4958  -1.4224
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow Form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -4.4958 -1.4224 
+\t (00:00:22) last pick:  -4.4958  -1.4224
+\i (00:00:22) pick -3.5052 -1.4224 
+\t (00:00:22) last pick:  -3.5052  -1.4224
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow Form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -3.5052 -2.2352 
+\t (00:00:22) last pick:  -3.5052  -2.2352
+\i (00:00:22) pick -3.5052 -1.778 
+\t (00:00:22) last pick:  -3.5052  -1.7780
+\t (00:00:22) Merged with existing line. Start next line.
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow Form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -3.5052 -1.778 
+\t (00:00:22) last pick:  -3.5052  -1.7780
+\i (00:00:22) pick -4.4958 -1.778 
+\t (00:00:22) last pick:  -4.4958  -1.7780
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:22) setwindow Form.mini 
+\i (00:00:22) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:22) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:22) FORM mini line_width 0 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick -4.4958 -1.778 
+\t (00:00:22) last pick:  -4.4958  -1.7780
+\i (00:00:22) pick -4.4958 -2.2352 
+\t (00:00:22) last pick:  -4.4958  -2.2352
+\i (00:00:22) done 
+\i (00:00:22) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -4.4958 -2.2352 
+\t (00:00:23) last pick:  -4.4958  -2.2352
+\i (00:00:23) pick -3.5052 -2.2352 
+\t (00:00:23) last pick:  -3.5052  -2.2352
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -3.5052 -3.0226 
+\t (00:00:23) last pick:  -3.5052  -3.0226
+\i (00:00:23) pick -3.5052 -2.5654 
+\t (00:00:23) last pick:  -3.5052  -2.5654
+\t (00:00:23) Merged with existing line. Start next line.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -3.5052 -2.5654 
+\t (00:00:23) last pick:  -3.5052  -2.5654
+\i (00:00:23) pick -4.4958 -2.5654 
+\t (00:00:23) last pick:  -4.4958  -2.5654
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -4.4958 -2.5654 
+\t (00:00:23) last pick:  -4.4958  -2.5654
+\i (00:00:23) pick -4.4958 -3.0226 
+\t (00:00:23) last pick:  -4.4958  -3.0226
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -4.4958 -3.0226 
+\t (00:00:23) last pick:  -4.4958  -3.0226
+\i (00:00:23) pick -3.5052 -3.0226 
+\t (00:00:23) last pick:  -3.5052  -3.0226
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -2.5654 -3.5052 
+\t (00:00:23) last pick:  -2.5654  -3.5052
+\i (00:00:23) pick -3.0226 -3.5052 
+\t (00:00:23) last pick:  -3.0226  -3.5052
+\t (00:00:23) Merged with existing line. Start next line.
+\i (00:00:23) done 
+\i (00:00:23) add line 
+\i (00:00:23) setwindow Form.mini 
+\i (00:00:23) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:23) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:23) FORM mini line_width 0 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick -3.0226 -3.5052 
+\t (00:00:23) last pick:  -3.0226  -3.5052
+\i (00:00:23) pick -3.0226 -4.4958 
+\t (00:00:23) last pick:  -3.0226  -4.4958
+\i (00:00:23) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow Form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -3.0226 -4.4958 
+\t (00:00:24) last pick:  -3.0226  -4.4958
+\i (00:00:24) pick -2.5654 -4.4958 
+\t (00:00:24) last pick:  -2.5654  -4.4958
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow Form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -2.5654 -4.4958 
+\t (00:00:24) last pick:  -2.5654  -4.4958
+\i (00:00:24) pick -2.5654 -3.5052 
+\t (00:00:24) last pick:  -2.5654  -3.5052
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow Form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -1.778 -3.5052 
+\t (00:00:24) last pick:  -1.7780  -3.5052
+\i (00:00:24) pick -2.2352 -3.5052 
+\t (00:00:24) last pick:  -2.2352  -3.5052
+\t (00:00:24) Merged with existing line. Start next line.
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow Form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:24) FORM mini line_width 0 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -2.2352 -3.5052 
+\t (00:00:24) last pick:  -2.2352  -3.5052
+\i (00:00:24) pick -2.2352 -4.4958 
+\t (00:00:24) last pick:  -2.2352  -4.4958
+\i (00:00:24) done 
+\i (00:00:24) add line 
+\i (00:00:24) setwindow Form.mini 
+\i (00:00:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:24) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -2.2352 -4.4958 
+\t (00:00:25) last pick:  -2.2352  -4.4958
+\i (00:00:25) pick -1.778 -4.4958 
+\t (00:00:25) last pick:  -1.7780  -4.4958
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow Form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -1.778 -4.4958 
+\t (00:00:25) last pick:  -1.7780  -4.4958
+\i (00:00:25) pick -1.778 -3.5052 
+\t (00:00:25) last pick:  -1.7780  -3.5052
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow Form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -0.9652 -3.5052 
+\t (00:00:25) last pick:  -0.9652  -3.5052
+\i (00:00:25) pick -1.4224 -3.5052 
+\t (00:00:25) last pick:  -1.4224  -3.5052
+\t (00:00:25) Merged with existing line. Start next line.
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow Form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -1.4224 -3.5052 
+\t (00:00:25) last pick:  -1.4224  -3.5052
+\i (00:00:25) pick -1.4224 -4.4958 
+\t (00:00:25) last pick:  -1.4224  -4.4958
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:25) setwindow Form.mini 
+\i (00:00:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:25) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:25) FORM mini line_width 0 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -1.4224 -4.4958 
+\t (00:00:25) last pick:  -1.4224  -4.4958
+\i (00:00:25) pick -0.9652 -4.4958 
+\t (00:00:25) last pick:  -0.9652  -4.4958
+\i (00:00:25) done 
+\i (00:00:25) add line 
+\i (00:00:26) setwindow Form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -0.9652 -4.4958 
+\t (00:00:26) last pick:  -0.9652  -4.4958
+\i (00:00:26) pick -0.9652 -3.5052 
+\t (00:00:26) last pick:  -0.9652  -3.5052
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow Form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -0.1778 -3.5052 
+\t (00:00:26) last pick:  -0.1778  -3.5052
+\i (00:00:26) pick -0.635 -3.5052 
+\t (00:00:26) last pick:  -0.6350  -3.5052
+\t (00:00:26) Merged with existing line. Start next line.
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow Form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -0.635 -3.5052 
+\t (00:00:26) last pick:  -0.6350  -3.5052
+\i (00:00:26) pick -0.635 -4.4958 
+\t (00:00:26) last pick:  -0.6350  -4.4958
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow Form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -0.635 -4.4958 
+\t (00:00:26) last pick:  -0.6350  -4.4958
+\i (00:00:26) pick -0.1778 -4.4958 
+\t (00:00:26) last pick:  -0.1778  -4.4958
+\i (00:00:26) done 
+\i (00:00:26) add line 
+\i (00:00:26) setwindow Form.mini 
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:26) FORM mini line_width 0 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -0.1778 -4.4958 
+\t (00:00:26) last pick:  -0.1778  -4.4958
+\i (00:00:26) pick -0.1778 -3.5052 
+\t (00:00:26) last pick:  -0.1778  -3.5052
+\i (00:00:26) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow Form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 0.635 -3.5052 
+\t (00:00:27) last pick:  0.6350  -3.5052
+\i (00:00:27) pick 0.1778 -3.5052 
+\t (00:00:27) last pick:  0.1778  -3.5052
+\t (00:00:27) Merged with existing line. Start next line.
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow Form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 0.1778 -3.5052 
+\t (00:00:27) last pick:  0.1778  -3.5052
+\i (00:00:27) pick 0.1778 -4.4958 
+\t (00:00:27) last pick:  0.1778  -4.4958
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow Form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 0.1778 -4.4958 
+\t (00:00:27) last pick:  0.1778  -4.4958
+\i (00:00:27) pick 0.635 -4.4958 
+\t (00:00:27) last pick:  0.6350  -4.4958
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow Form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 0.635 -4.4958 
+\t (00:00:27) last pick:  0.6350  -4.4958
+\i (00:00:27) pick 0.635 -3.5052 
+\t (00:00:27) last pick:  0.6350  -3.5052
+\i (00:00:27) done 
+\i (00:00:27) add line 
+\i (00:00:27) setwindow Form.mini 
+\i (00:00:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:27) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:27) FORM mini line_width 0 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 1.4224 -3.5052 
+\t (00:00:27) last pick:  1.4224  -3.5052
+\i (00:00:27) pick 0.9652 -3.5052 
+\t (00:00:27) last pick:  0.9652  -3.5052
+\t (00:00:27) Merged with existing line. Start next line.
+\i (00:00:27) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow Form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 0.9652 -3.5052 
+\t (00:00:28) last pick:  0.9652  -3.5052
+\i (00:00:28) pick 0.9652 -4.4958 
+\t (00:00:28) last pick:  0.9652  -4.4958
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow Form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 0.9652 -4.4958 
+\t (00:00:28) last pick:  0.9652  -4.4958
+\i (00:00:28) pick 1.4224 -4.4958 
+\t (00:00:28) last pick:  1.4224  -4.4958
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow Form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 1.4224 -4.4958 
+\t (00:00:28) last pick:  1.4224  -4.4958
+\i (00:00:28) pick 1.4224 -3.5052 
+\t (00:00:28) last pick:  1.4224  -3.5052
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow Form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:28) FORM mini line_width 0 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 2.2352 -3.5052 
+\t (00:00:28) last pick:  2.2352  -3.5052
+\i (00:00:28) pick 1.778 -3.5052 
+\t (00:00:28) last pick:  1.7780  -3.5052
+\t (00:00:28) Merged with existing line. Start next line.
+\i (00:00:28) done 
+\i (00:00:28) add line 
+\i (00:00:28) setwindow Form.mini 
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 1.778 -3.5052 
+\t (00:00:29) last pick:  1.7780  -3.5052
+\i (00:00:29) pick 1.778 -4.4958 
+\t (00:00:29) last pick:  1.7780  -4.4958
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow Form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 1.778 -4.4958 
+\t (00:00:29) last pick:  1.7780  -4.4958
+\i (00:00:29) pick 2.2352 -4.4958 
+\t (00:00:29) last pick:  2.2352  -4.4958
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow Form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 2.2352 -4.4958 
+\t (00:00:29) last pick:  2.2352  -4.4958
+\i (00:00:29) pick 2.2352 -3.5052 
+\t (00:00:29) last pick:  2.2352  -3.5052
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow Form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 3.0226 -3.5052 
+\t (00:00:29) last pick:  3.0226  -3.5052
+\i (00:00:29) pick 2.5654 -3.5052 
+\t (00:00:29) last pick:  2.5654  -3.5052
+\t (00:00:29) Merged with existing line. Start next line.
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:29) setwindow Form.mini 
+\i (00:00:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) FORM mini line_width 0 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 2.5654 -3.5052 
+\t (00:00:29) last pick:  2.5654  -3.5052
+\i (00:00:29) pick 2.5654 -4.4958 
+\t (00:00:29) last pick:  2.5654  -4.4958
+\i (00:00:29) done 
+\i (00:00:29) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 2.5654 -4.4958 
+\t (00:00:30) last pick:  2.5654  -4.4958
+\i (00:00:30) pick 3.0226 -4.4958 
+\t (00:00:30) last pick:  3.0226  -4.4958
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 3.0226 -4.4958 
+\t (00:00:30) last pick:  3.0226  -4.4958
+\i (00:00:30) pick 3.0226 -3.5052 
+\t (00:00:30) last pick:  3.0226  -3.5052
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 3.5052 -2.5654 
+\t (00:00:30) last pick:  3.5052  -2.5654
+\i (00:00:30) pick 3.5052 -3.0226 
+\t (00:00:30) last pick:  3.5052  -3.0226
+\t (00:00:30) Merged with existing line. Start next line.
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 3.5052 -3.0226 
+\t (00:00:30) last pick:  3.5052  -3.0226
+\i (00:00:30) pick 4.4958 -3.0226 
+\t (00:00:30) last pick:  4.4958  -3.0226
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 4.4958 -3.0226 
+\t (00:00:30) last pick:  4.4958  -3.0226
+\i (00:00:30) pick 4.4958 -2.5654 
+\t (00:00:30) last pick:  4.4958  -2.5654
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 4.4958 -2.5654 
+\t (00:00:30) last pick:  4.4958  -2.5654
+\i (00:00:30) pick 3.5052 -2.5654 
+\t (00:00:30) last pick:  3.5052  -2.5654
+\i (00:00:30) done 
+\i (00:00:30) add line 
+\i (00:00:30) setwindow Form.mini 
+\i (00:00:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:30) FORM mini line_width 0 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick 3.5052 -1.778 
+\t (00:00:30) last pick:  3.5052  -1.7780
+\i (00:00:30) pick 3.5052 -2.2352 
+\t (00:00:30) last pick:  3.5052  -2.2352
+\t (00:00:30) Merged with existing line. Start next line.
+\i (00:00:30) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 3.5052 -2.2352 
+\t (00:00:31) last pick:  3.5052  -2.2352
+\i (00:00:31) pick 4.4958 -2.2352 
+\t (00:00:31) last pick:  4.4958  -2.2352
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 4.4958 -2.2352 
+\t (00:00:31) last pick:  4.4958  -2.2352
+\i (00:00:31) pick 4.4958 -1.778 
+\t (00:00:31) last pick:  4.4958  -1.7780
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 4.4958 -1.778 
+\t (00:00:31) last pick:  4.4958  -1.7780
+\i (00:00:31) pick 3.5052 -1.778 
+\t (00:00:31) last pick:  3.5052  -1.7780
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 3.5052 -0.9652 
+\t (00:00:31) last pick:  3.5052  -0.9652
+\i (00:00:31) pick 3.5052 -1.4224 
+\t (00:00:31) last pick:  3.5052  -1.4224
+\t (00:00:31) Merged with existing line. Start next line.
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 3.5052 -1.4224 
+\t (00:00:31) last pick:  3.5052  -1.4224
+\i (00:00:31) pick 4.4958 -1.4224 
+\t (00:00:31) last pick:  4.4958  -1.4224
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 4.4958 -1.4224 
+\t (00:00:31) last pick:  4.4958  -1.4224
+\i (00:00:31) pick 4.4958 -0.9652 
+\t (00:00:31) last pick:  4.4958  -0.9652
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:31) FORM mini line_width 0 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick 4.4958 -0.9652 
+\t (00:00:31) last pick:  4.4958  -0.9652
+\i (00:00:31) pick 3.5052 -0.9652 
+\t (00:00:31) last pick:  3.5052  -0.9652
+\i (00:00:31) done 
+\i (00:00:31) add line 
+\i (00:00:31) setwindow Form.mini 
+\i (00:00:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 3.5052 -0.1778 
+\t (00:00:32) last pick:  3.5052  -0.1778
+\i (00:00:32) pick 3.5052 -0.635 
+\t (00:00:32) last pick:  3.5052  -0.6350
+\t (00:00:32) Merged with existing line. Start next line.
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 3.5052 -0.635 
+\t (00:00:32) last pick:  3.5052  -0.6350
+\i (00:00:32) pick 4.4958 -0.635 
+\t (00:00:32) last pick:  4.4958  -0.6350
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 4.4958 -0.635 
+\t (00:00:32) last pick:  4.4958  -0.6350
+\i (00:00:32) pick 4.4958 -0.1778 
+\t (00:00:32) last pick:  4.4958  -0.1778
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 4.4958 -0.1778 
+\t (00:00:32) last pick:  4.4958  -0.1778
+\i (00:00:32) pick 3.5052 -0.1778 
+\t (00:00:32) last pick:  3.5052  -0.1778
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 3.5052 0.635 
+\t (00:00:32) last pick:  3.5052  0.6350
+\i (00:00:32) pick 3.5052 0.1778 
+\t (00:00:32) last pick:  3.5052  0.1778
+\t (00:00:32) Merged with existing line. Start next line.
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 3.5052 0.1778 
+\t (00:00:32) last pick:  3.5052  0.1778
+\i (00:00:32) pick 4.4958 0.1778 
+\t (00:00:32) last pick:  4.4958  0.1778
+\i (00:00:32) done 
+\i (00:00:32) add line 
+\i (00:00:32) setwindow Form.mini 
+\i (00:00:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:32) FORM mini line_width 0 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick 4.4958 0.1778 
+\t (00:00:32) last pick:  4.4958  0.1778
+\i (00:00:32) pick 4.4958 0.635 
+\t (00:00:32) last pick:  4.4958  0.6350
+\i (00:00:32) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow Form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 4.4958 0.635 
+\t (00:00:33) last pick:  4.4958  0.6350
+\i (00:00:33) pick 3.5052 0.635 
+\t (00:00:33) last pick:  3.5052  0.6350
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow Form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 3.5052 1.4224 
+\t (00:00:33) last pick:  3.5052  1.4224
+\i (00:00:33) pick 3.5052 0.9652 
+\t (00:00:33) last pick:  3.5052  0.9652
+\t (00:00:33) Merged with existing line. Start next line.
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow Form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 3.5052 0.9652 
+\t (00:00:33) last pick:  3.5052  0.9652
+\i (00:00:33) pick 4.4958 0.9652 
+\t (00:00:33) last pick:  4.4958  0.9652
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:33) setwindow Form.mini 
+\i (00:00:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:33) FORM mini line_width 0 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 4.4958 0.9652 
+\t (00:00:33) last pick:  4.4958  0.9652
+\i (00:00:33) pick 4.4958 1.4224 
+\t (00:00:33) last pick:  4.4958  1.4224
+\i (00:00:33) done 
+\i (00:00:33) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 4.4958 1.4224 
+\t (00:00:34) last pick:  4.4958  1.4224
+\i (00:00:34) pick 3.5052 1.4224 
+\t (00:00:34) last pick:  3.5052  1.4224
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 3.5052 2.2352 
+\t (00:00:34) last pick:  3.5052  2.2352
+\i (00:00:34) pick 3.5052 1.778 
+\t (00:00:34) last pick:  3.5052  1.7780
+\t (00:00:34) Merged with existing line. Start next line.
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 3.5052 1.778 
+\t (00:00:34) last pick:  3.5052  1.7780
+\i (00:00:34) pick 4.4958 1.778 
+\t (00:00:34) last pick:  4.4958  1.7780
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 4.4958 1.778 
+\t (00:00:34) last pick:  4.4958  1.7780
+\i (00:00:34) pick 4.4958 2.2352 
+\t (00:00:34) last pick:  4.4958  2.2352
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 4.4958 2.2352 
+\t (00:00:34) last pick:  4.4958  2.2352
+\i (00:00:34) pick 3.5052 2.2352 
+\t (00:00:34) last pick:  3.5052  2.2352
+\i (00:00:34) done 
+\i (00:00:34) add line 
+\i (00:00:34) setwindow Form.mini 
+\i (00:00:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:34) FORM mini line_width 0 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 3.5052 3.0226 
+\t (00:00:34) last pick:  3.5052  3.0226
+\i (00:00:34) pick 3.5052 2.5654 
+\t (00:00:34) last pick:  3.5052  2.5654
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow Form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 3.5052 2.5654 
+\t (00:00:35) last pick:  3.5052  2.5654
+\i (00:00:35) pick 4.4958 2.5654 
+\t (00:00:35) last pick:  4.4958  2.5654
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow Form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 4.4958 2.5654 
+\t (00:00:35) last pick:  4.4958  2.5654
+\i (00:00:35) pick 4.4958 3.0226 
+\t (00:00:35) last pick:  4.4958  3.0226
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow Form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 4.4958 3.0226 
+\t (00:00:35) last pick:  4.4958  3.0226
+\i (00:00:35) pick 3.5052 3.0226 
+\t (00:00:35) last pick:  3.5052  3.0226
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow Form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick -3.5052 2.2352 
+\t (00:00:35) last pick:  -3.5052  2.2352
+\i (00:00:35) pick -2.2352 3.5052 
+\t (00:00:35) last pick:  -2.2352  3.5052
+\t (00:00:35) Merged with existing line. Start next line.
+\i (00:00:35) done 
+\i (00:00:35) add line 
+\i (00:00:35) setwindow Form.mini 
+\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:35) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:35) FORM mini line_width 0 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick -1.778 -3.5052 
+\t (00:00:35) last pick:  -1.7780  -3.5052
+\i (00:00:35) pick 1.778 -3.5052 
+\t (00:00:35) last pick:  1.7780  -3.5052
+\t (00:00:35) Merged with existing line. Start next line.
+\i (00:00:35) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow Form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:36) FORM mini line_width 0 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick 3.5052 -2.2352 
+\t (00:00:36) last pick:  3.5052  -2.2352
+\i (00:00:36) pick 3.5052 2.2352 
+\t (00:00:36) last pick:  3.5052  2.2352
+\t (00:00:36) Merged with existing line. Start next line.
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow Form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:36) FORM mini line_width 0 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick 2.5654 3.5052 
+\t (00:00:36) last pick:  2.5654  3.5052
+\i (00:00:36) pick -2.5654 3.5052 
+\t (00:00:36) last pick:  -2.5654  3.5052
+\t (00:00:36) Merged with existing line. Start next line.
+\i (00:00:36) done 
+\i (00:00:36) add line 
+\i (00:00:36) setwindow Form.mini 
+\i (00:00:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:36) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:36) FORM mini line_width 0 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -3.5052 3.0226 
+\t (00:00:36) last pick:  -3.5052  3.0226
+\i (00:00:36) pick -3.5052 -3.0226 
+\t (00:00:36) last pick:  -3.5052  -3.0226
+\t (00:00:36) Merged with existing line. Start next line.
+\i (00:00:36) done 
+\i (00:00:36) label refdes 
+\t (00:00:36) Pick text location.
+\i (00:00:36) setwindow Form.mini 
+\i (00:00:36) FORM mini text_block 3 
+\i (00:00:36) FORM mini angle 0 
+\i (00:00:36) FORM mini mirror NO 
+\i (00:00:36) FORM mini text_justification Center 
+\i (00:00:36) FORM mini class REF DES 
+\i (00:00:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick 0 0.75 
+\t (00:00:36) last pick:  0.0000  0.7500
+\t (00:00:36) Enter text string.
+\i (00:00:36) Text REF 
+\i (00:00:36) done 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) label refdes 
+\t (00:00:37) Pick text location.
+\i (00:00:37) setwindow Form.mini 
+\i (00:00:37) FORM mini text_block 3 
+\i (00:00:37) FORM mini angle 0 
+\i (00:00:37) FORM mini mirror NO 
+\i (00:00:37) FORM mini text_justification Center 
+\i (00:00:37) FORM mini class REF DES 
+\i (00:00:37) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 0 0.75 
+\t (00:00:37) last pick:  0.0000  0.7500
+\t (00:00:37) Enter text string.
+\i (00:00:37) Text REF 
+\i (00:00:37) done 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) label device 
+\t (00:00:37) Pick text location.
+\i (00:00:37) setwindow Form.mini 
+\i (00:00:37) FORM mini text_block 3 
+\i (00:00:37) FORM mini angle 0 
+\i (00:00:37) FORM mini mirror NO 
+\i (00:00:37) FORM mini text_justification Center 
+\i (00:00:37) FORM mini class DEVICE TYPE 
+\i (00:00:37) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick 0 0.75 
+\t (00:00:37) last pick:  0.0000  0.7500
+\t (00:00:37) Enter text string.
+\i (00:00:37) Text DEV 
+\t (00:00:37) Enter text string.
+\i (00:00:37) done 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) chg origin 
+\t (00:00:37) Pick new location for drawing origin.
+\i (00:00:37) pick -0 -0 
+\t (00:00:37) last pick:  0.0000  0.0000
+\t (00:00:37) Pick point (0.0000 0.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:37) save 
+\t (00:00:37) Symbol 'qfp80p900x900x120-32n.psm' created.
+\i (00:00:37) exit 
+\t (00:00:38)     Journal end - Mon Jan 23 13:12:17 2017

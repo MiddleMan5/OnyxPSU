@@ -1,0 +1,81 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 23 13:06:26 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=23272 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Reference/SnapEDA/QFN-24/QFN50P400X400X100-25N.dra
+\i (00:00:02) trapsize 6420
+\i (00:00:02) trapsize 6616
+\i (00:00:02) trapsize 7089
+\i (00:00:02) trapsize 6629
+\i (00:00:02) trapsize 6629
+\i (00:00:03) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 4.9348 0.3243
+\i (00:00:03) trapsize 3314
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -8.7199 -0.2059
+\i (00:00:03) trapsize 1657
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -9.4490 -0.2059
+\i (00:00:04) trapsize 829
+\i (00:00:06) pick grid 0.8252 3.2907
+\t (00:00:06) last pick:  0.0000  2.5400
+\e (00:00:07) Command not found: Del
+\i (00:00:08) copy 
+\i (00:00:09) delete 
+\i (00:00:09) generaledit 
+\i (00:00:09) pick grid -3.3507 2.0147
+\t (00:00:09) last pick:  -2.5400  2.5400
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -3.2347 -1.4653
+\i (00:00:10) trapsize 1657
+\i (00:00:11) pick grid 0.2949 -3.0561
+\t (00:00:11) last pick:  0.0000  -2.5400
+\i (00:00:11) pick grid 1.4880 -3.0561
+\t (00:00:11) last pick:  2.5400  -2.5400
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1.5211 0.0925
+\i (00:00:11) trapsize 829
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1.5211 0.0925
+\i (00:00:11) trapsize 414
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 0.5932 0.1506
+\i (00:00:12) trapsize 829
+\i (00:00:13) delete 
+\i (00:00:14) pick grid 0.2783 -2.7329
+\t (00:00:14) last pick:  0.0000  -2.5400
+\t (00:00:14) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:14) pick grid 4.6366 -1.3243
+\t (00:00:14) last pick:  5.0800  -2.5400
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 2.8966 0.2002
+\i (00:00:15) trapsize 1657
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 0.0132 -0.3632
+\i (00:00:16) trapsize 829
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 0.0132 -0.3632
+\i (00:00:16) trapsize 414
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 2.8221 0.6808
+\i (00:00:17) trapsize 829
+\i (00:00:17) Esc 
+\i (00:00:18) save 
+\i (00:00:19) fillin yes 
+\t (00:00:20) Symbol 'qfn50p400x400x100-25n.psm' created.
+\i (00:00:20) generaledit 
+\i (00:00:20) exit 
+\t (00:00:21)     Journal end - Mon Jan 23 13:06:47 2017

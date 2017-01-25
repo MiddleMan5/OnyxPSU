@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QFP80P900X900X120-32N.dra                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jan 23 13:12:16 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Reference/SnapEDA/ATMEGA32U2-AU
+    Name      = qfp80p900x900x120-32n.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,26 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 23 12:52:59 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=17080 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Reference/SnapEDA/24-VQFN/QFN50P400X400X100-25N.dra
+\i (00:00:02) trapsize 6420
+\i (00:00:02) trapsize 6616
+\i (00:00:03) trapsize 7089
+\i (00:00:03) trapsize 6629
+\i (00:00:03) trapsize 6629
+\i (00:00:03) generaledit 
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -0.5006 -1.9294
+\i (00:00:04) trapsize 3314
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -9.9131 -1.9294
+\i (00:00:04) trapsize 1657
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -9.9130 -1.9294
+\i (00:00:04) trapsize 829
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Mon Jan 23 12:53:06 2017

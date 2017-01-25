@@ -1,0 +1,113 @@
+# Allegro Script
+version 16.6
+new
+newdrawfillin "ps_r75_147_d7500.dra" "Shape Symbol"
+setwindow pcb
+
+#--------------------------------------------
+# Drawing Parameters
+#--------------------------------------------
+prmed
+setwindow Form.prmedit
+FORM prmedit design
+FORM prmedit units Millimeter
+FORM prmedit accuracy 4
+FORM prmedit size other
+FORM prmedit x -7.5
+FORM prmedit y -7.5
+FORM prmedit width 15
+FORM prmedit height 15
+FORM prmedit x -7.5
+FORM prmedit y -7.5
+FORM prmedit done
+setwindow pcb
+
+#--------------------------------------------
+# Graphics
+#--------------------------------------------
+shape add
+setwindow Form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass
+FORM mini dyns_fill_type Static solid
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+
+#--------------------------------------------
+# Bottom Line
+#--------------------------------------------
+pick 0.1038 -0.735
+pick -0.1038 -0.735
+
+#--------------------------------------------
+# Bottom Left Arc
+#--------------------------------------------
+setwindow Form.mini
+FORM mini dyns_lock_mode Arc
+setwindow pcb
+# End Point
+pick -0.3794 -0.4594
+# Mid Point
+pick -0.2987 -0.6543
+
+#--------------------------------------------
+# Left Line
+#--------------------------------------------
+pick -0.3794 0.4594
+
+#--------------------------------------------
+# Top Left Arc
+#--------------------------------------------
+setwindow Form.mini
+FORM mini dyns_lock_mode Arc
+setwindow pcb
+# End Point
+pick -0.1038 0.735
+# Mid Point
+pick -0.2987 0.6543
+
+#--------------------------------------------
+# Top Line
+#--------------------------------------------
+pick 0.1038 0.735
+
+#--------------------------------------------
+# Top Right Arc
+#--------------------------------------------
+setwindow Form.mini
+FORM mini dyns_lock_mode Arc
+setwindow pcb
+# End Point
+pick 0.3794 0.4594
+# Mid Point
+pick 0.2987 0.6543
+
+#--------------------------------------------
+# Right Line
+#--------------------------------------------
+pick 0.3794 -0.4594
+
+#--------------------------------------------
+# Bottom Right Arc
+#--------------------------------------------
+setwindow Form.mini
+FORM mini dyns_lock_mode Arc
+setwindow pcb
+# End Point
+pick 0.1038 -0.735
+# Mid Point
+pick 0.2987 -0.6543
+
+#--------------------------------------------
+# Done Drawing
+#--------------------------------------------
+done
+
+save_as
+fillin "ps_r75_147_d7500.dra"
+create symbol
+fillin "ps_r75_147_d7500.ssm"
+fillin yes
+exit
+fillin yes

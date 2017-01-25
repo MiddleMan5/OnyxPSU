@@ -1,0 +1,18 @@
+ParanoidStudio
+==============
+
+Firmware versions:
+------------------
+/lufa_usb2ax:         Default firmware, used to communicate with Dynamixels. TX and RX must be tied together (JP1 closed, which it is by default).
+/lufa_usb2ax_serial:  USB to Serial firmware. TX and RX must be untied by cutting the trace between the pads of JP1.
+
+Se changelog.txt for changes to the default firmware only.
+
+How to install the firmware?
+----------------------------
+Upload the .hex file using Atmel FLIP.
+For a firmware update, put the board in bootloader mode by opening the virtual serial port at 1200bps and closing it.
+
+How to build the firmware?
+--------------------------
+Using ATMEL Studio 6.x, open the solution and compile.

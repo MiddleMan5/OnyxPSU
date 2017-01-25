@@ -1,0 +1,34 @@
+﻿<Window x:Class="DynamixelPacketSniffer.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Dynamixel Packet Analyser" Height="486" Width="1063">
+    <Window.Resources>
+        <Style TargetType="ListViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        </Style>
+        <DataTemplate x:Key="TimeTemplate">
+            <TextBlock HorizontalAlignment="Right" Text="{Binding Path=Time}"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Button Margin="469,15,497,0" Name="button1" Height="23" VerticalAlignment="Top" Click="bLoad_Click">Load</Button>
+        <TextBox Margin="12,0,497,0" Name="tbPacketString" Height="27" VerticalAlignment="Bottom" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,0,0,30" Name="label1" VerticalAlignment="Bottom" Width="82">Packet String</Label>
+        <ListView HorizontalAlignment="Right" Name="lvDataBytes" Width="70" Margin="0,30,414,0" />
+        <Label Height="28" HorizontalAlignment="Right" Name="label2" VerticalAlignment="Top" Width="70" Margin="0,0,414,0">Data Bytes</Label>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,15,0,0" Name="tbFileName" VerticalAlignment="Top" Width="440" Text="../../sample0001.csv"></TextBox>
+        <ListView Margin="12,50,497,69" Name="lvPackets">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Packet Information" RenderOptions.ClearTypeHint="Auto">
+
+                    <GridViewColumn  Header="Time" Width="80" CellTemplate="{StaticResource TimeTemplate}" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=ID}" Header="ID" Width="35" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Command}" Header="Command" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Data}" Header="Parameters" Width="150"/>
+                </GridView>
+
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
+
