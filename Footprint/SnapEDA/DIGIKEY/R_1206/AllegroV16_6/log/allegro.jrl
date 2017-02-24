@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sun Jan 29 22:13:15 2017
+\t (00:00:01)         Host=QUINN-XPS User=dmigh Pid=1336 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/R_1206/AllegroV16_6/DK_1206.dra
+\i (00:00:03) trapsize 41
+\i (00:00:03) trapsize 40
+\i (00:00:03) trapsize 42
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 43
+\i (00:00:04) save 
+\i (00:00:04) fillin yes 
+\t (00:00:05) Symbol 'dk_1206.psm' created.
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Sun Jan 29 22:13:19 2017

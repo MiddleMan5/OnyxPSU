@@ -1,0 +1,101 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 28 16:07:38 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=13212 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/ATXMEGA-TQFP-32.dra
+\i (00:00:00) trapsize 9184
+\i (00:00:00) trapsize 9300
+\i (00:00:00) trapsize 9888
+\i (00:00:00) trapsize 9316
+\i (00:00:00) trapsize 9316
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -1.6299 -7.2352
+\i (00:00:02) trapsize 4658
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -19.8884 -7.2352
+\i (00:00:02) trapsize 2329
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -19.8884 -7.2352
+\i (00:00:02) trapsize 1164
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -19.8884 -7.2352
+\i (00:00:02) trapsize 582
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -16.7677 -6.2803
+\i (00:00:02) trapsize 1164
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -16.6046 -6.2803
+\i (00:00:02) trapsize 2329
+\i (00:00:09) refresh symbol 
+\i (00:00:10) setwindow form.upd_element
+\i (00:00:10) FORM upd_element close  
+\i (00:00:17) setwindow pcb
+\i (00:00:17) dbdoctor 
+\i (00:00:19) setwindow form.dbdoctor_allegro
+\i (00:00:19) FORM dbdoctor_allegro close  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) filemgr 
+\i (00:00:40) define property 
+\i (00:00:48) prmed 
+\i (00:00:49) setwindow form.prmedit
+\i (00:00:49) FORM prmedit cancel  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) show property 
+\i (00:01:01) setwindow form.show_prop
+\i (00:01:01) FORM show_prop proplist Auto_Rename 
+\i (00:01:02) FORM show_prop proplist Auto_Generated_Term 
+\i (00:01:03) FORM show_prop proplist Auto_Rename 
+\i (00:01:03) FORM show_prop proplist Backdrill_Exclude 
+\i (00:01:04) FORM show_prop proplist Backdrill_Max_Pth_Stub 
+\i (00:01:08) FORM show_prop proplist Backdrill_Max_Pth_Stub 
+\i (00:01:09) FORM show_prop proplist Backdrill_Exclude 
+\i (00:01:10) FORM show_prop proplist Backdrill_Max_Pth_Stub 
+\i (00:01:13) FORM show_prop proplist Backdrill_Exclude 
+\i (00:01:28) FORM show_prop proplist Negative_Plane_Sliver_Spacing 
+\i (00:01:28) FORM show_prop proplist Net_Short 
+\i (00:01:29) FORM show_prop proplist No_Gloss 
+\i (00:01:29) FORM show_prop proplist No_Gloss 
+\i (00:01:29) FORM show_prop proplist No_Lin2shape_Fat 
+\i (00:01:30) FORM show_prop proplist Line_To_Thrupin_Spacing 
+\i (00:01:31) FORM show_prop proplist Line_To_Testpin_Spacing 
+\i (00:01:32) FORM show_prop proplist Hole_To_Via_Spacing 
+\i (00:01:32) FORM show_prop proplist Ic_Design_Cell_Master_Name 
+\i (00:01:32) FORM show_prop proplist Idf_Other_Outline 
+\i (00:01:33) FORM show_prop proplist Idx_Bend_Type_Info 
+\i (00:01:34) FORM show_prop graphics  
+\i (00:01:35) FORM show_prop proplist2 Assembly_Constraint_Set 
+\i (00:01:36) FORM show_prop done  
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom in -1.5834 1.5448
+\i (00:01:37) trapsize 1164
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in -0.8149 1.6846
+\i (00:01:38) trapsize 582
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in -0.7217 1.6497
+\i (00:01:38) trapsize 291
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out -0.6751 1.6089
+\i (00:01:38) trapsize 582
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out -0.6751 1.6090
+\i (00:01:38) trapsize 1164
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out -0.6751 1.5623
+\i (00:01:38) trapsize 2329
+\i (00:01:39) exit 
+\t (00:01:40)     Journal end - Sat Jan 28 16:09:18 2017

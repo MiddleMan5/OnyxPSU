@@ -1,0 +1,102 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 28 21:57:39 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=10272 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 857
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 861
+\i (00:00:00) trapsize 882
+\i (00:00:00) trapsize 1448
+\i (00:00:00) replay ps_r30_83_d5000.psx 
+\i (00:00:00) version 16.6 
+\t (00:00:00) Script version: 16.6
+\i (00:00:00) new 
+\i (00:00:00) newdrawfillin ps_r30_83_d5000.dra 'Shape Symbol' 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 1448
+\i (00:00:00) trapsize 1448
+\i (00:00:00) setwindow pcb 
+\i (00:00:00) prmed 
+\i (00:00:01) setwindow Form.prmedit 
+\i (00:00:01) FORM prmedit design 
+\i (00:00:01) FORM prmedit units Millimeter 
+\e (00:00:01) Change may cause round-off; run dbcheck.
+\i (00:00:01) FORM prmedit accuracy 4 
+\i (00:00:01) FORM prmedit size other 
+\e (00:00:01) Value for field is not legal
+\i (00:00:01) FORM prmedit x -7.5 
+\i (00:00:01) FORM prmedit y -7.5 
+\i (00:00:01) FORM prmedit width 15 
+\i (00:00:01) FORM prmedit height 15 
+\i (00:00:01) FORM prmedit x -7.5 
+\i (00:00:01) FORM prmedit y -7.5 
+\i (00:00:01) FORM prmedit done 
+\w (00:00:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:01) trapsize 36780
+\t (00:00:01) Performing DRC...
+\t (00:00:01) No DRC errors detected.
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) shape add 
+\i (00:00:01) setwindow Form.mini 
+\i (00:00:01) FORM mini class PACKAGE GEOMETRY 
+\e (00:00:01) Value for field is not legal
+\i (00:00:01) FORM mini subclass 
+\e (00:00:01) Value for field is not legal
+\i (00:00:01) FORM mini dyns_fill_type Static solid 
+\i (00:00:01) FORM mini dyns_grid None 
+\i (00:00:01) FORM mini dyns_lock_mode Line 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) pick 0.0462 -0.415 
+\t (00:00:01) last pick:  0.0462  -0.4150
+\i (00:00:01) pick -0.0462 -0.415 
+\t (00:00:01) last pick:  -0.0462  -0.4150
+\i (00:00:01) setwindow Form.mini 
+\i (00:00:01) FORM mini dyns_lock_mode Arc 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) pick -0.15 -0.3112 
+\t (00:00:01) last pick:  -0.1500  -0.3112
+\i (00:00:01) pick -0.1196 -0.3846 
+\t (00:00:01) last pick:  -0.1196  -0.3846
+\i (00:00:01) pick -0.15 0.3112 
+\t (00:00:01) last pick:  -0.1500  0.3112
+\i (00:00:01) setwindow Form.mini 
+\i (00:00:01) FORM mini dyns_lock_mode Arc 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) pick -0.0462 0.415 
+\t (00:00:01) last pick:  -0.0462  0.4150
+\i (00:00:01) pick -0.1196 0.3846 
+\t (00:00:01) last pick:  -0.1196  0.3846
+\i (00:00:01) pick 0.0462 0.415 
+\t (00:00:01) last pick:  0.0462  0.4150
+\i (00:00:01) setwindow Form.mini 
+\i (00:00:01) FORM mini dyns_lock_mode Arc 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) pick 0.15 0.3112 
+\t (00:00:01) last pick:  0.1500  0.3112
+\i (00:00:01) pick 0.1196 0.3846 
+\t (00:00:01) last pick:  0.1196  0.3846
+\i (00:00:01) pick 0.15 -0.3112 
+\t (00:00:01) last pick:  0.1500  -0.3112
+\i (00:00:01) setwindow Form.mini 
+\i (00:00:01) FORM mini dyns_lock_mode Arc 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) pick 0.0462 -0.415 
+\t (00:00:01) last pick:  0.0462  -0.4150
+\i (00:00:01) pick 0.1196 -0.3846 
+\t (00:00:01) last pick:  0.1196  -0.3846
+\i (00:00:01) done 
+\i (00:00:01) save_as 
+\i (00:00:01) fillin ps_r30_83_d5000.dra 
+\i (00:00:02) fillin yes 
+\t (00:00:02) Symbol 'ps_r30_83_d5000.ssm' created.
+\i (00:00:02) create symbol 
+\i (00:00:02) fillin ps_r30_83_d5000.ssm 
+\i (00:00:02) fillin yes 
+\t (00:00:02) Creating shape symbol 'C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/OLD/DFN8-2X2/ps_r30_83_d5000.ssm'.
+\t (00:00:02) Starting Create symbol...
+\i (00:00:03) exit 
+\e (00:00:03) Do you want to save the changes you made to C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/OLD/DFN8-2X2/ps_r30_83_d5000.dra?
+\i (00:00:03) fillin yes 
+\t (00:00:03) Symbol 'ps_r30_83_d5000.ssm' created.
+\t (00:00:03)     Journal end - Sat Jan 28 21:57:43 2017

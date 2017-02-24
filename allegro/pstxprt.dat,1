@@ -1,0 +1,1480 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-13-2017 at 11:59:00 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ONYXPSU';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 3V3_C1 'C_NP_DK_0603_C':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS276418@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins276418@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins276418@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 3V3_C2 'C_NP_DK_0603_C':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS276515@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins276515@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins276515@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 3V3_REG 'MIC5504_DK_SOT23-5_MIC5504-3.3Y':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS227774@QLIB.MIC5504.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins227774@qlib.\mic5504.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins227774@qlib.\mic5504.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C1 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS350523@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins350523@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins350523@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C10 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS351642@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins351642@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins351642@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C11 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS265081@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins265081@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins265081@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C12 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS265099@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins265099@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins265099@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C13 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS265117@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins265117@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins265117@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C14 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS265135@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins265135@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins265135@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C2 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS350715@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins350715@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins350715@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C3 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS350844@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins350844@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins350844@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C4 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS255993@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins255993@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins255993@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C5 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS256066@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins256066@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins256066@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C6 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS256139@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins256139@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins256139@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C7 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS256514@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins256514@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins256514@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C8 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS351606@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins351606@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins351606@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_C9 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS351624@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins351624@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins351624@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_L1 'L_IND_BOURNS_SRN4018_1UH':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS263816@POLYSAT.L.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins263816@polysat.\l.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins263816@polysat.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_L2 'L_IND_BOURNS_SRN4018_1UH':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS264975@POLYSAT.L.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins264975@polysat.\l.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins264975@polysat.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_REG 'TPS63061_DSC10_1P70X2P15_TPS630':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS261523@QLIB.TPS63061.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins261523@qlib.\tps63061.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins261523@qlib.\tps63061.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 5V_REG1 'TPS63061_DSC10_1P70X2P15_TPS630':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS264945@QLIB.TPS63061.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins264945@qlib.\tps63061.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page3_ins264945@qlib.\tps63061.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A0 'DXL-AX-SOCKET-3_DXL_CONNECTOR_D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS284877@QLIB.DXL-AX-SOCKET-3.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins284877@qlib.\dxl-ax-socket-3.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins284877@qlib.\dxl-ax-socket-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A0_LED 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS287560@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins287560@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins287560@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A0_RBLEED 'R_DK_0805_698':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS303817@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins303817@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins303817@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A0_SW 'NCP45521IMNTWG-H_5_NCP45521IMNT':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS153155@ONYXPSU.NCP45521IMNTWG-H_5.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins153155@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins153155@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A1 'DXL-AX-SOCKET-3_DXL_CONNECTOR_D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS284934@QLIB.DXL-AX-SOCKET-3.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins284934@qlib.\dxl-ax-socket-3.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins284934@qlib.\dxl-ax-socket-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A1_LED 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS287572@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins287572@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins287572@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A1_RBLEED 'R_DK_0805_698':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS303956@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins303956@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins303956@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A1_SW 'NCP45521IMNTWG-H_5_NCP45521IMNT':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS153225@ONYXPSU.NCP45521IMNTWG-H_5.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins153225@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins153225@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A2 'DXL-AX-SOCKET-3_DXL_CONNECTOR_D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS284991@QLIB.DXL-AX-SOCKET-3.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins284991@qlib.\dxl-ax-socket-3.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins284991@qlib.\dxl-ax-socket-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A2_LED 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS287584@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins287584@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins287584@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A2_RBLEED 'R_DK_0805_698':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS303993@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins303993@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins303993@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A2_SW 'NCP45521IMNTWG-H_5_NCP45521IMNT':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS153297@ONYXPSU.NCP45521IMNTWG-H_5.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins153297@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins153297@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A3 'DXL-AX-SOCKET-3_DXL_CONNECTOR_D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS285048@QLIB.DXL-AX-SOCKET-3.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins285048@qlib.\dxl-ax-socket-3.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins285048@qlib.\dxl-ax-socket-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A3_LED 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS287596@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins287596@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins287596@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A3_RBLEED 'R_DK_0805_698':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS304030@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins304030@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins304030@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A3_SW 'NCP45521IMNTWG-H_5_NCP45521IMNT':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS153367@ONYXPSU.NCP45521IMNTWG-H_5.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins153367@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page5_ins153367@onyxpsu.\ncp45521imntwg-h_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ACDRV_R1 'R_DK_0603_1K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338942@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338942@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338942@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ACSET_R1 'R_DK_0603_100K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS352289@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins352289@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins352289@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ACSET_R2 'R_DK_0603_154K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS353755@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins353755@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins353755@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AC_C1 'C_NP_DK_0805_2.2UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS347691@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins347691@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins347691@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AC_R1 'R_DK_0603_2':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS347887@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins347887@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins347887@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AC_SENSE 'R_DK_2010_.01':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS339541@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins339541@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins339541@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ATMEGA 'ATMEGA32U2_0_32A_ATMEGA32U2-AU':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS294242@ONYXPSU.ATMEGA32U2_0.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins294242@onyxpsu.\atmega32u2_0.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins294242@onyxpsu.\atmega32u2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_C1 'C_NP_DK_0805_4.7UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS305578@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins305578@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins305578@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_C2 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS304674@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins304674@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins304674@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_C3 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS304771@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins304771@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins304771@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_LED1 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS297160@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins297160@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins297160@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_LED2 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS297105@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins297105@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins297105@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_R1 'R_DK_0603_150':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS297307@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins297307@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins297307@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_R2 'R_DK_0603_150':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS297349@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins297349@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins297349@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AT_UCAP 'C_NP_DK_1210_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS300053@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins300053@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins300053@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AX_ESD 'D_ZENER_CPDQC_CPDQC5V0-HF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS352115@POLYSAT.D_ZENER.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins352115@polysat.\d_zener.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins352115@polysat.\d_zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AX_R1 'R_DK_0603_150':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306167@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306167@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins306167@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ AX_R2 'R_DK_0603_150':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306241@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306241@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins306241@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A_R1 'R_DK_0603_470':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306373@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306373@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins306373@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A_R2 'R_DK_0603_470':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306491@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306491@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins306491@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A_R3 'R_DK_0603_470':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306538@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306538@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins306538@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ A_R4 'R_DK_0603_470':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS306586@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins306586@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins306586@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ADAPTER 'SCREWTERM_CONN_282836-2_CONN_28':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS356832@QLIB.SCREWTERM.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins356832@qlib.\screwterm.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins356832@qlib.\screwterm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATDRV_Q 'SI7617DN_POWERPAK1212-8_SI7617D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS343803@QLIB.SI7617DN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins343803@qlib.\si7617dn.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins343803@qlib.\si7617dn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATDRV_R1 'R_DK_0603_1K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS336392@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins336392@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins336392@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATT_SENSE 'R_DK_2010_.01':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS330640@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins330640@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins330640@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BB_P1 'BB-HEADER-46_2-87215-3_PRICELES':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS208808@QLIB.BB-HEADER-46.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins208808@qlib.\bb-header-46.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins208808@qlib.\bb-header-46.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BB_P2 'BB-HEADER-46_2-87215-3_PRICELES':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS208912@QLIB.BB-HEADER-46.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins208912@qlib.\bb-header-46.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins208912@qlib.\bb-header-46.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BCAP1 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS346034@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins346034@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins346034@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BCAP2 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS346615@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins346615@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins346615@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BCAP3 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS346754@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins346754@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins346754@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BCAP4 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS346895@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins346895@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins346895@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C1 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS333933@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins333933@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins333933@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C10 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS340246@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins340246@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins340246@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C2 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334208@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334208@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334208@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C3 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334422@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334422@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334422@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C4 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334597@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334597@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334597@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C5 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334672@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334672@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334672@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C6 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334880@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334880@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334880@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C7 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338649@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338649@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338649@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C8 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS339152@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins339152@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins339152@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_C9 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS339342@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins339342@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins339342@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_R1 'R_DK_0603_100K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS334962@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins334962@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins334962@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_R2 'R_DK_0603_100K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338345@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338345@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338345@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BC_VCC_R1 'R_DK_0805_10':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338235@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338235@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338235@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BTST_D1 'BAT54-7-F_DK_SOT23-3_BAT54':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS333570@QLIB.BAT54-7-F.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins333570@qlib.\bat54-7-f.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins333570@qlib.\bat54-7-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BTST_L1 'L_IND_IHLP-4040DZ_3.3UH':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS354666@POLYSAT.L.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins354666@polysat.\l.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins354666@polysat.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATTERY 'SCREWTERM_CONN_282836-2_CONN_28':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS356848@QLIB.SCREWTERM.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins356848@qlib.\screwterm.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page6_ins356848@qlib.\screwterm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATTERY_CHARGER 'BQ24610_RGE24_2P45X2P45_BQ24610':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS172423@QLIB.BQ24610.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins172423@qlib.\bq24610.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins172423@qlib.\bq24610.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CM_C1 'C_NP_DK_0603_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS275596@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins275596@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins275596@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CM_R1 'R_DK_2010_.01':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS259025@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins259025@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins259025@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CM_R2 'R_DK_0603_10':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS275438@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins275438@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins275438@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CM_R3 'R_DK_0603_10':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS275479@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins275479@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins275479@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CURRENT_IC 'INA219_DCN8_INA219':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS227746@QLIB.INA219.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins227746@qlib.\ina219.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins227746@qlib.\ina219.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC_Q1 'SI7617DN_POWERPAK1212-8_SI7617D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS342901@QLIB.SI7617DN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins342901@qlib.\si7617dn.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins342901@qlib.\si7617dn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DC_Q2 'SI7617DN_POWERPAK1212-8_SI7617D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS342684@QLIB.SI7617DN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins342684@qlib.\si7617dn.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins342684@qlib.\si7617dn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ EEPROM 'CAT24C256_D8_CAT24C256WI-GT3':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS218015@QLIB.CAT24C256.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins218015@qlib.\cat24c256.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins218015@qlib.\cat24c256.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E_CVCC 'C_NP_DK_0402_.1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS236707@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins236707@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins236707@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ HIDRV_Q 'SIS412DN_POWERPAK1212-8_SIS412D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS320255@QLIB.SIS412DN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins320255@qlib.\sis412dn.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins320255@qlib.\sis412dn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ISET1_R1 'R_DK_0603_100K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS352341@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins352341@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins352341@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ISET1_R2 'R_DK_0603_154K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS353257@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins353257@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins353257@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ISET2_R1 'R_DK_0603_130K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS353075@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins353075@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins353075@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ISET2_R2 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS354111@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins354111@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins354111@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LOWDRV_Q 'SIS412DN_POWERPAK1212-8_SIS412D':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS320315@QLIB.SIS412DN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins320315@qlib.\sis412dn.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins320315@qlib.\sis412dn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PG 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338067@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338067@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338067@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PG_R 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS340186@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins340186@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins340186@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PWRPTH_C1 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS347307@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins347307@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins347307@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PWRPTH_C2 'C_NP_DK_1206_10UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS347142@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins347142@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins347142@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SJ1 'SOLDER_JUMPER_SOLDERJUMPER_SJ':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS367720@QLIB.SOLDER_JUMPER.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins367720@qlib.\solder_jumper.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins367720@qlib.\solder_jumper.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ STAT1 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338013@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338013@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338013@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ STAT1_R 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS339923@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins339923@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins339923@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ STAT2 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS338040@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins338040@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins338040@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ STAT2_R 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS340058@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins340058@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins340058@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TS_R1 'R_DK_0603_200K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS345314@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins345314@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins345314@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TS_R2 'R_DK_0603_9.31K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS345366@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins345366@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins345366@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TS_R3 'R_DK_0603_430K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS345394@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins345394@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins345394@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TTC_C1 'C_NP_DK_0603_.033UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS336044@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins336044@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins336044@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TVS1 'USBLC6-2P6_SOT-666_USBLC6-2P6':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS203983@QLIB.USBLC6-2P6.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins203983@qlib.\usblc6-2p6.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins203983@qlib.\usblc6-2p6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'UX60-USB_UX60-USB_UX60-USB':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS201265@QLIB.UX60-USB.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins201265@qlib.\ux60-usb.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins201265@qlib.\ux60-usb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB_RD+ 'R_DK_0603_22':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS300984@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins300984@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins300984@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB_RD- 'R_DK_0603_22':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS300944@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins300944@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins300944@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VFB_C1 'C_NP_DK_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS345102@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins345102@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins345102@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VFB_R1 'R_DK_0603_732K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS337136@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins337136@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins337136@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VFB_R2 'R_DK_0603_121K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS337108@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins337108@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins337108@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VREF_C1 'C_NP_DK_0603_22UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS343471@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins343471@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page4_ins343471@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3_C1 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS237185@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins237185@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins237185@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3_C2 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS237408@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins237408@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins237408@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3_C3 'C_NP_DK_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS252826@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins252826@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins252826@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3_LDO 'MIC5504_DK_SOT23-5_MIC5504-3.3Y':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS217570@QLIB.MIC5504.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins217570@qlib.\mic5504.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins217570@qlib.\mic5504.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_LED1 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS238058@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins238058@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins238058@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_LED2 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS238301@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins238301@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins238301@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_LED3 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS238360@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins238360@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins238360@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_LED4 'LED_0603_DK_0603_LED_0603':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS238417@POLYSAT.LED_0603.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins238417@polysat.\led_0603.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins238417@polysat.\led_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_R1 'R_DK_0603_470R':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS238853@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins238853@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins238853@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_R2 'R_DK_0603_470R':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS239085@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins239085@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins239085@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_R3 'R_DK_0603_470R':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS239117@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins239117@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins239117@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XL_R4 'R_DK_0603_470R':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS239149@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins239149@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins239149@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XMEGA 'ATXMEGA32E5-AN_32A_ATXMEGA32E5-':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS216729@QLIB.ATXMEGA32E5-AN.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins216729@qlib.\atxmega32e5-an.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins216729@qlib.\atxmega32e5-an.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XM_PDI 'PDI_HEADER_TLW-103-06-F-D_M20-9':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS240796@QLIB.PDI_HEADER.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins240796@qlib.\pdi_header.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins240796@qlib.\pdi_header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XM_RPDI 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS240180@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins240180@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins240180@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XM_RSCL 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS239482@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins239482@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins239482@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ XM_RSDA 'R_DK_0603_10K':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS239550@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins239550@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins239550@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X_L1 'L_DK_0603_1.5K @ 100MHZ':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS248176@POLYSAT.L.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins248176@polysat.\l.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins248176@polysat.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X_RSW1 'R_DK_0603_39':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS247357@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins247357@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins247357@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X_RSW2 'R_DK_0603_39':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS247385@POLYSAT.R.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins247385@polysat.\r.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins247385@polysat.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X_SW1 'Q_SWITCH_MOM_SWITCH_FSMSM_FSMSM':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS246971@QLIB.Q_SWITCH_MOM.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins246971@qlib.\q_switch_mom.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins246971@qlib.\q_switch_mom.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X_SW2 'Q_SWITCH_MOM_SWITCH_FSMSM_FSMSM':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS246983@QLIB.Q_SWITCH_MOM.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins246983@qlib.\q_switch_mom.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page2_ins246983@qlib.\q_switch_mom.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'ABMM-16.000MHZ_DFN-4_CRYSTAL_16':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS193053@QLIB.ABMM-16.000MHZ.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins193053@qlib.\abmm-16.000mhz.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins193053@qlib.\abmm-16.000mhz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y_C1 'C_NP_DK_0402_18PF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS291312@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins291312@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins291312@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y_C2 'C_NP_DK_0402_18PF':;
+
+SECTION_NUMBER 1
+ '@ONYXPSU.SCHEMATIC(SCH_1):INS291496@POLYSAT.C_NP.NORMAL(CHIPS)':
+ C_PATH='@onyxpsu.schematic(sch_1):ins291496@polysat.\c_np.normal\(chips)',
+ P_PATH='@onyxpsu.schematic(sch_1):page7_ins291496@polysat.\c_np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

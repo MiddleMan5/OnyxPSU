@@ -1,0 +1,28 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sun Jan 29 22:14:04 2017
+\t (00:00:01)         Host=QUINN-XPS User=dmigh Pid=14104 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/R_2010/AllegroV16_6/DK_2010.dra
+\i (00:00:03) trapsize 41
+\i (00:00:03) trapsize 40
+\i (00:00:03) trapsize 42
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 43
+\i (00:00:04) save 
+\i (00:00:05) fillin yes 
+\t (00:00:05) Symbol 'dk_2010.psm' created.
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 11.33 -4.05
+\i (00:00:05) trapsize 85
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 11.16 -3.36
+\i (00:00:06) trapsize 170
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 11.17 -3.36
+\i (00:00:06) trapsize 341
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sun Jan 29 22:14:10 2017

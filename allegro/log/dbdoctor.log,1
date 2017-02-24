@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : ONYXPSU.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Feb 13 13:23:15 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN CONNECT LINE (575.55 1484.45) - (565.00 1495.00)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHA1-415): Line segments cannot overlap.
+   Error was fixed.
+
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+1 warnings, 1 errors detected, 1 errors  fixed.

@@ -1,0 +1,70 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Wed Feb 15 19:15:48 2017
+\t (00:00:02)         Host=QUINN-XPS User=dmigh Pid=10716 CPUs=4
+\t (00:00:02) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/ONYXPSU.brd
+\t (00:00:04) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 1716
+\i (00:00:04) trapsize 1675
+\i (00:00:04) trapsize 1723
+\i (00:00:04) trapsize 1766
+\i (00:00:04) trapsize 1766
+\i (00:00:06) placementedit 
+\i (00:00:07) drag_start grid 3643.53 591.54
+\i (00:00:07) drag_stop 3689.45 -143.23
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 3689.45 -143.23
+\t (00:00:08) Grids are drawn 80.00, 80.00 apart for enhanced viewability.
+\i (00:00:08) trapsize 3533
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 3689.45 -143.24
+\i (00:00:08) trapsize 7065
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2349.48 1764.35
+\i (00:00:10) trapsize 3533
+\i (00:00:14) drag_start grid tgl -1360.36 937.74
+\i (00:00:15) drag_stop tgl -4186.42 1714.90
+\i (00:00:16) drag_start grid -187.55 1940.99
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 48
+\i (00:00:17) roam x 48
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:17) roam x 16
+\i (00:00:18) roam x 16
+\i (00:00:18) roam x 16
+\i (00:00:18) drag_stop 3592.31 287.74
+\i (00:00:20) pick grid 999.40 3452.93
+\t (00:00:20) last pick:  1000.00  3455.00
+\i (00:00:26) signal prefs 
+   (00:00:26) Loading cmds.cxt 
+   (00:00:26) Loading sigallegro.cxt 
+   (00:00:26) Loading signal.cxt 
+   (00:00:26) Loading skillExt.cxt 
+\i (00:00:26) placementedit 
+\i (00:00:29) setwindow form.sigprefs
+\i (00:00:29) FORM sigprefs cancel  
+\i (00:00:37) setwindow pcb
+\i (00:00:37) reports 
+\i (00:00:44) reports "Bill of Material Report"
+\i (13:53:02) setwindow text
+\i (13:53:02) close 
+\i (13:53:03) setwindow pcb
+\i (13:53:03) placementedit 
+\i (13:53:15) setwindow form.vf_vis
+\i (13:53:15) FORM vf_vis all_etch_visible YES 
+\i (13:53:16) FORM vf_vis all_pin_visible YES 
+\i (13:53:18) setwindow pcb
+\i (13:53:18) save 
+\i (13:53:20) fillin yes 
+\i (13:53:20) placementedit 
+\i (13:53:21) exit 
+\t (13:53:21)     Journal end - Thu Feb 16 09:09:07 2017

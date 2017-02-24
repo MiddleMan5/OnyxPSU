@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : blank_drawing.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jan 31 12:42:12 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/SRR6038-3R3YCT-ND/AllegroV16_6
+    Name      = ind_bourns_srr6038.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

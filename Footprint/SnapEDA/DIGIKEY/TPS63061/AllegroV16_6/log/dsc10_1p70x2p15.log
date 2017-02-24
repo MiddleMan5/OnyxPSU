@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DSC10_1P70X2P15.dra                           )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jan 31 12:05:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/TPS63061/AllegroV16_6
+    Name      = dsc10_1p70x2p15.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

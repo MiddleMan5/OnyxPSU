@@ -1,0 +1,1683 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Feb 12 11:31:28 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=16552 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 857
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 861
+\i (00:00:01) trapsize 882
+\i (00:00:01) trapsize 1448
+\i (00:00:01) replay AllegroV16_6_brd.scr 
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) open 
+\i (00:00:01) fillin blank_drawing.dra 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) trapsize 24
+\i (00:00:01) trapsize 23
+\i (00:00:01) trapsize 24
+\i (00:00:01) trapsize 43
+\d (00:00:01) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/IHLP4040DZER3R3M01/AllegroV16_6/blank_drawing.dra
+\i (00:00:01) prmed 
+\i (00:00:02) setwindow Form.prmedit 
+\i (00:00:02) FORM prmedit design 
+\i (00:00:02) FORM prmedit type Package 
+\i (00:00:02) FORM prmedit units Mils 
+\i (00:00:02) FORM prmedit size Other 
+\i (00:00:02) FORM prmedit accuracy 2 
+\i (00:00:02) FORM prmedit width 2262 
+\i (00:00:02) FORM prmedit height 2248.5 
+\i (00:00:02) FORM prmedit apply 
+\i (00:00:02) trapsize 43
+\i (00:00:02) FORM prmedit x -946 
+\i (00:00:02) FORM prmedit y -1137.5 
+\i (00:00:02) FORM prmedit apply 
+\i (00:00:02) trapsize 43
+\i (00:00:02) FORM prmedit lock_mode Line 
+\i (00:00:02) FORM prmedit lock_direction Off 
+\i (00:00:02) FORM prmedit apply 
+\i (00:00:02) FORM prmedit done 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) status 
+\i (00:00:02) setwindow form.status 
+\i (00:00:02) FORM status lock_direction Off 
+\e (00:00:02) Form field label not found
+\i (00:00:02) FORM status lock_mode line 
+\e (00:00:02) Form field label not found
+\i (00:00:02) FORM status symbol_mirror NO 
+\e (00:00:02) Form field label not found
+\i (00:00:02) FORM status drawing_size 
+\e (00:00:02) Form field label not found
+\i (00:00:02) FORM status done 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) zoom center 
+\t (00:00:02) Pick center for the new display.
+\i (00:00:02) pick 0.0 0.0 
+\t (00:00:02) last pick:  0.00  0.00
+\i (00:00:02) define subclass 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name SILKSCREEN_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PIN pick 
+\e (00:00:02) Form field label not found
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PASTEMASK_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETR pick 
+\e (00:00:02) Form field label not found
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name SOLDERMASK_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PIN pick 
+\e (00:00:02) Form field label not found
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PASTEMASK_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name OUTLINE 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:02) setwindow form.subclass_nonetch 
+\i (00:00:02) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:02) setwindow form.subclass 
+\i (00:00:02) FORM subclass MANUFACTURING pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name NO_PROBE_TOP 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass MANUFACTURING pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name NO_PROBE_BOTTOM 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name CUTOUTSLOTS 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name DIEBONDPADS 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name WIREBONDS 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name PIN 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_DETAIL 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name OUTLINE 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name COPY RIGHT 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name OUTLINE 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:03) setwindow form.subclass 
+\i (00:00:03) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:03) setwindow form.subclass_nonetch 
+\i (00:00:03) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:03) FORM subclass done 
+\i (00:00:03) add pin 
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini offsetx 0.00 
+\i (00:00:03) FORM mini offsety 0.00 
+\i (00:00:03) FORM mini rotate_pin 90 
+\i (00:00:03) add pin 
+\t (00:00:03) Exiting from Add Pin.
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini pad_name RX115Y128D0T 
+\w (00:00:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:03) Using 'RX115Y128D0T.pad'.
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini next_pin_number 1 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick -168.5 0 
+\t (00:00:03) last pick:  -168.50  0.00
+\t (00:00:03) Using 'RX115Y128D0T.pad'.
+\i (00:00:03) done 
+\t (00:00:03) Exiting from Add Pin.
+\i (00:00:03) add pin 
+\t (00:00:03) Using 'RX115Y128D0T.pad'.
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini offsetx 0.00 
+\i (00:00:03) FORM mini offsety 0.00 
+\i (00:00:03) FORM mini rotate_pin 90 
+\i (00:00:03) add pin 
+\t (00:00:03) Exiting from Add Pin.
+\t (00:00:03) Using 'RX115Y128D0T.pad'.
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini pad_name RX115Y128D0T 
+\i (00:00:03) setwindow form.mini 
+\i (00:00:03) FORM mini next_pin_number 2 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 168.5 0 
+\t (00:00:03) last pick:  168.50  0.00
+\t (00:00:03) Using 'RX115Y128D0T.pad'.
+\i (00:00:03) done 
+\t (00:00:03) Exiting from Add Pin.
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) add fshape 
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini class ROUTE KEEPOUT 
+\i (00:00:04) FORM mini subclass TOP 
+\i (00:00:04) FORM mini dyns_grid None 
+\t (00:00:04) Grids are drawn 0.64, 0.64 apart for enhanced viewability.
+\i (00:00:04) FORM mini dyns_lock_mode Line 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -109 66 
+\t (00:00:04) last pick:  -109.00  66.00
+\i (00:00:04) pick 109 66 
+\t (00:00:04) last pick:  109.00  66.00
+\i (00:00:04) pick 109 -66 
+\t (00:00:04) last pick:  109.00  -66.00
+\i (00:00:04) pick -109 -66 
+\t (00:00:04) last pick:  -109.00  -66.00
+\i (00:00:04) done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) add fshape 
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini class ROUTE KEEPOUT 
+\i (00:00:04) FORM mini subclass TOP 
+\i (00:00:04) FORM mini dyns_grid None 
+\i (00:00:04) FORM mini dyns_lock_mode Line 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -218 200.5 
+\t (00:00:04) last pick:  -218.00  200.50
+\i (00:00:04) pick 218 200.5 
+\t (00:00:04) last pick:  218.00  200.50
+\i (00:00:04) pick 218 66 
+\t (00:00:04) last pick:  218.00  66.00
+\i (00:00:04) pick -218 66 
+\t (00:00:04) last pick:  -218.00  66.00
+\i (00:00:04) done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) add fshape 
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini class ROUTE KEEPOUT 
+\i (00:00:04) FORM mini subclass TOP 
+\i (00:00:04) FORM mini dyns_grid None 
+\i (00:00:04) FORM mini dyns_lock_mode Line 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -218 -66 
+\t (00:00:04) last pick:  -218.00  -66.00
+\i (00:00:04) pick 218 -66 
+\t (00:00:04) last pick:  218.00  -66.00
+\i (00:00:04) pick 218 -200.5 
+\t (00:00:04) last pick:  218.00  -200.50
+\i (00:00:04) pick -218 -200.5 
+\t (00:00:04) last pick:  -218.00  -200.50
+\i (00:00:04) done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) add fshape 
+\i (00:00:04) setwindow form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:04) FORM mini dyns_grid None 
+\i (00:00:04) FORM mini dyns_lock_mode Line 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick -236 -74 
+\t (00:00:04) last pick:  -236.00  -74.00
+\i (00:00:04) pick -236 74 
+\t (00:00:04) last pick:  -236.00  74.00
+\i (00:00:04) pick -230 74 
+\t (00:00:04) last pick:  -230.00  74.00
+\i (00:00:04) pick -230 212.5 
+\t (00:00:04) last pick:  -230.00  212.50
+\i (00:00:04) pick 230 212.5 
+\t (00:00:04) last pick:  230.00  212.50
+\i (00:00:04) pick 230 74 
+\t (00:00:04) last pick:  230.00  74.00
+\i (00:00:04) pick 236 74 
+\t (00:00:04) last pick:  236.00  74.00
+\i (00:00:04) pick 236 -74 
+\t (00:00:04) last pick:  236.00  -74.00
+\i (00:00:04) pick 230 -74 
+\t (00:00:04) last pick:  230.00  -74.00
+\i (00:00:04) pick 230 -212.5 
+\t (00:00:04) last pick:  230.00  -212.50
+\i (00:00:04) pick -230 -212.5 
+\t (00:00:04) last pick:  -230.00  -212.50
+\i (00:00:04) pick -230 -74 
+\t (00:00:04) last pick:  -230.00  -74.00
+\i (00:00:04) done 
+\i (00:00:04) property edit 
+\t (00:00:04) Adjust find filter then select an element or group of elements.
+\i (00:00:04) setwindow Form.Find 
+\i (00:00:04) FORM find all_off 
+\i (00:00:04) FORM find shapes YES 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick grid -236 -74 
+\t (00:00:04) last pick:  -200.00  -100.00
+\i (00:00:05) setwindow Form.editprop1 
+\i (00:00:05) FORM editprop1 properties PACKAGE_HEIGHT_MAX 
+\i (00:00:05) setwindow Form.editprop2 
+\i (00:00:05) FORM editprop2 package_height_max ele_prop_value 158 
+\i (00:00:05) FORM editprop2 apply 
+\i (00:00:05) setwindow Form.editprop1 
+\i (00:00:05) FORM editprop1 done 
+\i (00:00:05) setwindow Form.Find 
+\i (00:00:05) FORM find all_on 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) add fshape 
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini class MANUFACTURING 
+\i (00:00:05) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:05) FORM mini dyns_grid None 
+\i (00:00:05) FORM mini dyns_lock_mode Line 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -251 -217.5 
+\t (00:00:05) last pick:  -251.00  -217.50
+\i (00:00:05) pick -251 217.5 
+\t (00:00:05) last pick:  -251.00  217.50
+\i (00:00:05) pick 251 217.5 
+\t (00:00:05) last pick:  251.00  217.50
+\i (00:00:05) pick 251 -217.5 
+\t (00:00:05) last pick:  251.00  -217.50
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini line_width 6 
+\i (00:00:05) FORM mini lock_direction Off 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 225 77.1 
+\t (00:00:05) last pick:  225.00  77.10
+\i (00:00:05) pick 225 207.5 
+\t (00:00:05) last pick:  225.00  207.50
+\i (00:00:05) done 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) label refdes 
+\t (00:00:05) Pick text location.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini class REF DES 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini text_block 3 
+\i (00:00:05) FORM mini text_justification Center 
+\i (00:00:05) FORM mini angle 0 
+\i (00:00:05) FORM mini mirror NO 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0 -25 
+\t (00:00:05) last pick:  0.00  -25.00
+\t (00:00:05) Enter text string.
+\i (00:00:05) text REF 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) label refdes 
+\t (00:00:05) Pick text location.
+\i (00:00:05) setwindow form.mini 
+\i (00:00:05) FORM mini class REF DES 
+\i (00:00:05) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:05) FORM mini text_block 3 
+\i (00:00:05) FORM mini text_justification Center 
+\i (00:00:05) FORM mini angle 0 
+\i (00:00:05) FORM mini mirror NO 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0 -25 
+\t (00:00:05) last pick:  0.00  -25.00
+\t (00:00:06) Enter text string.
+\i (00:00:06) text REF 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) label device 
+\t (00:00:06) Pick text location.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class DEVICE TYPE 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini text_block 3 
+\i (00:00:06) FORM mini text_justification Center 
+\i (00:00:06) FORM mini angle 0 
+\i (00:00:06) FORM mini mirror NO 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 0 -25 
+\t (00:00:06) last pick:  0.00  -25.00
+\t (00:00:06) Enter text string.
+\i (00:00:06) text IND_IHLP-4040DZ 
+\t (00:00:06) Enter text string.
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) add circle 
+\t (00:00:06) Pick center point of the circle.
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:06) FORM mini line_width 0 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -200 0 
+\t (00:00:06) last pick:  -200.00  0.00
+\t (00:00:06) Pick a perimeter point on the circle.
+\i (00:00:06) pick -197 0 
+\t (00:00:06) last pick:  -197.00  0.00
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) done 
+\i (00:00:06) add circle 
+\t (00:00:06) Pick center point of the circle.
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:06) FORM mini line_width 6 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -270 0 
+\t (00:00:06) last pick:  -270.00  0.00
+\t (00:00:06) Pick a perimeter point on the circle.
+\i (00:00:06) pick -267 0 
+\t (00:00:06) last pick:  -267.00  0.00
+\t (00:00:06) Pick center point of the circle.
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini line_width 6 
+\i (00:00:06) FORM mini lock_direction Off 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -225 -207.5 
+\t (00:00:06) last pick:  -225.00  -207.50
+\i (00:00:06) pick 225 -207.5 
+\t (00:00:06) last pick:  225.00  -207.50
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini line_width 6 
+\i (00:00:06) FORM mini lock_direction Off 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 225 -207.5 
+\t (00:00:06) last pick:  225.00  -207.50
+\i (00:00:06) pick 225 -77.1 
+\t (00:00:06) last pick:  225.00  -77.10
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini line_width 6 
+\i (00:00:06) FORM mini lock_direction Off 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick 225 207.5 
+\t (00:00:06) last pick:  225.00  207.50
+\i (00:00:06) pick -225 207.5 
+\t (00:00:06) last pick:  -225.00  207.50
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:06) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:06) setwindow form.mini 
+\i (00:00:06) FORM mini line_width 6 
+\i (00:00:06) FORM mini lock_direction Off 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -225 207.5 
+\t (00:00:06) last pick:  -225.00  207.50
+\i (00:00:06) pick -225 77.1 
+\t (00:00:06) last pick:  -225.00  77.10
+\i (00:00:06) done 
+\i (00:00:06) add line 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) FORM mini lock_direction Off 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -220 -202.5 
+\t (00:00:07) last pick:  -220.00  -202.50
+\i (00:00:07) pick 220 -202.5 
+\t (00:00:07) last pick:  220.00  -202.50
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) FORM mini lock_direction Off 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 220 -202.5 
+\t (00:00:07) last pick:  220.00  -202.50
+\i (00:00:07) pick 220 202.5 
+\t (00:00:07) last pick:  220.00  202.50
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) FORM mini lock_direction Off 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick 220 202.5 
+\t (00:00:07) last pick:  220.00  202.50
+\i (00:00:07) pick -220 202.5 
+\t (00:00:07) last pick:  -220.00  202.50
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini line_width 0 
+\i (00:00:07) FORM mini lock_direction Off 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -220 202.5 
+\t (00:00:07) last pick:  -220.00  202.50
+\i (00:00:07) pick -220 -202.5 
+\t (00:00:07) last pick:  -220.00  -202.50
+\i (00:00:07) done 
+\i (00:00:07) add line 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:07) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:07) setwindow form.mini 
+\i (00:00:07) FORM mini line_width 6 
+\i (00:00:07) FORM mini lock_direction Off 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) pick -225 -77.1 
+\t (00:00:07) last pick:  -225.00  -77.10
+\i (00:00:07) pick -225 -207.5 
+\t (00:00:07) last pick:  -225.00  -207.50
+\t (00:00:07) Merged with existing line. Start next line.
+\i (00:00:07) done 
+\i (00:00:07) create symbol 
+\i (00:00:07) fillin IND_IHLP-4040DZ 
+\t (00:00:07) Creating package symbol 'C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/IHLP4040DZER3R3M01/AllegroV16_6/ind_ihlp-4040dz.psm'.
+\t (00:00:07) Starting Create symbol...
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) trapsize 503 
+\i (00:00:08) dbdoctor 
+\i (00:00:08) setwindow Form.dbdoctor_allegro 
+\i (00:00:08) FORM dbdoctor_allegro drc YES 
+\i (00:00:08) FORM dbdoctor_allegro shapes YES 
+\i (00:00:08) FORM dbdoctor_allegro execute 
+\t (00:00:08) Dbdoctor in progress - please wait.
+\t (00:00:08) Checking db records
+\t (00:00:08)     checking for orphans...
+\t (00:00:08)     Checked 100 percent
+\t (00:00:08) Regenerating DRC
+\t (00:00:08)   Original DRC errors: 0
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:08)   Updated DRC errors:  0
+\t (00:00:08) Done dbdoctor.
+\t (00:00:08) Dbdoctor completed.
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save_as 
+\i (00:00:08) fillin IND_IHLP-4040DZ 
+\t (00:00:08) Symbol 'ind_ihlp-4040dz.psm' created.
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) version 14.0 
+\t (00:00:08) Script version: 14.0
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) open 
+\i (00:00:08) fillin blank_drawing.dra 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 43
+\d (00:00:08) Database opened: C:/PolySat_SVN/PolySat/Boards/Footprints_Padstacks_Logos/Packages/SnapEDA/blank_drawing.dra
+\i (00:00:08) prmed 
+\i (00:00:09) setwindow Form.prmedit 
+\i (00:00:09) FORM prmedit design 
+\i (00:00:09) FORM prmedit type Package 
+\i (00:00:09) FORM prmedit units Mils 
+\i (00:00:09) FORM prmedit size Other 
+\i (00:00:09) FORM prmedit accuracy 2 
+\i (00:00:09) FORM prmedit width 2266 
+\i (00:00:09) FORM prmedit height 2262.5 
+\i (00:00:09) FORM prmedit apply 
+\i (00:00:09) trapsize 43
+\i (00:00:09) FORM prmedit x -946 
+\i (00:00:09) FORM prmedit y -1137.5 
+\i (00:00:09) FORM prmedit apply 
+\i (00:00:09) trapsize 43
+\i (00:00:09) FORM prmedit lock_mode Line 
+\i (00:00:09) FORM prmedit lock_direction Off 
+\i (00:00:09) FORM prmedit apply 
+\i (00:00:09) FORM prmedit done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) status 
+\i (00:00:09) setwindow form.status 
+\i (00:00:09) FORM status lock_direction Off 
+\e (00:00:09) Form field label not found
+\i (00:00:09) FORM status lock_mode line 
+\e (00:00:09) Form field label not found
+\i (00:00:09) FORM status symbol_mirror NO 
+\e (00:00:09) Form field label not found
+\i (00:00:09) FORM status drawing_size 
+\e (00:00:09) Form field label not found
+\i (00:00:09) FORM status done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) zoom center 
+\t (00:00:09) Pick center for the new display.
+\i (00:00:09) pick 0.0 0.0 
+\t (00:00:09) last pick:  0.00  0.00
+\i (00:00:09) define subclass 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name SILKSCREEN_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PIN pick 
+\e (00:00:09) Form field label not found
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PASTEMASK_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETR pick 
+\e (00:00:09) Form field label not found
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name SOLDERMASK_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PIN pick 
+\e (00:00:09) Form field label not found
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PASTEMASK_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name OUTLINE 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass MANUFACTURING pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name NO_PROBE_TOP 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass MANUFACTURING pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name NO_PROBE_BOTTOM 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name CUTOUTSLOTS 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:09) setwindow form.subclass_nonetch 
+\i (00:00:09) FORM subclass_nonetch name DIEBONDPADS 
+\i (00:00:09) setwindow form.subclass 
+\i (00:00:09) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name WIREBONDS 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name PIN 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name ASSEMBLY_DETAIL 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name OUTLINE 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name COPY RIGHT 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name OUTLINE 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:10) setwindow form.subclass 
+\i (00:00:10) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:10) setwindow form.subclass_nonetch 
+\i (00:00:10) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:10) FORM subclass done 
+\i (00:00:10) add pin 
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini offsetx 0.00 
+\i (00:00:10) FORM mini offsety 0.00 
+\i (00:00:10) FORM mini rotate_pin 90 
+\i (00:00:10) add pin 
+\t (00:00:10) Exiting from Add Pin.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini pad_name RX131Y128D0T 
+\w (00:00:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:10) Using 'RX131Y128D0T.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini next_pin_number 1 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -164.5 0 
+\t (00:00:10) last pick:  -164.50  0.00
+\t (00:00:10) Using 'RX131Y128D0T.pad'.
+\i (00:00:10) done 
+\t (00:00:10) Exiting from Add Pin.
+\i (00:00:10) add pin 
+\t (00:00:10) Using 'RX131Y128D0T.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini offsetx 0.00 
+\i (00:00:10) FORM mini offsety 0.00 
+\i (00:00:10) FORM mini rotate_pin 90 
+\i (00:00:10) add pin 
+\t (00:00:10) Exiting from Add Pin.
+\t (00:00:10) Using 'RX131Y128D0T.pad'.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini pad_name RX131Y128D0T 
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini next_pin_number 2 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick 164.5 0 
+\t (00:00:10) last pick:  164.50  0.00
+\t (00:00:10) Using 'RX131Y128D0T.pad'.
+\i (00:00:10) done 
+\t (00:00:10) Exiting from Add Pin.
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) add fshape 
+\t (00:00:10) Grids are drawn 0.64, 0.64 apart for enhanced viewability.
+\i (00:00:10) setwindow form.mini 
+\i (00:00:10) FORM mini class ROUTE KEEPOUT 
+\i (00:00:10) FORM mini subclass TOP 
+\i (00:00:10) FORM mini dyns_grid None 
+\i (00:00:10) FORM mini dyns_lock_mode Line 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) pick -97 66 
+\t (00:00:10) last pick:  -97.00  66.00
+\i (00:00:10) pick 97 66 
+\t (00:00:10) last pick:  97.00  66.00
+\i (00:00:11) pick 97 -66 
+\t (00:00:11) last pick:  97.00  -66.00
+\i (00:00:11) pick -97 -66 
+\t (00:00:11) last pick:  -97.00  -66.00
+\i (00:00:11) done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) add fshape 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini class ROUTE KEEPOUT 
+\i (00:00:11) FORM mini subclass TOP 
+\i (00:00:11) FORM mini dyns_grid None 
+\i (00:00:11) FORM mini dyns_lock_mode Line 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -218 200.5 
+\t (00:00:11) last pick:  -218.00  200.50
+\i (00:00:11) pick 218 200.5 
+\t (00:00:11) last pick:  218.00  200.50
+\i (00:00:11) pick 218 66 
+\t (00:00:11) last pick:  218.00  66.00
+\i (00:00:11) pick -218 66 
+\t (00:00:11) last pick:  -218.00  66.00
+\i (00:00:11) done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) add fshape 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini class ROUTE KEEPOUT 
+\i (00:00:11) FORM mini subclass TOP 
+\i (00:00:11) FORM mini dyns_grid None 
+\i (00:00:11) FORM mini dyns_lock_mode Line 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -218 -66 
+\t (00:00:11) last pick:  -218.00  -66.00
+\i (00:00:11) pick 218 -66 
+\t (00:00:11) last pick:  218.00  -66.00
+\i (00:00:11) pick 218 -200.5 
+\t (00:00:11) last pick:  218.00  -200.50
+\i (00:00:11) pick -218 -200.5 
+\t (00:00:11) last pick:  -218.00  -200.50
+\i (00:00:11) done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) add fshape 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:11) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:11) FORM mini dyns_grid None 
+\i (00:00:11) FORM mini dyns_lock_mode Line 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -250 -84 
+\t (00:00:11) last pick:  -250.00  -84.00
+\i (00:00:11) pick -250 84 
+\t (00:00:11) last pick:  -250.00  84.00
+\i (00:00:11) pick -240 84 
+\t (00:00:11) last pick:  -240.00  84.00
+\i (00:00:11) pick -240 222.5 
+\t (00:00:11) last pick:  -240.00  222.50
+\i (00:00:11) pick 240 222.5 
+\t (00:00:11) last pick:  240.00  222.50
+\i (00:00:11) pick 240 84 
+\t (00:00:11) last pick:  240.00  84.00
+\i (00:00:11) pick 250 84 
+\t (00:00:11) last pick:  250.00  84.00
+\i (00:00:11) pick 250 -84 
+\t (00:00:11) last pick:  250.00  -84.00
+\i (00:00:11) pick 240 -84 
+\t (00:00:11) last pick:  240.00  -84.00
+\i (00:00:11) pick 240 -222.5 
+\t (00:00:11) last pick:  240.00  -222.50
+\i (00:00:11) pick -240 -222.5 
+\t (00:00:11) last pick:  -240.00  -222.50
+\i (00:00:11) pick -240 -84 
+\t (00:00:11) last pick:  -240.00  -84.00
+\i (00:00:11) done 
+\i (00:00:11) property edit 
+\t (00:00:11) Adjust find filter then select an element or group of elements.
+\i (00:00:11) setwindow Form.Find 
+\i (00:00:11) FORM find all_off 
+\i (00:00:11) FORM find shapes YES 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick grid -250 -84 
+\t (00:00:11) last pick:  -200.00  -100.00
+\i (00:00:11) setwindow Form.editprop1 
+\i (00:00:11) FORM editprop1 properties PACKAGE_HEIGHT_MAX 
+\i (00:00:11) setwindow Form.editprop2 
+\i (00:00:11) FORM editprop2 package_height_max ele_prop_value 158 
+\i (00:00:11) FORM editprop2 apply 
+\i (00:00:11) setwindow Form.editprop1 
+\i (00:00:11) FORM editprop1 done 
+\i (00:00:11) setwindow Form.Find 
+\i (00:00:11) FORM find all_on 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) add fshape 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class MANUFACTURING 
+\i (00:00:12) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:12) FORM mini dyns_grid None 
+\i (00:00:12) FORM mini dyns_lock_mode Line 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick -265 -217.5 
+\t (00:00:12) last pick:  -265.00  -217.50
+\i (00:00:12) pick -265 217.5 
+\t (00:00:12) last pick:  -265.00  217.50
+\i (00:00:12) pick 265 217.5 
+\t (00:00:12) last pick:  265.00  217.50
+\i (00:00:12) pick 265 -217.5 
+\t (00:00:12) last pick:  265.00  -217.50
+\i (00:00:12) done 
+\i (00:00:12) add line 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini line_width 6 
+\i (00:00:12) FORM mini lock_direction Off 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 225 77.1 
+\t (00:00:12) last pick:  225.00  77.10
+\i (00:00:12) pick 225 207.5 
+\t (00:00:12) last pick:  225.00  207.50
+\i (00:00:12) done 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) label refdes 
+\t (00:00:12) Pick text location.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class REF DES 
+\i (00:00:12) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:12) FORM mini text_block 3 
+\i (00:00:12) FORM mini text_justification Center 
+\i (00:00:12) FORM mini angle 0 
+\i (00:00:12) FORM mini mirror NO 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 0 -25 
+\t (00:00:12) last pick:  0.00  -25.00
+\t (00:00:12) Enter text string.
+\i (00:00:12) text REF 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) label refdes 
+\t (00:00:12) Pick text location.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class REF DES 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini text_block 3 
+\i (00:00:12) FORM mini text_justification Center 
+\i (00:00:12) FORM mini angle 0 
+\i (00:00:12) FORM mini mirror NO 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 0 -25 
+\t (00:00:12) last pick:  0.00  -25.00
+\t (00:00:12) Enter text string.
+\i (00:00:12) text REF 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) label device 
+\t (00:00:12) Pick text location.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class DEVICE TYPE 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini text_block 3 
+\i (00:00:12) FORM mini text_justification Center 
+\i (00:00:12) FORM mini angle 0 
+\i (00:00:12) FORM mini mirror NO 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick 0 -25 
+\t (00:00:12) last pick:  0.00  -25.00
+\t (00:00:12) Enter text string.
+\i (00:00:12) text IND_IHLP-4040DZ-M 
+\t (00:00:12) Enter text string.
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) add circle 
+\t (00:00:12) Pick center point of the circle.
+\t (00:00:12) Pick center point of the circle.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:12) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:12) FORM mini line_width 0 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick -200 0 
+\t (00:00:12) last pick:  -200.00  0.00
+\t (00:00:12) Pick a perimeter point on the circle.
+\i (00:00:12) pick -197 0 
+\t (00:00:12) last pick:  -197.00  0.00
+\t (00:00:12) Pick center point of the circle.
+\i (00:00:12) done 
+\i (00:00:12) add circle 
+\t (00:00:12) Pick center point of the circle.
+\t (00:00:12) Pick center point of the circle.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:13) FORM mini line_width 6 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -270 0 
+\t (00:00:13) last pick:  -270.00  0.00
+\t (00:00:13) Pick a perimeter point on the circle.
+\i (00:00:13) pick -267 0 
+\t (00:00:13) last pick:  -267.00  0.00
+\t (00:00:13) Pick center point of the circle.
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 6 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -225 -207.5 
+\t (00:00:13) last pick:  -225.00  -207.50
+\i (00:00:13) pick 225 -207.5 
+\t (00:00:13) last pick:  225.00  -207.50
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 6 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 225 -207.5 
+\t (00:00:13) last pick:  225.00  -207.50
+\i (00:00:13) pick 225 -77.1 
+\t (00:00:13) last pick:  225.00  -77.10
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 6 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 225 207.5 
+\t (00:00:13) last pick:  225.00  207.50
+\i (00:00:13) pick -225 207.5 
+\t (00:00:13) last pick:  -225.00  207.50
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 6 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -225 207.5 
+\t (00:00:13) last pick:  -225.00  207.50
+\i (00:00:13) pick -225 77.1 
+\t (00:00:13) last pick:  -225.00  77.10
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -220 -202.5 
+\t (00:00:13) last pick:  -220.00  -202.50
+\i (00:00:13) pick 220 -202.5 
+\t (00:00:13) last pick:  220.00  -202.50
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 220 -202.5 
+\t (00:00:13) last pick:  220.00  -202.50
+\i (00:00:13) pick 220 202.5 
+\t (00:00:13) last pick:  220.00  202.50
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:13) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini line_width 0 
+\i (00:00:13) FORM mini lock_direction Off 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick 220 202.5 
+\t (00:00:13) last pick:  220.00  202.50
+\i (00:00:13) pick -220 202.5 
+\t (00:00:13) last pick:  -220.00  202.50
+\i (00:00:13) done 
+\i (00:00:13) add line 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini line_width 0 
+\i (00:00:14) FORM mini lock_direction Off 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick -220 202.5 
+\t (00:00:14) last pick:  -220.00  202.50
+\i (00:00:14) pick -220 -202.5 
+\t (00:00:14) last pick:  -220.00  -202.50
+\i (00:00:14) done 
+\i (00:00:14) add line 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:14) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini line_width 6 
+\i (00:00:14) FORM mini lock_direction Off 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick -225 -77.1 
+\t (00:00:14) last pick:  -225.00  -77.10
+\i (00:00:14) pick -225 -207.5 
+\t (00:00:14) last pick:  -225.00  -207.50
+\t (00:00:14) Merged with existing line. Start next line.
+\i (00:00:14) done 
+\i (00:00:14) create symbol 
+\i (00:00:14) fillin IND_IHLP-4040DZ-M 
+\t (00:00:14) Creating package symbol 'C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/IHLP4040DZER3R3M01/AllegroV16_6/ind_ihlp-4040dz-m.psm'.
+\t (00:00:14) Starting Create symbol...
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) trapsize 503 
+\i (00:00:14) dbdoctor 
+\i (00:00:14) setwindow Form.dbdoctor_allegro 
+\i (00:00:14) FORM dbdoctor_allegro drc YES 
+\i (00:00:14) FORM dbdoctor_allegro shapes YES 
+\i (00:00:14) FORM dbdoctor_allegro execute 
+\t (00:00:14) Dbdoctor in progress - please wait.
+\t (00:00:14) Checking db records
+\t (00:00:14)     checking for orphans...
+\t (00:00:14)     Checked 100 percent
+\t (00:00:14) Regenerating DRC
+\t (00:00:14)   Original DRC errors: 0
+\t (00:00:14) Performing DRC...
+\t (00:00:14) No DRC errors detected.
+\t (00:00:14)   Updated DRC errors:  0
+\t (00:00:14) Done dbdoctor.
+\t (00:00:14) Dbdoctor completed.
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) save_as 
+\i (00:00:14) fillin IND_IHLP-4040DZ-M 
+\t (00:00:14) Symbol 'ind_ihlp-4040dz-m.psm' created.
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) version 14.0 
+\t (00:00:14) Script version: 14.0
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) open 
+\i (00:00:14) fillin blank_drawing.dra 
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 43
+\d (00:00:14) Database opened: C:/PolySat_SVN/PolySat/Boards/Footprints_Padstacks_Logos/Packages/SnapEDA/blank_drawing.dra
+\i (00:00:15) prmed 
+\i (00:00:15) setwindow Form.prmedit 
+\i (00:00:15) FORM prmedit design 
+\i (00:00:15) FORM prmedit type Package 
+\i (00:00:15) FORM prmedit units Mils 
+\i (00:00:15) FORM prmedit size Other 
+\i (00:00:15) FORM prmedit accuracy 2 
+\i (00:00:15) FORM prmedit width 2259 
+\i (00:00:15) FORM prmedit height 2239.5 
+\i (00:00:15) FORM prmedit apply 
+\i (00:00:15) trapsize 43
+\i (00:00:15) FORM prmedit x -946 
+\i (00:00:15) FORM prmedit y -1137.5 
+\i (00:00:15) FORM prmedit apply 
+\i (00:00:15) trapsize 43
+\i (00:00:15) FORM prmedit lock_mode Line 
+\i (00:00:15) FORM prmedit lock_direction Off 
+\i (00:00:15) FORM prmedit apply 
+\i (00:00:15) FORM prmedit done 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) status 
+\i (00:00:15) setwindow form.status 
+\i (00:00:15) FORM status lock_direction Off 
+\e (00:00:15) Form field label not found
+\i (00:00:15) FORM status lock_mode line 
+\e (00:00:15) Form field label not found
+\i (00:00:15) FORM status symbol_mirror NO 
+\e (00:00:15) Form field label not found
+\i (00:00:15) FORM status drawing_size 
+\e (00:00:15) Form field label not found
+\i (00:00:15) FORM status done 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) zoom center 
+\t (00:00:15) Pick center for the new display.
+\i (00:00:15) pick 0.0 0.0 
+\t (00:00:15) last pick:  0.00  0.00
+\i (00:00:15) define subclass 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name SILKSCREEN_TOP 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PIN pick 
+\e (00:00:15) Form field label not found
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name PASTEMASK_TOP 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETR pick 
+\e (00:00:15) Form field label not found
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name SOLDERMASK_TOP 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:15) setwindow form.subclass_nonetch 
+\i (00:00:15) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:15) setwindow form.subclass 
+\i (00:00:15) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PIN pick 
+\e (00:00:16) Form field label not found
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name PASTEMASK_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name OUTLINE 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass MANUFACTURING pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name NO_PROBE_TOP 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass MANUFACTURING pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name NO_PROBE_BOTTOM 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name CUTOUTSLOTS 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name DIEBONDPADS 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name WIREBONDS 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name PIN 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_DETAIL 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name OUTLINE 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name COPY RIGHT 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name OUTLINE 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:16) setwindow form.subclass 
+\i (00:00:16) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:16) setwindow form.subclass_nonetch 
+\i (00:00:16) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:16) FORM subclass done 
+\i (00:00:16) add pin 
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini offsetx 0.00 
+\i (00:00:16) FORM mini offsety 0.00 
+\i (00:00:16) FORM mini rotate_pin 90 
+\i (00:00:16) add pin 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini pad_name RX100Y128D0T 
+\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:16) Using 'RX100Y128D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini next_pin_number 1 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -173 0 
+\t (00:00:16) last pick:  -173.00  0.00
+\t (00:00:16) Using 'RX100Y128D0T.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'RX100Y128D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini offsetx 0.00 
+\i (00:00:16) FORM mini offsety 0.00 
+\i (00:00:16) FORM mini rotate_pin 90 
+\i (00:00:16) add pin 
+\t (00:00:16) Exiting from Add Pin.
+\t (00:00:17) Using 'RX100Y128D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini pad_name RX100Y128D0T 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini next_pin_number 2 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 173 0 
+\t (00:00:17) last pick:  173.00  0.00
+\t (00:00:17) Using 'RX100Y128D0T.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) add fshape 
+\t (00:00:17) Grids are drawn 0.64, 0.64 apart for enhanced viewability.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class ROUTE KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_grid None 
+\i (00:00:17) FORM mini dyns_lock_mode Line 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -121 66 
+\t (00:00:17) last pick:  -121.00  66.00
+\i (00:00:17) pick 121 66 
+\t (00:00:17) last pick:  121.00  66.00
+\i (00:00:17) pick 121 -66 
+\t (00:00:17) last pick:  121.00  -66.00
+\i (00:00:17) pick -121 -66 
+\t (00:00:17) last pick:  -121.00  -66.00
+\i (00:00:17) done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) add fshape 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class ROUTE KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_grid None 
+\i (00:00:17) FORM mini dyns_lock_mode Line 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -218 200.5 
+\t (00:00:17) last pick:  -218.00  200.50
+\i (00:00:17) pick 218 200.5 
+\t (00:00:17) last pick:  218.00  200.50
+\i (00:00:17) pick 218 66 
+\t (00:00:17) last pick:  218.00  66.00
+\i (00:00:17) pick -218 66 
+\t (00:00:17) last pick:  -218.00  66.00
+\i (00:00:17) done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) add fshape 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class ROUTE KEEPOUT 
+\i (00:00:17) FORM mini subclass TOP 
+\i (00:00:17) FORM mini dyns_grid None 
+\i (00:00:17) FORM mini dyns_lock_mode Line 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -218 -66 
+\t (00:00:17) last pick:  -218.00  -66.00
+\i (00:00:17) pick 218 -66 
+\t (00:00:17) last pick:  218.00  -66.00
+\i (00:00:17) pick 218 -200.5 
+\t (00:00:17) last pick:  218.00  -200.50
+\i (00:00:17) pick -218 -200.5 
+\t (00:00:17) last pick:  -218.00  -200.50
+\i (00:00:17) done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) add fshape 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:17) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:17) FORM mini dyns_grid None 
+\i (00:00:17) FORM mini dyns_lock_mode Line 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick -227 -68 
+\t (00:00:17) last pick:  -227.00  -68.00
+\i (00:00:17) pick -227 68 
+\t (00:00:17) last pick:  -227.00  68.00
+\i (00:00:17) pick -224 68 
+\t (00:00:17) last pick:  -224.00  68.00
+\i (00:00:17) pick -224 206.5 
+\t (00:00:17) last pick:  -224.00  206.50
+\i (00:00:17) pick 224 206.5 
+\t (00:00:17) last pick:  224.00  206.50
+\i (00:00:17) pick 224 68 
+\t (00:00:17) last pick:  224.00  68.00
+\i (00:00:17) pick 227 68 
+\t (00:00:17) last pick:  227.00  68.00
+\i (00:00:17) pick 227 -68 
+\t (00:00:17) last pick:  227.00  -68.00
+\i (00:00:17) pick 224 -68 
+\t (00:00:17) last pick:  224.00  -68.00
+\i (00:00:17) pick 224 -206.5 
+\t (00:00:17) last pick:  224.00  -206.50
+\i (00:00:17) pick -224 -206.5 
+\t (00:00:17) last pick:  -224.00  -206.50
+\i (00:00:17) pick -224 -68 
+\t (00:00:17) last pick:  -224.00  -68.00
+\i (00:00:17) done 
+\i (00:00:18) property edit 
+\t (00:00:18) Adjust find filter then select an element or group of elements.
+\i (00:00:18) setwindow Form.Find 
+\i (00:00:18) FORM find all_off 
+\i (00:00:18) FORM find shapes YES 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick grid -227 -68 
+\t (00:00:18) last pick:  -200.00  -100.00
+\i (00:00:18) setwindow Form.editprop1 
+\i (00:00:18) FORM editprop1 properties PACKAGE_HEIGHT_MAX 
+\i (00:00:18) setwindow Form.editprop2 
+\i (00:00:18) FORM editprop2 package_height_max ele_prop_value 158 
+\i (00:00:18) FORM editprop2 apply 
+\i (00:00:18) setwindow Form.editprop1 
+\i (00:00:18) FORM editprop1 done 
+\i (00:00:18) setwindow Form.Find 
+\i (00:00:18) FORM find all_on 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) add fshape 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class MANUFACTURING 
+\i (00:00:18) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:18) FORM mini dyns_grid None 
+\i (00:00:18) FORM mini dyns_lock_mode Line 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -242 -217.5 
+\t (00:00:18) last pick:  -242.00  -217.50
+\i (00:00:18) pick -242 217.5 
+\t (00:00:18) last pick:  -242.00  217.50
+\i (00:00:18) pick 242 217.5 
+\t (00:00:18) last pick:  242.00  217.50
+\i (00:00:18) pick 242 -217.5 
+\t (00:00:18) last pick:  242.00  -217.50
+\i (00:00:18) done 
+\i (00:00:18) add line 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini line_width 6 
+\i (00:00:18) FORM mini lock_direction Off 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 225 76.9 
+\t (00:00:18) last pick:  225.00  76.90
+\i (00:00:18) pick 225 207.5 
+\t (00:00:18) last pick:  225.00  207.50
+\i (00:00:18) done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) label refdes 
+\t (00:00:18) Pick text location.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class REF DES 
+\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:18) FORM mini text_block 3 
+\i (00:00:18) FORM mini text_justification Center 
+\i (00:00:18) FORM mini angle 0 
+\i (00:00:18) FORM mini mirror NO 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0 -25 
+\t (00:00:18) last pick:  0.00  -25.00
+\t (00:00:18) Enter text string.
+\i (00:00:18) text REF 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) label refdes 
+\t (00:00:18) Pick text location.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini class REF DES 
+\i (00:00:18) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:18) FORM mini text_block 3 
+\i (00:00:18) FORM mini text_justification Center 
+\i (00:00:18) FORM mini angle 0 
+\i (00:00:18) FORM mini mirror NO 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0 -25 
+\t (00:00:18) last pick:  0.00  -25.00
+\t (00:00:18) Enter text string.
+\i (00:00:18) text REF 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) label device 
+\t (00:00:19) Pick text location.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class DEVICE TYPE 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini text_block 3 
+\i (00:00:19) FORM mini text_justification Center 
+\i (00:00:19) FORM mini angle 0 
+\i (00:00:19) FORM mini mirror NO 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 0 -25 
+\t (00:00:19) last pick:  0.00  -25.00
+\t (00:00:19) Enter text string.
+\i (00:00:19) text IND_IHLP-4040DZ-L 
+\t (00:00:19) Enter text string.
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) add circle 
+\t (00:00:19) Pick center point of the circle.
+\t (00:00:19) Pick center point of the circle.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -200 0 
+\t (00:00:19) last pick:  -200.00  0.00
+\t (00:00:19) Pick a perimeter point on the circle.
+\i (00:00:19) pick -197 0 
+\t (00:00:19) last pick:  -197.00  0.00
+\t (00:00:19) Pick center point of the circle.
+\i (00:00:19) done 
+\i (00:00:19) add circle 
+\t (00:00:19) Pick center point of the circle.
+\t (00:00:19) Pick center point of the circle.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:19) FORM mini line_width 6 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -270 0 
+\t (00:00:19) last pick:  -270.00  0.00
+\t (00:00:19) Pick a perimeter point on the circle.
+\i (00:00:19) pick -267 0 
+\t (00:00:19) last pick:  -267.00  0.00
+\t (00:00:19) Pick center point of the circle.
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 6 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -225 -207.5 
+\t (00:00:19) last pick:  -225.00  -207.50
+\i (00:00:19) pick 225 -207.5 
+\t (00:00:19) last pick:  225.00  -207.50
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 6 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 225 -207.5 
+\t (00:00:19) last pick:  225.00  -207.50
+\i (00:00:19) pick 225 -76.9 
+\t (00:00:19) last pick:  225.00  -76.90
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 6 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 225 207.5 
+\t (00:00:19) last pick:  225.00  207.50
+\i (00:00:19) pick -225 207.5 
+\t (00:00:19) last pick:  -225.00  207.50
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 6 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -225 207.5 
+\t (00:00:19) last pick:  -225.00  207.50
+\i (00:00:19) pick -225 76.9 
+\t (00:00:19) last pick:  -225.00  76.90
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini line_width 0 
+\i (00:00:19) FORM mini lock_direction Off 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -220 -202.5 
+\t (00:00:19) last pick:  -220.00  -202.50
+\i (00:00:19) pick 220 -202.5 
+\t (00:00:19) last pick:  220.00  -202.50
+\i (00:00:19) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick 220 -202.5 
+\t (00:00:20) last pick:  220.00  -202.50
+\i (00:00:20) pick 220 202.5 
+\t (00:00:20) last pick:  220.00  202.50
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick 220 202.5 
+\t (00:00:20) last pick:  220.00  202.50
+\i (00:00:20) pick -220 202.5 
+\t (00:00:20) last pick:  -220.00  202.50
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 0 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -220 202.5 
+\t (00:00:20) last pick:  -220.00  202.50
+\i (00:00:20) pick -220 -202.5 
+\t (00:00:20) last pick:  -220.00  -202.50
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini line_width 6 
+\i (00:00:20) FORM mini lock_direction Off 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -225 -76.9 
+\t (00:00:20) last pick:  -225.00  -76.90
+\i (00:00:20) pick -225 -207.5 
+\t (00:00:20) last pick:  -225.00  -207.50
+\t (00:00:20) Merged with existing line. Start next line.
+\i (00:00:20) done 
+\i (00:00:20) create symbol 
+\i (00:00:20) fillin IND_IHLP-4040DZ-L 
+\t (00:00:20) Creating package symbol 'C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/IHLP4040DZER3R3M01/AllegroV16_6/ind_ihlp-4040dz-l.psm'.
+\t (00:00:20) Starting Create symbol...
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) trapsize 503 
+\i (00:00:20) dbdoctor 
+\i (00:00:20) setwindow Form.dbdoctor_allegro 
+\i (00:00:20) FORM dbdoctor_allegro drc YES 
+\i (00:00:20) FORM dbdoctor_allegro shapes YES 
+\i (00:00:20) FORM dbdoctor_allegro execute 
+\t (00:00:20) Dbdoctor in progress - please wait.
+\t (00:00:20) Checking db records
+\t (00:00:20)     checking for orphans...
+\t (00:00:20)     Checked 100 percent
+\t (00:00:20) Regenerating DRC
+\t (00:00:20)   Original DRC errors: 0
+\t (00:00:20) Performing DRC...
+\t (00:00:20) No DRC errors detected.
+\t (00:00:20)   Updated DRC errors:  0
+\t (00:00:20) Done dbdoctor.
+\t (00:00:20) Dbdoctor completed.
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) save_as 
+\i (00:00:20) fillin IND_IHLP-4040DZ-L 
+\t (00:00:21) Symbol 'ind_ihlp-4040dz-l.psm' created.
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) exit 
+\t (00:00:21)     Journal end - Sun Feb 12 11:31:49 2017

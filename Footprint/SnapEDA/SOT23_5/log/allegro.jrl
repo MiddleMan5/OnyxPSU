@@ -1,0 +1,185 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sat Jan 28 17:40:08 2017
+\t (00:00:01)         Host=QUINN-XPS User=dmigh Pid=15336 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 857
+\i (00:00:03) trapsize 837
+\i (00:00:03) trapsize 861
+\i (00:00:03) trapsize 882
+\i (00:00:03) trapsize 1448
+\i (00:00:04) replay SOT23_5_pkg.scr 
+\i (00:00:04) version 16.3 
+\t (00:00:04) Script version: 16.3
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) new 
+\i (00:00:04) newdrawfillin SOT23_5.dra 'Package Symbol' 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 882
+\i (00:00:04) trapsize 857
+\i (00:00:04) trapsize 882
+\i (00:00:04) trapsize 1448
+\i (00:00:04) trapsize 1448
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) Color 
+\i (00:00:04) setwindow form.cvf_main
+\i (00:00:04) FORM cvf_main class_list Geometry
+\i (00:00:04) setwindow Form.cvf_main 
+\i (00:00:04) FORM cvf_main class_list Components 
+\i (00:00:04) FORM cvf_main all_visible1 YES 
+\i (00:00:04) FORM cvf_main all_visible2 YES 
+\i (00:00:04) FORM cvf_main all_visible3 YES 
+\i (00:00:04) FORM cvf_main class_list Geometry 
+\i (00:00:04) FORM cvf_main all_visible5 YES 
+\i (00:00:04) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:04) FORM cvf_main class_list Stack-Up 
+\i (00:00:04) FORM cvf_main all_visible1 YES 
+\i (00:00:04) FORM cvf_main ok 
+\i (00:00:04) generaledit 
+\i (00:00:04) prmed 
+\i (00:00:04) setwindow Form.prmedit 
+\i (00:00:04) FORM prmedit design 
+\i (00:00:04) FORM prmedit units Millimeter 
+\e (00:00:04) Change may cause round-off; run dbcheck.
+\i (00:00:04) FORM prmedit accuracy 4 
+\i (00:00:04) FORM prmedit size other 
+\e (00:00:04) Value for field is not legal
+\i (00:00:04) FORM prmedit width 39.6 
+\i (00:00:04) FORM prmedit height 34.4 
+\i (00:00:04) FORM prmedit Apply 
+\w (00:00:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) trapsize 2930
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) FORM prmedit x -16.1 
+\i (00:00:04) FORM prmedit y -14.15 
+\i (00:00:04) FORM prmedit done 
+\i (00:00:04) trapsize 2930
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) chg origin 
+\t (00:00:04) Pick new location for drawing origin.
+\i (00:00:04) pick -0 0 
+\t (00:00:04) last pick:  0.0000  0.0000
+\t (00:00:04) Pick point (0.0000 0.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:04) add pin 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini pad_name s_r100_55_m120_75_p100_55 
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) FORM mini next_pin_number 1 
+\i (00:00:05) FORM mini pintype_mechanical NO 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -1.35 0.95 
+\t (00:00:05) last pick:  -1.3500  0.9500
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 2 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -1.35 0 
+\t (00:00:05) last pick:  -1.3500  0.0000
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 3 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -1.35 -0.95 
+\t (00:00:05) last pick:  -1.3500  -0.9500
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 4 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 1.35 -0.95 
+\t (00:00:05) last pick:  1.3500  -0.9500
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini next_pin_number 5 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 1.35 0.95 
+\t (00:00:05) last pick:  1.3500  0.9500
+\t (00:00:05) Using 'S_R100_55_M120_75_P100_55.pad'.
+\i (00:00:05) done 
+\t (00:00:05) Exiting from Add Pin.
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.127 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -0.87 1.525 
+\t (00:00:05) last pick:  -0.8700  1.5250
+\i (00:00:05) pick -0.87 -1.525 
+\t (00:00:05) last pick:  -0.8700  -1.5250
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.127 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -0.87 1.525 
+\t (00:00:05) last pick:  -0.8700  1.5250
+\i (00:00:05) pick 0.87 1.525 
+\t (00:00:05) last pick:  0.8700  1.5250
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.127 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0.87 1.525 
+\t (00:00:05) last pick:  0.8700  1.5250
+\i (00:00:05) pick 0.87 -1.525 
+\t (00:00:05) last pick:  0.8700  -1.5250
+\i (00:00:05) done 
+\i (00:00:05) add line 
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) FORM mini line_width 0.127 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick -0.87 -1.525 
+\t (00:00:05) last pick:  -0.8700  -1.5250
+\i (00:00:05) pick 0.87 -1.525 
+\t (00:00:05) last pick:  0.8700  -1.5250
+\i (00:00:05) done 
+\i (00:00:05) label refdes 
+\t (00:00:05) Pick text location.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini text_block 3 
+\i (00:00:05) FORM mini angle 0 
+\i (00:00:05) FORM mini mirror NO 
+\i (00:00:05) FORM mini text_justification Center 
+\i (00:00:05) FORM mini class REF DES 
+\i (00:00:05) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0 0.75 
+\t (00:00:05) last pick:  0.0000  0.7500
+\t (00:00:05) Enter text string.
+\i (00:00:05) Text REF 
+\i (00:00:05) done 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) label refdes 
+\t (00:00:05) Pick text location.
+\i (00:00:05) setwindow Form.mini 
+\i (00:00:05) FORM mini text_block 3 
+\i (00:00:05) FORM mini angle 0 
+\i (00:00:05) FORM mini mirror NO 
+\i (00:00:05) FORM mini text_justification Center 
+\i (00:00:05) FORM mini class REF DES 
+\i (00:00:05) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) pick 0 0.75 
+\t (00:00:05) last pick:  0.0000  0.7500
+\t (00:00:05) Enter text string.
+\i (00:00:05) Text REF 
+\i (00:00:05) done 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) setwindow pcb 
+\i (00:00:05) chg origin 
+\t (00:00:05) Pick new location for drawing origin.
+\i (00:00:05) pick -0 0 
+\t (00:00:05) last pick:  0.0000  0.0000
+\t (00:00:05) Pick point (0.0000 0.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:05) save 
+\t (00:00:05) Symbol 'sot23_5.psm' created.
+\i (00:00:05) exit 
+\t (00:00:06)     Journal end - Sat Jan 28 17:40:13 2017

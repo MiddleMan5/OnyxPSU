@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SWITCH_FSMSM.dra                              )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jan 30 13:49:58 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/MOM_SWITCH/AllegroV16_6
+    Name      = switch_fsmsm.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

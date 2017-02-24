@@ -1,0 +1,391 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 14:40:24 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=4864 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 857
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 861
+\i (00:00:00) trapsize 882
+\i (00:00:00) trapsize 1448
+\i (00:00:01) replay DFN-4_pkg.scr 
+\i (00:00:01) version 16.3 
+\t (00:00:01) Script version: 16.3
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) new 
+\i (00:00:01) newdrawfillin DFN-4.dra 'Package Symbol' 
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 882
+\i (00:00:01) trapsize 857
+\i (00:00:01) trapsize 882
+\i (00:00:01) trapsize 1448
+\i (00:00:01) trapsize 1448
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) Color 
+\i (00:00:01) setwindow form.cvf_main
+\i (00:00:01) FORM cvf_main class_list Geometry
+\i (00:00:01) setwindow Form.cvf_main 
+\i (00:00:01) FORM cvf_main class_list Components 
+\i (00:00:01) FORM cvf_main all_visible1 YES 
+\i (00:00:01) FORM cvf_main all_visible2 YES 
+\i (00:00:01) FORM cvf_main all_visible3 YES 
+\i (00:00:01) FORM cvf_main class_list Geometry 
+\i (00:00:01) FORM cvf_main all_visible5 YES 
+\i (00:00:01) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:01) FORM cvf_main class_list Stack-Up 
+\i (00:00:01) FORM cvf_main all_visible1 YES 
+\i (00:00:01) FORM cvf_main ok 
+\i (00:00:01) generaledit 
+\i (00:00:01) prmed 
+\i (00:00:01) setwindow Form.prmedit 
+\i (00:00:01) FORM prmedit design 
+\i (00:00:02) FORM prmedit units Millimeter 
+\e (00:00:02) Change may cause round-off; run dbcheck.
+\i (00:00:02) FORM prmedit accuracy 4 
+\i (00:00:02) FORM prmedit size other 
+\e (00:00:02) Value for field is not legal
+\i (00:00:02) FORM prmedit width 105.2 
+\i (00:00:02) FORM prmedit height 53.1656 
+\i (00:00:02) FORM prmedit Apply 
+\w (00:00:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:02) trapsize 4529
+\t (00:00:02) Performing DRC...
+\t (00:00:02) No DRC errors detected.
+\i (00:00:02) FORM prmedit x -40.7 
+\i (00:00:02) FORM prmedit y -21.1871 
+\i (00:00:02) FORM prmedit done 
+\i (00:00:02) trapsize 4529
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) chg origin 
+\t (00:00:02) Pick new location for drawing origin.
+\i (00:00:02) pick 4 3 
+\t (00:00:02) last pick:  4.0000  3.0000
+\i (00:00:02) trapsize 4529
+\t (00:00:02) Pick point (4.0000 3.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:02) add pin 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini pad_name s_r220_140_m240_160_p220_140 
+\t (00:00:02) Using 'S_R220_140_M240_160_P220_140.pad'.
+\i (00:00:02) FORM mini next_pin_number 1 
+\i (00:00:02) FORM mini pintype_mechanical NO 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 0.45 1.32 
+\t (00:00:02) last pick:  0.4500  1.3200
+\t (00:00:02) Using 'S_R220_140_M240_160_P220_140.pad'.
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini next_pin_number 2 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 0.45 3.87 
+\t (00:00:02) last pick:  0.4500  3.8700
+\t (00:00:02) Using 'S_R220_140_M240_160_P220_140.pad'.
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini next_pin_number 3 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 6.75 3.87 
+\t (00:00:02) last pick:  6.7500  3.8700
+\t (00:00:02) Using 'S_R220_140_M240_160_P220_140.pad'.
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini pad_name s_r240_140_m260_160_p240_140 
+\t (00:00:02) Using 'S_R240_140_M260_160_P240_140.pad'.
+\i (00:00:02) FORM mini next_pin_number 4 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 6.65 1.32 
+\t (00:00:02) last pick:  6.6500  1.3200
+\t (00:00:02) Using 'S_R240_140_M260_160_P240_140.pad'.
+\i (00:00:02) done 
+\t (00:00:02) Exiting from Add Pin.
+\i (00:00:02) add line 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:02) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:02) FORM mini line_width 0 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 0.15 0 
+\t (00:00:02) last pick:  0.1500  0.0000
+\i (00:00:02) pick 3.45 0 
+\t (00:00:02) last pick:  3.4500  0.0000
+\i (00:00:02) done 
+\i (00:00:02) add line 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:02) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:02) FORM mini line_width 0 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 3.75 0 
+\t (00:00:02) last pick:  3.7500  0.0000
+\i (00:00:02) pick 7.05 0 
+\t (00:00:02) last pick:  7.0500  0.0000
+\i (00:00:02) done 
+\i (00:00:02) add line 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:02) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:02) FORM mini line_width 0 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 7.2 0.15 
+\t (00:00:02) last pick:  7.2000  0.1500
+\i (00:00:02) pick 7.2 1.2 
+\t (00:00:02) last pick:  7.2000  1.2000
+\i (00:00:02) done 
+\i (00:00:02) add line 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:02) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:02) FORM mini line_width 0 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 7.2 1.45 
+\t (00:00:02) last pick:  7.2000  1.4500
+\i (00:00:02) pick 7.2 3.75 
+\t (00:00:02) last pick:  7.2000  3.7500
+\i (00:00:02) done 
+\i (00:00:02) add line 
+\i (00:00:02) setwindow Form.mini 
+\i (00:00:02) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:02) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:02) FORM mini line_width 0 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) pick 7.2 4 
+\t (00:00:02) last pick:  7.2000  4.0000
+\i (00:00:02) pick 7.2 5.05 
+\t (00:00:02) last pick:  7.2000  5.0500
+\i (00:00:02) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 7.05 5.2 
+\t (00:00:03) last pick:  7.0500  5.2000
+\i (00:00:03) pick 3.75 5.2 
+\t (00:00:03) last pick:  3.7500  5.2000
+\i (00:00:03) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 3.45 5.2 
+\t (00:00:03) last pick:  3.4500  5.2000
+\i (00:00:03) pick 0.15 5.2 
+\t (00:00:03) last pick:  0.1500  5.2000
+\i (00:00:03) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 5.05 
+\t (00:00:03) last pick:  0.0000  5.0500
+\i (00:00:03) pick 0 4 
+\t (00:00:03) last pick:  0.0000  4.0000
+\i (00:00:03) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 3.75 
+\t (00:00:03) last pick:  0.0000  3.7500
+\i (00:00:03) pick 0 1.45 
+\t (00:00:03) last pick:  0.0000  1.4500
+\i (00:00:03) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 1.2 
+\t (00:00:03) last pick:  0.0000  1.2000
+\i (00:00:03) pick 0 0.15 
+\t (00:00:03) last pick:  0.0000  0.1500
+\i (00:00:03) done 
+\i (00:00:03) add line 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass 
+\e (00:00:03) Value for field is not legal
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 11.25 2.61 
+\t (00:00:03) last pick:  11.2500  2.6100
+\i (00:00:03) pick 11.25 2.67 
+\t (00:00:03) last pick:  11.2500  2.6700
+\i (00:00:03) done 
+\i (00:00:03) add arc 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 4 
+\t (00:00:03) last pick:  0.0000  4.0000
+\i (00:00:03) pick 0 3.75 
+\t (00:00:03) last pick:  0.0000  3.7500
+\i (00:00:03) pick 0.125 3.875 
+\t (00:00:03) last pick:  0.1250  3.8750
+\i (00:00:03) done 
+\i (00:00:03) add arc 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 1.45 
+\t (00:00:03) last pick:  0.0000  1.4500
+\i (00:00:03) pick 0 1.2 
+\t (00:00:03) last pick:  0.0000  1.2000
+\i (00:00:03) pick 0.125 1.325 
+\t (00:00:03) last pick:  0.1250  1.3250
+\i (00:00:03) done 
+\i (00:00:03) add arc 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 0 0.15 
+\t (00:00:03) last pick:  0.0000  0.1500
+\i (00:00:03) pick 0.15 0 
+\t (00:00:03) last pick:  0.1500  0.0000
+\i (00:00:03) pick 0.120714 0.121987 
+\t (00:00:03) last pick:  0.1207  0.1220
+\i (00:00:03) done 
+\i (00:00:03) add arc 
+\i (00:00:03) setwindow Form.mini 
+\i (00:00:03) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:03) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:03) FORM mini line_width 0 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) pick 3.45 0 
+\t (00:00:03) last pick:  3.4500  0.0000
+\i (00:00:03) pick 3.75 0 
+\t (00:00:03) last pick:  3.7500  0.0000
+\i (00:00:03) pick 3.6 0.15 
+\t (00:00:03) last pick:  3.6000  0.1500
+\i (00:00:03) done 
+\i (00:00:03) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 3.75 5.2 
+\t (00:00:04) last pick:  3.7500  5.2000
+\i (00:00:04) pick 3.45 5.2 
+\t (00:00:04) last pick:  3.4500  5.2000
+\i (00:00:04) pick 3.6 5.35 
+\t (00:00:04) last pick:  3.6000  5.3500
+\i (00:00:04) done 
+\i (00:00:04) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 0.15 5.2 
+\t (00:00:04) last pick:  0.1500  5.2000
+\i (00:00:04) pick 0 5.05 
+\t (00:00:04) last pick:  0.0000  5.0500
+\i (00:00:04) pick 0.121987 5.07929 
+\t (00:00:04) last pick:  0.1220  5.0793
+\i (00:00:04) done 
+\i (00:00:04) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 7.2 3.75 
+\t (00:00:04) last pick:  7.2000  3.7500
+\i (00:00:04) pick 7.2 4 
+\t (00:00:04) last pick:  7.2000  4.0000
+\i (00:00:04) pick 7.325 3.875 
+\t (00:00:04) last pick:  7.3250  3.8750
+\i (00:00:04) done 
+\i (00:00:04) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 7.2 1.2 
+\t (00:00:04) last pick:  7.2000  1.2000
+\i (00:00:04) pick 7.2 1.45 
+\t (00:00:04) last pick:  7.2000  1.4500
+\i (00:00:04) pick 7.325 1.325 
+\t (00:00:04) last pick:  7.3250  1.3250
+\i (00:00:04) done 
+\i (00:00:04) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 7.2 5.05 
+\t (00:00:04) last pick:  7.2000  5.0500
+\i (00:00:04) pick 7.05 5.2 
+\t (00:00:04) last pick:  7.0500  5.2000
+\i (00:00:04) pick 7.24571 5.24699 
+\t (00:00:04) last pick:  7.2457  5.2470
+\i (00:00:04) done 
+\i (00:00:04) add arc 
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) FORM mini line_width 0 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 7.05 0 
+\t (00:00:04) last pick:  7.0500  0.0000
+\i (00:00:04) pick 7.2 0.15 
+\t (00:00:04) last pick:  7.2000  0.1500
+\i (00:00:04) pick 7.24699 -0.0457136 
+\t (00:00:04) last pick:  7.2470  -0.0457
+\i (00:00:04) done 
+\i (00:00:04) label refdes 
+\t (00:00:04) Pick text location.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini text_block 3 
+\i (00:00:04) FORM mini angle 0 
+\i (00:00:04) FORM mini mirror NO 
+\i (00:00:04) FORM mini text_justification Center 
+\i (00:00:04) FORM mini class REF DES 
+\i (00:00:04) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 0 0.75 
+\t (00:00:04) last pick:  0.0000  0.7500
+\t (00:00:04) Enter text string.
+\i (00:00:04) Text REF 
+\i (00:00:04) done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) label refdes 
+\t (00:00:04) Pick text location.
+\i (00:00:04) setwindow Form.mini 
+\i (00:00:04) FORM mini text_block 3 
+\i (00:00:04) FORM mini angle 0 
+\i (00:00:04) FORM mini mirror NO 
+\i (00:00:04) FORM mini text_justification Center 
+\i (00:00:04) FORM mini class REF DES 
+\i (00:00:04) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) pick 0 0.75 
+\t (00:00:04) last pick:  0.0000  0.7500
+\t (00:00:04) Enter text string.
+\i (00:00:04) Text REF 
+\i (00:00:04) done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) chg origin 
+\t (00:00:04) Pick new location for drawing origin.
+\i (00:00:04) pick 4 3 
+\t (00:00:04) last pick:  4.0000  3.0000
+\i (00:00:04) trapsize 4529
+\t (00:00:04) Pick point (4.0000 3.0000) changed to origin (0.0000, 0.0000)
+\i (00:00:04) save 
+\t (00:00:05) Symbol 'dfn-4.psm' created.
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Sun Jan 29 14:40:29 2017

@@ -1,0 +1,69 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Feb 12 11:43:08 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=20108 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 857
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 861
+\i (00:00:00) trapsize 882
+\i (00:00:00) trapsize 1448
+\i (00:00:01) replay CustomShapes.scr 
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) enved 
+\i (00:00:01) setwindow Form.prfedit 
+\i (00:00:01) FORM prfedit treelist Ui 
+\i (00:00:01) FORM prfedit noconfirm YES 
+\e (00:00:01) Form field label not found
+\i (00:00:01) FORM prfedit done 
+\i (00:00:02) setwindow pcb 
+\i (00:00:02) new 
+\i (00:00:02) newdrawfillin ths58x68x45x10.dra 'Flash Symbol' 
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 882
+\i (00:00:02) trapsize 857
+\i (00:00:02) trapsize 882
+\i (00:00:02) trapsize 1448
+\i (00:00:02) trapsize 1448
+\i (00:00:02) prmed 
+\i (00:00:02) setwindow Form.prmedit 
+\i (00:00:02) FORM prmedit design 
+\i (00:00:02) FORM prmedit type Flash 
+\i (00:00:02) FORM prmedit units Mils 
+\i (00:00:02) FORM prmedit size Other 
+\i (00:00:02) FORM prmedit accuracy 2 
+\i (00:00:02) FORM prmedit width 156 
+\i (00:00:02) FORM prmedit height 156 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) trapsize 14480
+\t (00:00:03) Performing DRC...
+\t (00:00:03) No DRC errors detected.
+\i (00:00:03) FORM prmedit x -78 
+\i (00:00:03) FORM prmedit y -78 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) trapsize 14480
+\i (00:00:03) FORM prmedit lock_mode Line 
+\i (00:00:03) FORM prmedit lock_direction Off 
+\i (00:00:03) FORM prmedit apply 
+\i (00:00:03) FORM prmedit done 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) Add Flash 
+   (00:00:03) Loading cmds.cxt 
+\i (00:00:03) setwindow Form.thermflash 
+\i (00:00:03) FORM thermflash indiam 58 
+\i (00:00:03) FORM thermflash outdia 68 
+\i (00:00:03) FORM thermflash spkwdth 10 
+\i (00:00:03) FORM thermflash spknum 4 
+\i (00:00:03) FORM thermflash spkangl 45 
+\i (00:00:03) FORM thermflash done 
+   (00:00:03) Loading axlcore.cxt 
+\i (00:00:03) setwindow pcb 
+\i (00:00:03) Create Symbol 
+\i (00:00:03) fillin ths58x68x45x10.fsm 
+\t (00:00:03) Creating flash symbol 'C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/A98076-ND/AllegroV16_6/ths58x68x45x10.fsm'.
+\t (00:00:03) Starting Create symbol...
+\i (00:00:03) save 
+\t (00:00:03) Symbol 'ths58x68x45x10.fsm' created.
+\i (00:00:03) exit 
+\t (00:00:03)     Journal end - Sun Feb 12 11:43:11 2017

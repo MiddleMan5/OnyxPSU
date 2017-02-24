@@ -1,0 +1,33 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 21:53:58 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=6132 CPUs=4
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/CAT24C256WI-GT3/AllegroV16_6/D8.dra
+\i (00:00:03) trapsize 41
+\i (00:00:03) trapsize 40
+\i (00:00:03) trapsize 42
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 43
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -7.33 4.13
+\i (00:00:04) trapsize 85
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -7.49 3.79
+\i (00:00:04) trapsize 170
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -7.14 4.14
+\i (00:00:04) trapsize 341
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -9.19 4.81
+\i (00:00:04) trapsize 681
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -11.91 6.18
+\i (00:00:04) trapsize 341
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Sun Jan 29 21:54:05 2017

@@ -1,0 +1,44 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 20:35:21 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=12352 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/ATXMEGA32E5/AllegroV16_6/32A.dra
+\i (00:00:00) trapsize 41
+\i (00:00:00) trapsize 40
+\i (00:00:00) trapsize 42
+\i (00:00:00) trapsize 43
+\i (00:00:00) trapsize 43
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -7.92 6.52
+\i (00:00:01) trapsize 85
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -7.92 6.51
+\i (00:00:01) trapsize 170
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -7.92 6.52
+\i (00:00:01) trapsize 341
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -9.96 7.88
+\i (00:00:01) trapsize 681
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -9.95 7.88
+\i (00:00:01) trapsize 1363
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -79.91 35.13
+\i (00:00:01) trapsize 681
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -86.72 48.77
+\i (00:00:02) trapsize 341
+\i (00:00:03) roam start
+\i (00:00:03) roam y -32
+\i (00:00:03) roam end
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sun Jan 29 20:35:29 2017

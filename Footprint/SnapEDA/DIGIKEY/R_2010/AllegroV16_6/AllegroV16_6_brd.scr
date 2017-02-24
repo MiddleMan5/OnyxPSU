@@ -1,0 +1,1472 @@
+# Allegro Script file created by :
+# Ultra Librarian Gold 8.1.230 Copyright © 1999-2017 EMA Design Automation
+# http://www.UltraLibrarian.com
+ 
+# Registered to :
+# Dequeue Server
+# 
+ 
+ 
+version 14.0
+
+
+# **************************New Pattern starts here************************
+version 14.0
+
+setwindow pcb
+open
+fillin "blank_drawing.dra"
+prmed
+setwindow Form.prmedit
+FORM prmedit design
+FORM prmedit type Package
+FORM prmedit units Mils
+FORM prmedit size Other
+FORM prmedit accuracy 2
+FORM prmedit width 2001.5
+FORM prmedit height 2102.5
+FORM prmedit apply
+FORM prmedit x -894
+FORM prmedit y -951
+FORM prmedit apply
+FORM prmedit lock_mode Line
+FORM prmedit lock_direction Off
+FORM prmedit apply
+FORM prmedit done
+setwindow pcb
+status
+setwindow form.status
+FORM status lock_direction Off
+FORM status lock_mode line
+FORM status symbol_mirror NO
+FORM status drawing_size
+FORM status done
+setwindow pcb
+window center; pick     0.0     0.0
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr...
+#
+# Allegro Footprint User-Initialization Script
+#
+# A place to put custom (user-definable) things that need to be done before adding data into a new footprint.
+#
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr
+
+define subclass
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_TOP
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETR pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_BOTTOM
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_TOP
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name CUTOUTSLOTS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name DIEBONDPADS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name WIREBONDS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PIN
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_DETAIL
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name COPY RIGHT
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+FORM subclass done
+
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX44Y102D0T
+setwindow form.mini
+FORM mini next_pin_number 1
+setwindow pcb
+pick -94.5 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX44Y102D0T
+setwindow form.mini
+FORM mini next_pin_number 2
+setwindow pcb
+pick 94.5 0
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -126.5 -61
+pick -126.5 61
+pick 126.5 61
+pick 126.5 -61
+done
+property edit
+setwindow Form.Find
+FORM find all_off
+FORM find shapes YES
+setwindow pcb
+pick grid -126.5 -61
+setwindow Form.editprop1
+FORM editprop1 properties PACKAGE_HEIGHT_MAX
+setwindow Form.editprop2
+FORM editprop2 package_height_max ele_prop_value 30
+FORM editprop2 apply
+setwindow Form.editprop1
+FORM editprop1 done
+setwindow Form.Find
+FORM find all_on
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class ROUTE KEEPOUT
+FORM mini subclass TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -70.5 49
+pick 70.5 49
+pick 70.5 -49
+pick -70.5 -49
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class MANUFACTURING
+FORM mini subclass NO_PROBE_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -131.5 -66
+pick -131.5 66
+pick 131.5 66
+pick 131.5 -66
+done
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass SILKSCREEN_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label device
+setwindow form.mini
+FORM mini class DEVICE TYPE
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "STA_CSRN2010"
+setwindow pcb
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+FORM mini line_width 0
+setwindow pcb
+pick -89.5 0
+pick -86.5 0
+done
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+FORM mini line_width 6
+setwindow pcb
+pick -149.5 0
+pick -146.5 0
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 -51
+pick -72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick -72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 51
+pick 72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick 72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick -60.4 -56
+pick 60.4 -56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick 60.4 56
+pick -60.4 56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr...
+#
+# Allegro Footprint User-Customization Script
+#
+# A place to put custom (user-definable) things that need to be done after adding data to a new footprint, before it is saved.
+#
+# change database units to millimeters
+
+
+#setwindow pcb
+#drawing param 
+#setwindow form.drawing
+#FORM drawing units Millimeter 
+#FORM drawing done  
+#setwindow pcb
+#trapsize 1742
+## allegro recommends running a db check after changing the units of measure
+#dbdoctor 
+#setwindow form.dbdoctor_allegro
+#FORM dbdoctor_allegro drc YES 
+#FORM dbdoctor_allegro shapes YES 
+#FORM dbdoctor_allegro execute  
+#FORM dbdoctor_allegro close  
+#setwindow pcb
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr
+create symbol
+fillin "STA_CSRN2010"
+setwindow pcb
+trapsize 503
+dbdoctor
+setwindow Form.dbdoctor_allegro
+FORM dbdoctor_allegro drc YES
+FORM dbdoctor_allegro shapes YES
+FORM dbdoctor_allegro execute
+setwindow pcb
+save_as 
+fillin "STA_CSRN2010"
+setwindow pcb
+
+
+# **************************New Pattern starts here************************
+version 14.0
+
+setwindow pcb
+open
+fillin "blank_drawing.dra"
+prmed
+setwindow Form.prmedit
+FORM prmedit design
+FORM prmedit type Package
+FORM prmedit units Mils
+FORM prmedit size Other
+FORM prmedit accuracy 2
+FORM prmedit width 2005.5
+FORM prmedit height 2122.5
+FORM prmedit apply
+FORM prmedit x -898
+FORM prmedit y -953
+FORM prmedit apply
+FORM prmedit lock_mode Line
+FORM prmedit lock_direction Off
+FORM prmedit apply
+FORM prmedit done
+setwindow pcb
+status
+setwindow form.status
+FORM status lock_direction Off
+FORM status lock_mode line
+FORM status symbol_mirror NO
+FORM status drawing_size
+FORM status done
+setwindow pcb
+window center; pick     0.0     0.0
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr...
+#
+# Allegro Footprint User-Initialization Script
+#
+# A place to put custom (user-definable) things that need to be done before adding data into a new footprint.
+#
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr
+
+define subclass
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_TOP
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETR pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_BOTTOM
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_TOP
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name CUTOUTSLOTS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name DIEBONDPADS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name WIREBONDS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PIN
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_DETAIL
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name COPY RIGHT
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+FORM subclass done
+
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX52Y106D0T
+setwindow form.mini
+FORM mini next_pin_number 1
+setwindow pcb
+pick -98.5 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX52Y106D0T
+setwindow form.mini
+FORM mini next_pin_number 2
+setwindow pcb
+pick 98.5 0
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -144.5 -73
+pick -144.5 73
+pick 144.5 73
+pick 144.5 -73
+done
+property edit
+setwindow Form.Find
+FORM find all_off
+FORM find shapes YES
+setwindow pcb
+pick grid -144.5 -73
+setwindow Form.editprop1
+FORM editprop1 properties PACKAGE_HEIGHT_MAX
+setwindow Form.editprop2
+FORM editprop2 package_height_max ele_prop_value 30
+FORM editprop2 apply
+setwindow Form.editprop1
+FORM editprop1 done
+setwindow Form.Find
+FORM find all_on
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class ROUTE KEEPOUT
+FORM mini subclass TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -70.5 49
+pick 70.5 49
+pick 70.5 -49
+pick -70.5 -49
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class MANUFACTURING
+FORM mini subclass NO_PROBE_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -139.5 -68
+pick -139.5 68
+pick 139.5 68
+pick 139.5 -68
+done
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass SILKSCREEN_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label device
+setwindow form.mini
+FORM mini class DEVICE TYPE
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "STA_CSRN2010-M"
+setwindow pcb
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+FORM mini line_width 0
+setwindow pcb
+pick -93.5 0
+pick -90.5 0
+done
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+FORM mini line_width 6
+setwindow pcb
+pick -157.5 0
+pick -154.5 0
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 -51
+pick -72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick -72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 51
+pick 72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick 72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick -59.7 -56
+pick 59.7 -56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick 59.7 56
+pick -59.7 56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr...
+#
+# Allegro Footprint User-Customization Script
+#
+# A place to put custom (user-definable) things that need to be done after adding data to a new footprint, before it is saved.
+#
+# change database units to millimeters
+
+
+#setwindow pcb
+#drawing param 
+#setwindow form.drawing
+#FORM drawing units Millimeter 
+#FORM drawing done  
+#setwindow pcb
+#trapsize 1742
+## allegro recommends running a db check after changing the units of measure
+#dbdoctor 
+#setwindow form.dbdoctor_allegro
+#FORM dbdoctor_allegro drc YES 
+#FORM dbdoctor_allegro shapes YES 
+#FORM dbdoctor_allegro execute  
+#FORM dbdoctor_allegro close  
+#setwindow pcb
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr
+create symbol
+fillin "STA_CSRN2010-M"
+setwindow pcb
+trapsize 503
+dbdoctor
+setwindow Form.dbdoctor_allegro
+FORM dbdoctor_allegro drc YES
+FORM dbdoctor_allegro shapes YES
+FORM dbdoctor_allegro execute
+setwindow pcb
+save_as 
+fillin "STA_CSRN2010-M"
+setwindow pcb
+
+
+# **************************New Pattern starts here************************
+version 14.0
+
+setwindow pcb
+open
+fillin "blank_drawing.dra"
+prmed
+setwindow Form.prmedit
+FORM prmedit design
+FORM prmedit type Package
+FORM prmedit units Mils
+FORM prmedit size Other
+FORM prmedit accuracy 2
+FORM prmedit width 2001.5
+FORM prmedit height 2088.5
+FORM prmedit apply
+FORM prmedit x -894
+FORM prmedit y -951
+FORM prmedit apply
+FORM prmedit lock_mode Line
+FORM prmedit lock_direction Off
+FORM prmedit apply
+FORM prmedit done
+setwindow pcb
+status
+setwindow form.status
+FORM status lock_direction Off
+FORM status lock_mode line
+FORM status symbol_mirror NO
+FORM status drawing_size
+FORM status done
+setwindow pcb
+window center; pick     0.0     0.0
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr...
+#
+# Allegro Footprint User-Initialization Script
+#
+# A place to put custom (user-definable) things that need to be done before adding data into a new footprint.
+#
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr
+
+define subclass
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_TOP
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETR pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_BOTTOM
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_TOP
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name CUTOUTSLOTS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name DIEBONDPADS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name WIREBONDS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PIN
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_DETAIL
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name COPY RIGHT
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+FORM subclass done
+
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX36Y102D0T
+setwindow form.mini
+FORM mini next_pin_number 1
+setwindow pcb
+pick -90.5 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name RX36Y102D0T
+setwindow form.mini
+FORM mini next_pin_number 2
+setwindow pcb
+pick 90.5 0
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -112.5 -55
+pick -112.5 55
+pick 112.5 55
+pick 112.5 -55
+done
+property edit
+setwindow Form.Find
+FORM find all_off
+FORM find shapes YES
+setwindow pcb
+pick grid -112.5 -55
+setwindow Form.editprop1
+FORM editprop1 properties PACKAGE_HEIGHT_MAX
+setwindow Form.editprop2
+FORM editprop2 package_height_max ele_prop_value 30
+FORM editprop2 apply
+setwindow Form.editprop1
+FORM editprop1 done
+setwindow Form.Find
+FORM find all_on
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class ROUTE KEEPOUT
+FORM mini subclass TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -70.5 49
+pick 70.5 49
+pick 70.5 -49
+pick -70.5 -49
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class MANUFACTURING
+FORM mini subclass NO_PROBE_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -123.5 -66
+pick -123.5 66
+pick 123.5 66
+pick 123.5 -66
+done
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass SILKSCREEN_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "REF"
+setwindow pcb
+setwindow pcb
+label device
+setwindow form.mini
+FORM mini class DEVICE TYPE
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 0 -25
+text "STA_CSRN2010-L"
+setwindow pcb
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+FORM mini line_width 0
+setwindow pcb
+pick -85.5 0
+pick -82.5 0
+done
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+FORM mini line_width 6
+setwindow pcb
+pick -141.5 0
+pick -138.5 0
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 -51
+pick -72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -72.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick -72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 51
+pick 72.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 72.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick 72.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick -60.4 -56
+pick 60.4 -56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick 60.4 56
+pick -60.4 56
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 -51
+pick 102.5 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 -51
+pick 102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 102.5 51
+pick -102.5 51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -102.5 51
+pick -102.5 -51
+done
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr...
+#
+# Allegro Footprint User-Customization Script
+#
+# A place to put custom (user-definable) things that need to be done after adding data to a new footprint, before it is saved.
+#
+# change database units to millimeters
+
+
+#setwindow pcb
+#drawing param 
+#setwindow form.drawing
+#FORM drawing units Millimeter 
+#FORM drawing done  
+#setwindow pcb
+#trapsize 1742
+## allegro recommends running a db check after changing the units of measure
+#dbdoctor 
+#setwindow form.dbdoctor_allegro
+#FORM dbdoctor_allegro drc YES 
+#FORM dbdoctor_allegro shapes YES 
+#FORM dbdoctor_allegro execute  
+#FORM dbdoctor_allegro close  
+#setwindow pcb
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr
+create symbol
+fillin "STA_CSRN2010-L"
+setwindow pcb
+trapsize 503
+dbdoctor
+setwindow Form.dbdoctor_allegro
+FORM dbdoctor_allegro drc YES
+FORM dbdoctor_allegro shapes YES
+FORM dbdoctor_allegro execute
+setwindow pcb
+save_as 
+fillin "STA_CSRN2010-L"
+setwindow pcb
+exit 

@@ -1,0 +1,73 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 14:40:33 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=9560 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/ABMM-24.000MHZ-B2-T/DFN-4.dra
+\i (00:00:00) trapsize 4399
+\i (00:00:00) trapsize 4521
+\i (00:00:00) trapsize 4807
+\i (00:00:00) trapsize 4529
+\i (00:00:00) trapsize 4529
+\i (00:00:00) generaledit 
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 0.3899 -1.7365
+\i (00:00:02) trapsize 2264
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 0.3899 -1.7365
+\i (00:00:02) trapsize 1132
+\i (00:00:02) roam start
+\i (00:00:03) roam x -48
+\i (00:00:03) roam y -80
+\i (00:00:03) roam end
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 7.0922 -0.6270
+\i (00:00:03) trapsize 566
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 7.3526 -0.5817
+\i (00:00:04) trapsize 283
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 7.3639 -0.5873
+\i (00:00:05) trapsize 142
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 7.4205 -0.5845
+\i (00:00:05) trapsize 71
+\i (00:00:06) delete 
+\i (00:00:08) pick grid 7.2478 -0.3481
+\t (00:00:08) last pick:  7.6200  0.0000
+\t (00:00:08) Line "Package Geometry/Assembly_Top"
+\i (00:00:08) pick grid 7.3511 -0.4741
+\t (00:00:08) last pick:  7.6200  0.0000
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 7.2478 -0.4585
+\i (00:00:09) trapsize 142
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 7.2451 -0.4557
+\i (00:00:09) trapsize 283
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 7.2225 -0.5066
+\i (00:00:09) trapsize 566
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 7.2338 -0.6877
+\i (00:00:09) trapsize 1132
+\i (00:00:10) roam start
+\i (00:00:10) roam x -80
+\i (00:00:10) roam x -64
+\i (00:00:10) roam x -16
+\i (00:00:11) roam end
+\i (00:00:11) save 
+\i (00:00:13) fillin yes 
+\t (00:00:13) Symbol 'dfn-4.psm' created.
+\i (00:00:13) generaledit 
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Sun Jan 29 14:40:47 2017

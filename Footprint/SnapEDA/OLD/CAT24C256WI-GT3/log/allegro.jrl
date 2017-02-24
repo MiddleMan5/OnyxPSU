@@ -1,0 +1,91 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 28 19:37:17 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=8880 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/OLD/CAT24C256WI-GT3/SOIC127P600X175-8N.dra
+\i (00:00:02) trapsize 4325
+\i (00:00:02) trapsize 4444
+\i (00:00:02) trapsize 4726
+\i (00:00:02) trapsize 4452
+\i (00:00:02) trapsize 4452
+\i (00:00:02) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 4.3686 -2.5077
+\i (00:00:03) trapsize 2226
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 1.6136 -2.5967
+\i (00:00:03) trapsize 1113
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 5.4868 0.2971
+\i (00:00:04) trapsize 2226
+\i (00:00:05) move 
+\t (00:00:05) Select element(s) to move.
+\i (00:00:06) pick grid 9.5382 -5.0897
+\t (00:00:06) last pick:  10.1600  -5.0800
+\t (00:00:06) last pick:  10.1600  -5.0800
+\t (00:00:06) Element has no origin, using pick.
+\t (00:00:06) Pick new location for the element(s).
+\i (00:00:08) prepopup 15.5928 -1.9733
+\i (00:00:10) cancel 
+\i (00:00:10) generaledit 
+\i (00:00:14) pick grid 7.4012 -0.8158
+\t (00:00:14) last pick:  7.6200  0.0000
+\e (00:00:14) Command not found: Del
+\i (00:00:17) prepopup 7.3122 -0.8158
+\i (00:00:18) pop dyn_option_select @:@Delete 
+\i (00:00:18) delete 
+\i (00:00:18) generaledit 
+\i (00:00:19) pick grid 4.0623 6.3518
+\t (00:00:19) last pick:  5.0800  7.6200
+\i (00:00:20) delete 
+\i (00:00:22) pick grid 4.9972 1.1875
+\t (00:00:22) last pick:  5.0800  0.0000
+\t (00:00:22) Line "Package Geometry/Assembly_Top"
+\i (00:00:22) pick grid dbl 4.9972 1.1875
+\t (00:00:22) last pick:  5.0800  0.0000
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -0.3897 3.1019
+\i (00:00:24) trapsize 1113
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -1.0352 3.0796
+\i (00:00:24) trapsize 556
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -1.0351 3.0796
+\i (00:00:24) trapsize 278
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out -1.0017 3.0573
+\i (00:00:25) trapsize 556
+\i (00:00:27) shape add rect 
+\i (00:00:28) shape add circle 
+\i (00:00:35) pick grid 0.0111 2.4898
+\t (00:00:35) last pick:  0.0000  2.5400
+\i (00:00:41) Esc 
+\i (00:00:41) generaledit 
+\i (00:00:43) shape add circle 
+\i (00:00:45) setwindow form.mini
+\i (00:00:45) FORM mini cir_place YES 
+\i (00:00:48) FORM mini cir_radius 0.50 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick grid 1.2465 2.0112
+\t (00:00:49) last pick:  0.0000  2.5400
+\i (00:00:53) setwindow form.mini
+\i (00:00:53) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) pick grid 0.8681 3.0574
+\t (00:00:54) last pick:  0.0000  2.5400
+\i (00:00:55) Esc 
+\i (00:00:55) generaledit 
+\i (00:00:56) save 
+\i (00:00:58) fillin yes 
+\t (00:00:58) Symbol 'soic127p600x175-8n.psm' created.
+\i (00:00:58) generaledit 
+\i (00:00:59) exit 
+\t (00:00:59)     Journal end - Sat Jan 28 19:38:17 2017

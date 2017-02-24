@@ -1,6 +1,5 @@
 (ExpressProject "OnyxPSU"
   (ProjectVersion "19981106")
-  (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
       (File ".\onyxpsu_lib.olb"
@@ -9,136 +8,178 @@
     (File ".\onyxpsu.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
-  (Folder "Outputs")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro\ONYXPSU.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    ("Allegro Netlist Input Board File"
+       "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro\ONYXPSU.brd")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\onyxpsu.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (VCC
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (NCP45520
-      (FullPartName "NCP45520.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (NCV8460A
-      (FullPartName "NCV8460A.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (INA219
-      (FullPartName "INA219.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (SIA461DJ
-      (FullPartName "SIA461DJ.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (PORTBOTH-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (BS3-1000
-      (FullPartName "BS3-1000.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
-      (DeviceIndex "0"))
-    (PCA9539RGER
-      (FullPartName "PCA9539RGER.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
-      (DeviceIndex "0"))
-    (100MIL_TH_2
-      (FullPartName "100MIL_TH_2.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (PORTRIGHT-R
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (PMV65XP
-      (FullPartName "PMV65XP.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
-      (DeviceIndex "0"))
-    (CSD25401Q3
-      (FullPartName "CSD25401Q3.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
-      (DeviceIndex "0"))
-    (PDI_HEADER
-      (FullPartName "PDI_HEADER.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (ATXMEGA32E5-AN
-      (FullPartName "ATXMEGA32E5-AN.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
-      (DeviceIndex "0"))
-    (PORTBOTH-L
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
       (DeviceIndex "0"))
-    (CAT24C256_0
-      (FullPartName "CAT24C256_0.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (CAT24C256
-      (FullPartName "CAT24C256.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
+    (SOLDER_JUMPER
+      (FullPartName "SOLDER_JUMPER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (SCREWTERM
+      (FullPartName "SCREWTERM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+      (DeviceIndex "0"))
+    (D_ZENER
+      (FullPartName "D_ZENER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+      (DeviceIndex "0"))
+    (CDBA540-HF
+      (FullPartName "CDBA540-HF.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+      (DeviceIndex "0"))
+    (C_NP
+      (FullPartName "C_NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+      (DeviceIndex "0"))
+    (SI7617DN
+      (FullPartName "SI7617DN.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (BAT54-7-F
+      (FullPartName "BAT54-7-F.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (SIS412DN
+      (FullPartName "SIS412DN.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (LED_0603
+      (FullPartName "LED_0603.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+      (DeviceIndex "0"))
+    (ATMEGA32U2
+      (FullPartName "ATMEGA32U2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
       (DeviceIndex "0"))
     (DXL-AX-SOCKET-3
       (FullPartName "DXL-AX-SOCKET-3.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TPS63061
+      (FullPartName "TPS63061.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Q_SWITCH_MOM
+      (FullPartName "Q_SWITCH_MOM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (PDI_HEADER
+      (FullPartName "PDI_HEADER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (CAT24C256
+      (FullPartName "CAT24C256.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (MIC5504
+      (FullPartName "MIC5504.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
+      (DeviceIndex "0"))
+    (ATXMEGA32E5-AN
+      (FullPartName "ATXMEGA32E5-AN.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
       (DeviceIndex "0"))
     (BB-HEADER-46
       (FullPartName "BB-HEADER-46.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
       (DeviceIndex "0"))
-    (Solder_Jumper
-      (FullPartName "Solder_Jumper.Normal")
-      (LibraryName
-         "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU_LIB.OLB")
+    (USBLC6-2P6
+      (FullPartName "USBLC6-2P6.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
       (DeviceIndex "0"))
-    (F
-      (FullPartName "F.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
-      (DeviceIndex "0"))
-    (MBR0520L
-      (FullPartName "MBR0520L.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\POLYSAT.OLB")
+    (UX60-USB
+      (FullPartName "UX60-USB.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\QLIB.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\onyxpsu.dsn")
-      (Path "Design Resources" ".\onyxpsu.dsn" "Schematic")
+      (Path "Design Resources"
+         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn")
+      (Path "Design Resources"
+         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\onyxpsu_lib.olb")
-      (Select "Design Resources" "Library" ".\onyxpsu_lib.olb"))
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn"
+         "Design Cache" "PORTRIGHT-L"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 254"))
+        (Placement "44 0 1 0 414 -8 -31 0 450 0 446"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1057 78 362")
-        (Scroll "0 256")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1359 0 322")
+        (Scroll "-93 21")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -146,9 +187,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1083 104 388")
-        (Scroll "0 256")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1385 26 348")
+        (Scroll "-93 21")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -156,9 +197,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 979 0 284")
-        (Scroll "0 146")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1411 52 374")
+        (Scroll "-93 21")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -166,9 +207,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1005 26 310")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 35 1394 -16 306")
+        (Scroll "1148 0")
+        (Zoom "172")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -176,9 +217,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1031 52 336")
-        (Scroll "0 20")
-        (Zoom "98")
+        (Placement "44 0 1 -1 -1 -8 -31 74 1433 -20 302")
+        (Scroll "-93 21")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -186,9 +227,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1057 78 362")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1489 130 452")
+        (Scroll "785 503")
+        (Zoom "232")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
@@ -196,11 +237,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1083 104 388")
-        (Scroll "-186 4")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1359 0 448")
+        (Scroll "-93 30")
+        (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
       (Schematic "Schematic")
       (Page "06 - USB2AX")))
-  (MPSSessionName "dmigh"))
+  (MPSSessionName "dmigh")
+  (ISPCBBASICLICENSE "false")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))

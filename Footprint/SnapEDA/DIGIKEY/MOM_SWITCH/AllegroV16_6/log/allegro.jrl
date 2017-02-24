@@ -1,0 +1,47 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 30 13:49:47 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=12716 CPUs=4
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/MOM_SWITCH/AllegroV16_6/SWITCH_FSMSM.dra
+\i (00:00:03) trapsize 41
+\i (00:00:03) trapsize 40
+\i (00:00:03) trapsize 42
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 43
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 12.61 0.04
+\i (00:00:04) trapsize 85
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 11.93 -0.81
+\i (00:00:04) trapsize 170
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 11.24 -1.14
+\i (00:00:04) trapsize 341
+\i (00:00:05) roam start
+\i (00:00:05) roam x 192
+\i (00:00:05) roam x 352
+\i (00:00:05) roam y 16
+\i (00:00:05) roam x 32
+\i (00:00:05) roam x -16
+\i (00:00:05) roam x -16
+\i (00:00:06) roam end
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 265.88 -55.73
+\i (00:00:06) trapsize 681
+\i (00:00:07) roam start
+\i (00:00:07) roam x -48
+\i (00:00:07) roam x -16
+\i (00:00:07) roam y -16
+\i (00:00:07) roam x -16
+\i (00:00:07) roam y -16
+\i (00:00:07) roam end
+\i (00:00:08) save 
+\i (00:00:11) fillin yes 
+\t (00:00:11) Symbol 'switch_fsmsm.psm' created.
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Mon Jan 30 13:49:59 2017

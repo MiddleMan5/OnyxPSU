@@ -1,0 +1,39 @@
+# Allegro script
+#   name: s_r240_140_m260_160_p240_140_pad.scr
+#   copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+version 16.3
+
+setwindow form.padedit
+
+pse_new
+fillin "s_r240_140_m260_160_p240_140"
+FORM padedit units Millimeter
+FORM padedit decimal_places 4
+FORM padedit inner_layer_opt YES
+FORM padedit single YES
+
+# Pads
+setwindow Form.padedit
+FORM padedit layers
+
+# TOP
+FORM padedit grid row begin_layer
+FORM padedit geometry Rectangle
+FORM padedit width 2.4
+FORM padedit height 1.4
+
+# SOLDERMASK_TOP
+FORM padedit grid row SOLDERMASK_TOP
+FORM padedit geometry Rectangle
+FORM padedit width 2.6
+FORM padedit height 1.6
+
+# PASTEMASK_TOP
+FORM padedit grid row PASTEMASK_TOP
+FORM padedit geometry Rectangle
+FORM padedit width 2.4
+FORM padedit height 1.4
+
+pse_check
+pse_save
+pse_exit

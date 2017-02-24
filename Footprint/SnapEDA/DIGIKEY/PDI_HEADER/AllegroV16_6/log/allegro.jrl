@@ -1,0 +1,78 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Mon Jan 30 13:17:02 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=15324 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/PDI_HEADER/AllegroV16_6/TLW-103-06-F-D.dra
+\i (00:00:02) trapsize 41
+\i (00:00:02) trapsize 40
+\i (00:00:02) trapsize 42
+\i (00:00:02) trapsize 43
+\i (00:00:02) trapsize 43
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -2.64 4.05
+\i (00:00:03) trapsize 85
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -3.49 3.70
+\i (00:00:03) trapsize 170
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -3.83 3.70
+\i (00:00:03) trapsize 341
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 33.66 3.03
+\i (00:00:06) trapsize 170
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 29.92 12.92
+\i (00:00:09) trapsize 341
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 57.17 12.23
+\i (00:00:10) trapsize 170
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 53.43 11.55
+\i (00:00:10) trapsize 341
+\i (00:00:11) delete 
+\i (00:00:13) pick grid -6.55 -2.07
+\t (00:00:13) last pick:  0.00  0.00
+\t (00:00:13) Pin "Sx55y55d35p, 1"
+\i (00:00:13) pick grid -193.26 96.06
+\t (00:00:13) last pick:  -200.00  100.00
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'OX55Y55D35P.pad'.
+\i (00:00:21) setwindow form.mini
+\i (00:00:21) FORM mini pad_browse  
+\i (00:00:23) fillin "menu_cancel"
+\i (00:00:25) setwindow pcb
+\i (00:00:25) pick grid -48.79 -9.57
+\t (00:00:25) last pick:  0.00  0.00
+\t (00:00:25) Using 'OX55Y55D35P.pad'.
+\i (00:00:29) text edit 
+\t (00:00:29) Exiting from Add Pin.
+\i (00:00:30) pick grid 3.00 15.64
+\t (00:00:30) last pick:  0.00  0.00
+\i (00:01:08) setwindow pcb
+\i (00:01:08) undo 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) pick 3.00 15.64
+\t (00:01:08) Pick text to edit.
+\i (00:01:08) setwindow pcb
+\i (00:01:08) trapsize 341
+\i (00:01:08) undo 
+\i (00:01:09) undo 
+\i (00:01:09) undo 
+\i (00:01:09) undo 
+\i (00:01:09) undo 
+\i (00:01:09) undo 
+\i (00:01:10) undo 
+\i (00:01:10) undo 
+\i (00:01:10) undo 
+\i (00:01:10) exit 
+\e (00:01:10) Do you want to save the changes you made to TLW-103-06-F-D.dra?
+\i (00:01:11) fillin no 
+\t (00:01:11)     Journal end - Mon Jan 30 13:18:14 2017

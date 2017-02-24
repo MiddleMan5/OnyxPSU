@@ -1,0 +1,429 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : ONYXPSU.brd                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Feb 13 13:24:31 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_BOTTOM >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/ASSEMBLY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (3400.00 0.00)
+           ... ignored.
+
+    WARNING: 0 width line found at (653.50 1182.50)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+
+     ASSEMBLY_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_TOP >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/ASSEMBLY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (153.00 1084.60)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     ASSEMBLY_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDERMASK >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/BOTTOM_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  OBLONG     0.11087     x 0.05937       0.000 NO     DARK 
+
+     BOTTOM_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SOLDERMASK >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/TOP_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  SQUARE     0.00100                     0.000 NO     DARK 
+  SQUARE     0.02400                     0.000 NO     DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  RECTANGLE  0.01102     x 0.03346       0.000 NO     DARK 
+  RECTANGLE  0.01102     x 0.03346      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01972     x 0.05753       0.000 NO     DARK 
+  RECTANGLE  0.01972     x 0.05753      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.05200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.05971      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.04800       0.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.04800      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03346     x 0.01102       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.01300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.10200       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.10500       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.05900     x 0.14200       0.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.04331      90.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.08300     x 0.06300       0.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.02756       0.000 NO     DARK 
+  RECTANGLE  0.09449     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.10236     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.12800     x 0.11500      90.000 NO     DARK 
+  OBLONG     0.11087     x 0.05937       0.000 NO     DARK 
+  PAD SHAPE  SOLDERJUMPER_PAD            0.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212_8              0.000 NO     DARK 
+  PAD SHAPE  PS_R50_103_D5000           90.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212_8             90.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212_8            180.000 NO     DARK 
+  PAD SHAPE  SOLDERJUMPER_PAD          180.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212_8            270.000 NO     DARK 
+  PAD SHAPE  PS_R50_103_D5000          270.000 NO     DARK 
+
+     TOP_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SILKSCREEN >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/BOTTOM_SILKSCREEN.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     BOTTOM_SILKSCREEN created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SILKSCREEN >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/TOP_SILKSCREEN.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+
+     TOP_SILKSCREEN created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00710                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00900                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01300                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  OBLONG     0.10299     x 0.05150       0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00710                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00900                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01300                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.02800                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.05500                                  DARK 
+  CIRCLE     0.06800                                  DARK 
+  SQUARE     0.05500                     0.000 NO     DARK 
+  SQUARE     0.09646                     0.000 NO     DARK 
+  RECTANGLE  0.01102     x 0.03346       0.000 NO     DARK 
+  RECTANGLE  0.01102     x 0.03346      90.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.01600     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.01800     x 0.02000       0.000 NO     DARK 
+  RECTANGLE  0.01972     x 0.05753       0.000 NO     DARK 
+  RECTANGLE  0.01972     x 0.05753      90.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.07100      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.05200      90.000 NO     DARK 
+  RECTANGLE  0.02200     x 0.05971      90.000 NO     DARK 
+  RECTANGLE  0.02400     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03346     x 0.01102       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.01300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05500       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05500      90.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.10200       0.000 NO     DARK 
+  RECTANGLE  0.04400     x 0.10500       0.000 NO     DARK 
+  RECTANGLE  0.05200     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.05900     x 0.14200       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.06693     x 0.08465       0.000 NO     DARK 
+  RECTANGLE  0.07800     x 0.02200       0.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.01969       0.000 NO     DARK 
+  RECTANGLE  0.08300     x 0.06300       0.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.09449     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.12800     x 0.11500      90.000 NO     DARK 
+  OBLONG     0.10299     x 0.05150       0.000 NO     DARK 
+  PAD SHAPE  SOLDERJUMPER_PAD            0.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212-8_CENTER       0.000 NO     DARK 
+  PAD SHAPE  PS_R30_83_D5000            90.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212-8_CENTER      90.000 NO     DARK 
+  PAD SHAPE  SOLDERJUMPER_PAD          180.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212-8_CENTER     180.000 NO     DARK 
+  PAD SHAPE  POWERPAK1212-8_CENTER     270.000 NO     DARK 
+  PAD SHAPE  PS_R30_83_D5000           270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        ASSEMBLY_BOTTOM created with warnings
+        ASSEMBLY_TOP created with warnings
+        OUTLINE created with warnings
+        BOTTOM_SOLDERMASK created with warnings
+        TOP_SOLDERMASK created with warnings
+        BOTTOM_SILKSCREEN created with warnings
+        TOP_SILKSCREEN created with warnings
+        BOTTOM created with warnings
+        TOP created with warnings
+
+ ARTWORK had warnings

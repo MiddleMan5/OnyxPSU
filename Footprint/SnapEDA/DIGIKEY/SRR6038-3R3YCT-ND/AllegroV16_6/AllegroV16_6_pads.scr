@@ -1,0 +1,50 @@
+# Allegro Script file created by :
+# Ultra Librarian Gold 8.1.230 Copyright © 1999-2017 EMA Design Automation
+# http://www.UltraLibrarian.com
+ 
+# Registered to :
+# Dequeue Server
+# 
+ 
+# Original file name : 
+ 
+Version 13.6
+
+setwindow Form.padedit
+
+######################## New PadStack #########################
+pse_new
+fillin "RX102Y287D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Rectangle
+FORM padedit width 102
+FORM padedit height 287
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 4
+FORM padedit geometry Rectangle
+FORM padedit width 102
+FORM padedit height 287
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 6
+FORM padedit geometry Rectangle
+FORM padedit width 102
+FORM padedit height 287
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "RX102Y287D0T.pad"
+pse_exit
+FORM padedit done
+ 
+# end of padstack script

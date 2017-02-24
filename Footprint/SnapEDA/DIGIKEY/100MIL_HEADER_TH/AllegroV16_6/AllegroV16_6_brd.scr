@@ -1,0 +1,1028 @@
+# Allegro Script file created by :
+# Ultra Librarian Gold 8.1.230 Copyright © 1999-2017 EMA Design Automation
+# http://www.UltraLibrarian.com
+ 
+# Registered to :
+# Dequeue Server
+# 
+ 
+ 
+version 14.0
+
+
+# **************************New Pattern starts here************************
+version 14.0
+
+setwindow pcb
+open
+fillin "blank_drawing.dra"
+prmed
+setwindow Form.prmedit
+FORM prmedit design
+FORM prmedit type Package
+FORM prmedit units Mils
+FORM prmedit size Other
+FORM prmedit accuracy 2
+FORM prmedit width 4519
+FORM prmedit height 2357
+FORM prmedit apply
+FORM prmedit x -3547
+FORM prmedit y -1331
+FORM prmedit apply
+FORM prmedit lock_mode Line
+FORM prmedit lock_direction Off
+FORM prmedit apply
+FORM prmedit done
+setwindow pcb
+status
+setwindow form.status
+FORM status lock_direction Off
+FORM status lock_mode line
+FORM status symbol_mirror NO
+FORM status drawing_size
+FORM status done
+setwindow pcb
+window center; pick     0.0     0.0
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr...
+#
+# Allegro Footprint User-Initialization Script
+#
+# A place to put custom (user-definable) things that need to be done before adding data into a new footprint.
+#
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_Start.scr
+
+define subclass
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_TOP
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETR pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SOLDERMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PIN pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PASTEMASK_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name SILKSCREEN_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_BOTTOM
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_TOP
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PLACE_BOUND_BOTTOM
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_TOP
+setwindow form.subclass
+FORM subclass MANUFACTURING pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name NO_PROBE_BOTTOM
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name CUTOUTSLOTS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name DIEBONDPADS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name WIREBONDS
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name PIN
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_DETAIL
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass PACKAGE_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name COPY RIGHT
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name OUTLINE
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+setwindow form.subclass
+FORM subclass BOARD_GEOMETRY pick
+setwindow form.subclass_nonetch
+FORM subclass_nonetch name ASSEMBLY_NOTES
+FORM subclass done
+
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A1
+setwindow pcb
+pick 0 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A2
+setwindow pcb
+pick 100 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A3
+setwindow pcb
+pick 200 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A4
+setwindow pcb
+pick 300 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A5
+setwindow pcb
+pick 400 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A6
+setwindow pcb
+pick 500 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A7
+setwindow pcb
+pick 600 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A8
+setwindow pcb
+pick 700 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A9
+setwindow pcb
+pick 800 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A10
+setwindow pcb
+pick 900 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A11
+setwindow pcb
+pick 1000 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A12
+setwindow pcb
+pick 1100 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A13
+setwindow pcb
+pick 1200 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A14
+setwindow pcb
+pick 1300 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A15
+setwindow pcb
+pick 1400 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A16
+setwindow pcb
+pick 1500 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A17
+setwindow pcb
+pick 1600 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A18
+setwindow pcb
+pick 1700 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A19
+setwindow pcb
+pick 1800 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A20
+setwindow pcb
+pick 1900 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A21
+setwindow pcb
+pick 2000 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A22
+setwindow pcb
+pick 2100 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number A23
+setwindow pcb
+pick 2200 0
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 24
+setwindow pcb
+pick 0 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 25
+setwindow pcb
+pick 100 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 26
+setwindow pcb
+pick 200 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 27
+setwindow pcb
+pick 300 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 28
+setwindow pcb
+pick 400 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 29
+setwindow pcb
+pick 500 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 30
+setwindow pcb
+pick 600 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 31
+setwindow pcb
+pick 700 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 32
+setwindow pcb
+pick 800 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 33
+setwindow pcb
+pick 900 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 34
+setwindow pcb
+pick 1000 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 35
+setwindow pcb
+pick 1100 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 36
+setwindow pcb
+pick 1200 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 37
+setwindow pcb
+pick 1300 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 38
+setwindow pcb
+pick 1400 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 39
+setwindow pcb
+pick 1500 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 40
+setwindow pcb
+pick 1600 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 41
+setwindow pcb
+pick 1700 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 42
+setwindow pcb
+pick 1800 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 43
+setwindow pcb
+pick 1900 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 44
+setwindow pcb
+pick 2000 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 45
+setwindow pcb
+pick 2100 100
+done
+add pin
+setwindow form.mini
+FORM mini offsetx 0.00
+FORM mini offsety 0.00
+FORM mini rotate_pin 0
+add pin
+setwindow form.mini
+FORM mini pad_name EX55Y55D35P
+setwindow form.mini
+FORM mini next_pin_number 46
+setwindow pcb
+pick 2200 100
+done
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -52 156
+pick -52 -56
+pick 2252 -56
+pick 2252 156
+done
+property edit
+setwindow Form.Find
+FORM find all_off
+FORM find shapes YES
+setwindow pcb
+pick grid -52 156
+setwindow Form.editprop1
+FORM editprop1 properties PACKAGE_HEIGHT_MAX
+setwindow Form.editprop2
+FORM editprop2 package_height_max ele_prop_value 90
+FORM editprop2 apply
+setwindow Form.editprop1
+FORM editprop1 done
+setwindow Form.Find
+FORM find all_on
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass PLACE_BOUND_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick -42 146
+pick -42 -46
+pick 2242 -46
+pick 2242 146
+done
+property edit
+setwindow Form.Find
+FORM find all_off
+FORM find shapes YES
+setwindow pcb
+pick grid -42 146
+setwindow Form.editprop1
+FORM editprop1 properties PACKAGE_HEIGHT_MAX
+setwindow Form.editprop2
+FORM editprop2 package_height_max ele_prop_value 90
+FORM editprop2 apply
+setwindow Form.editprop1
+FORM editprop1 done
+setwindow Form.Find
+FORM find all_on
+setwindow pcb
+add fshape
+setwindow form.mini
+FORM mini class MANUFACTURING
+FORM mini subclass NO_PROBE_TOP
+FORM mini dyns_grid None
+FORM mini dyns_lock_mode Line
+setwindow pcb
+pick 2257 161
+pick 2257 -61
+pick -57 -61
+pick -57 161
+done
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass SILKSCREEN_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 1100 25
+text "REF"
+setwindow pcb
+setwindow pcb
+label refdes
+setwindow form.mini
+FORM mini class REF DES
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 1100 25
+text "REF"
+setwindow pcb
+setwindow pcb
+label device
+setwindow form.mini
+FORM mini class DEVICE TYPE
+FORM mini subclass ASSEMBLY_TOP
+FORM mini text_block 3
+FORM mini text_justification Center
+FORM mini angle 0
+FORM mini mirror NO
+setwindow pcb
+pick 1100 25
+text "2-87215-3"
+setwindow pcb
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+FORM mini line_width 20
+setwindow pcb
+pick -72 0
+pick -57 0
+done
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_BOTTOM
+FORM mini line_width 20
+setwindow pcb
+pick -72 0
+pick -57 0
+done
+add circle
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+FORM mini line_width 20
+setwindow pcb
+pick 0 -75
+pick 15 -75
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick -47 -51
+pick 2247 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick 2247 -51
+pick 2247 151
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick 2247 151
+pick -47 151
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass SILKSCREEN_TOP
+setwindow form.mini
+FORM mini line_width 6
+FORM mini lock_direction Off 
+setwindow pcb
+pick -47 151
+pick -47 -51
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -42 -46
+pick 2242 -46
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 2242 -46
+pick 2242 146
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick 2242 146
+pick -42 146
+done
+add line
+setwindow form.mini
+FORM mini class PACKAGE GEOMETRY
+FORM mini subclass ASSEMBLY_TOP
+setwindow form.mini
+FORM mini line_width 0
+FORM mini lock_direction Off 
+setwindow pcb
+pick -42 146
+pick -42 -46
+done
+# Starting C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr...
+#
+# Allegro Footprint User-Customization Script
+#
+# A place to put custom (user-definable) things that need to be done after adding data to a new footprint, before it is saved.
+#
+# change database units to millimeters
+
+
+#setwindow pcb
+#drawing param 
+#setwindow form.drawing
+#FORM drawing units Millimeter 
+#FORM drawing done  
+#setwindow pcb
+#trapsize 1742
+## allegro recommends running a db check after changing the units of measure
+#dbdoctor 
+#setwindow form.dbdoctor_allegro
+#FORM dbdoctor_allegro drc YES 
+#FORM dbdoctor_allegro shapes YES 
+#FORM dbdoctor_allegro execute  
+#FORM dbdoctor_allegro close  
+#setwindow pcb
+# ... End of C:\UltraLibrarian\CadInfos\allegro15.2\Allegro_FP_End.scr
+create symbol
+fillin "2-87215-3"
+setwindow pcb
+trapsize 503
+dbdoctor
+setwindow Form.dbdoctor_allegro
+FORM dbdoctor_allegro drc YES
+FORM dbdoctor_allegro shapes YES
+FORM dbdoctor_allegro execute
+setwindow pcb
+save_as 
+fillin "2-87215-3"
+setwindow pcb
+exit 

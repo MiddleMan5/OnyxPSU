@@ -1,0 +1,44 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Jan 31 11:53:16 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=14728 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/SRP1235-3R3M/AllegroV16_6/IND_BOURNS_SRP1235-M.dra
+\i (00:00:02) trapsize 41
+\i (00:00:02) trapsize 40
+\i (00:00:02) trapsize 42
+\i (00:00:02) trapsize 43
+\i (00:00:02) trapsize 43
+\i (00:00:03) etchedit 
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -9.45 -4.56
+\i (00:00:03) trapsize 85
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -10.31 -4.72
+\i (00:00:03) trapsize 170
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -10.99 -4.73
+\i (00:00:03) trapsize 341
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -10.98 -4.72
+\i (00:00:04) trapsize 681
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -12.34 -6.09
+\i (00:00:04) trapsize 1363
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 486.85 -74.23
+\i (00:00:05) trapsize 681
+\i (00:00:05) roam start
+\i (00:00:05) roam x -48
+\i (00:00:06) roam x -80
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -32
+\i (00:00:06) roam end
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Tue Jan 31 11:53:23 2017

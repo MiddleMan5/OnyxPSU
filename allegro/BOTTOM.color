@@ -1,0 +1,27 @@
+#  View replacement method:
+#  Complete
+
+flipdesign bottom
+color -globvis off
+color -vis "BOARD GEOMETRY/SOLDERMASK_BOTTOM"
+color -vis "BOARD GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "BOARD GEOMETRY/TOOLING_CORNERS"
+color -vis "BOARD GEOMETRY/OUTLINE"
+color -vis "DRAWING FORMAT/DRAWING_ORIGIN"
+color -vis "DRC ERROR CLASS/TOP"
+color -vis "DRC ERROR CLASS/BOTTOM"
+color -vis "ETCH/BOTTOM"
+color -vis "PACKAGE GEOMETRY/SOLDERMASK_BOTTOM"
+color -vis "PACKAGE GEOMETRY/BODY_CENTER"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "PACKAGE GEOMETRY/PLACE_BOUND_BOTTOM"
+color -vis "PACKAGE KEEPOUT/BOTTOM"
+color -vis "PIN/BOTTOM"
+color -vis "PIN/SOLDERMASK_BOTTOM"
+color -vis "REF DES/DISPLAY_BOTTOM"
+color -vis "REF DES/SILKSCREEN_BOTTOM"
+color -vis "ROUTE KEEPOUT/BOTTOM"
+color -vis "VIA CLASS/BOTTOM"
+color -vis "VIA CLASS/SOLDERMASK_BOTTOM"
+color -vis "BOUNDARY/BOTTOM"
+color -vis "BOUNDARY/ALL"

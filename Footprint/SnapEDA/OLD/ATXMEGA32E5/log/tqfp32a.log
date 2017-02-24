@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TQFP32A.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jan 28 18:26:14 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/OLD/ATXMEGA32E5
+    Name      = tqfp32a.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

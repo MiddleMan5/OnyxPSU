@@ -1,0 +1,29 @@
+{ Using PSTWRITER 16.6.0 d001Feb-13-2017 at 12:42:13 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.12" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "A0_CONTROL".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.14" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "XAVR_RX".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.13" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "XAVR_TX".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.9" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "A3_CONTROL".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.10" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "A2_CONTROL".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "XMEGA.11" ignored for XMEGA: Schematic, 01 - Supervisor and EEPROM (3.60, 3.40). Connecting pin to net "A1_CONTROL".
+#7 WARNING(ORCAP-36006): Part Name "MIC5504_DK_SOT23-5_MIC5504-3.3YM5-TR" is renamed to "MIC5504_DK_SOT23-5_MIC5504-3.3Y".
+#8 WARNING(ORCAP-36006): Part Name "TPS63061_DSC10_1P70X2P15_TPS63061" is renamed to "TPS63061_DSC10_1P70X2P15_TPS630".
+#9 WARNING(ORCAP-36006): Part Name "DXL-AX-SOCKET-3_DXL_CONNECTOR_DXL-AX-SOCKET-3" is renamed to "DXL-AX-SOCKET-3_DXL_CONNECTOR_D".
+#10 WARNING(ORCAP-36006): Part Name "NCP45521IMNTWG-H_5_NCP45521IMNTWG-H_NCP45521IMNTWG-H" is renamed to "NCP45521IMNTWG-H_5_NCP45521IMNT".
+#11 WARNING(ORCAP-36006): Part Name "SCREWTERM_CONN_282836-2_CONN_282836-2" is renamed to "SCREWTERM_CONN_282836-2_CONN_28".
+#12 WARNING(ORCAP-36006): Part Name "SI7617DN_POWERPAK1212-8_SI7617DN" is renamed to "SI7617DN_POWERPAK1212-8_SI7617D".
+#13 WARNING(ORCAP-36006): Part Name "BB-HEADER-46_2-87215-3_PRICELESS" is renamed to "BB-HEADER-46_2-87215-3_PRICELES".
+#14 WARNING(ORCAP-36006): Part Name "SIS412DN_POWERPAK1212-8_SIS412DN" is renamed to "SIS412DN_POWERPAK1212-8_SIS412D".
+#15 WARNING(ORCAP-36006): Part Name "ATXMEGA32E5-AN_32A_ATXMEGA32E5-AU" is renamed to "ATXMEGA32E5-AN_32A_ATXMEGA32E5-".
+#16 WARNING(ORCAP-36006): Part Name "PDI_HEADER_TLW-103-06-F-D_M20-9980345" is renamed to "PDI_HEADER_TLW-103-06-F-D_M20-9".
+#17 WARNING(ORCAP-36006): Part Name "ABMM-16.000MHZ_DFN-4_CRYSTAL_16.00MHZ" is renamed to "ABMM-16.000MHZ_DFN-4_CRYSTAL_16".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro/pstchip.dat
+
+Loading... C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro/pstchip.dat
+
+Loading... C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro/pstxprt.dat
+
+Loading... C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\allegro/pstxnet.dat
+packaging the design view...

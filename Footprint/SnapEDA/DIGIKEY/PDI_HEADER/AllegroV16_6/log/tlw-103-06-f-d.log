@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TLW-103-06-F-D.dra                            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jan 30 13:16:37 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/PDI_HEADER/AllegroV16_6
+    Name      = tlw-103-06-f-d.psm
+    User      = dmigh
+    Machine   = QUINN-XPS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,446 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 15:32:10 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=4476 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/UX60-MB-5S8/UX60-MB-5S8.dra
+\i (00:00:00) trapsize 6526
+\i (00:00:00) trapsize 6706
+\i (00:00:00) trapsize 7131
+\i (00:00:00) trapsize 6718
+\i (00:00:00) trapsize 6718
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in 4.0438 -5.1630
+\i (00:00:01) trapsize 3359
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -14.6919 -5.0958
+\i (00:00:01) trapsize 1679
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in -0.2827 -0.0240
+\i (00:00:02) trapsize 840
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in -3.6751 -4.0545
+\i (00:00:03) trapsize 420
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -3.4315 -3.6850
+\i (00:00:04) trapsize 840
+\i (00:00:05) roam start
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y -128
+\i (00:00:05) roam y -64
+\i (00:00:05) roam y -32
+\i (00:00:06) roam end
+\i (00:00:08) roam start
+\i (00:00:08) roam y 16
+\i (00:00:08) roam x -16
+\i (00:00:08) roam y 80
+\i (00:00:08) roam y 64
+\i (00:00:09) roam y 32
+\i (00:00:09) roam x 64
+\i (00:00:09) roam x 64
+\i (00:00:09) roam end
+\i (00:00:23) prepopup 1.4410 1.5379
+\i (00:00:26) prepopup 4.6151 1.0509
+\i (00:00:30) reports 
+\i (00:00:48) reports "Unconnected Pins Report"
+\i (00:00:49) setwindow text
+\i (00:00:49) close 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) reports "Unconnected Pins Report" "Symbol Pin Report"
+\i (00:04:18) setwindow text
+\i (00:04:18) close 
+\i (00:04:20) setwindow text
+\i (00:04:20) close 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) generaledit 
+\i (00:04:49) derive connectivity 
+\i (00:04:51) setwindow form.derive
+\i (00:04:51) FORM derive close  
+\i (00:04:52) setwindow pcb
+\i (00:04:52) generaledit 
+\i (00:04:57) setwindow form.mini
+\i (00:04:57) FORM mini class BOARD GEOMETRY 
+\i (00:05:01) FORM mini class PIN 
+\i (00:05:04) FORM mini subclass TOP 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) shadow toggle 
+\i (00:05:08) prepopup 1.9448 1.2524
+\i (00:05:18) cmgr 
+\i (00:05:19) generaledit 
+\i (00:05:21) setwindow cmgr
+\i (00:05:21) cm exit
+\i (00:05:22) setwindow pcb
+\i (00:05:22) prmed 
+\i (00:05:24) setwindow form.prmedit
+\i (00:05:24) FORM prmedit cancel  
+\i (00:05:25) setwindow pcb
+\i (00:05:25) generaledit 
+\i (00:05:26) xsection 
+   (00:05:27) Loading cmds.cxt 
+   (00:05:27) Loading floor.cxt 
+   (00:05:27) Loading skillExt.cxt 
+   (00:05:27) Loading axlcore.cxt 
+\i (00:05:29) setwindow form.fplyrstack
+\i (00:05:29) FORM fplyrstack cancel  
+\i (00:05:29) setwindow pcb
+\i (00:05:29) generaledit 
+\i (00:05:32) cns show 
+\i (00:05:41) show element 
+\i (00:05:41) pick grid 1.2227 1.6891
+\t (00:05:41) last pick:  1.2700  1.9050
+\i (00:05:50) setwindow text
+\i (00:05:50) close 
+\i (00:05:54) setwindow pcb
+\i (00:05:54) add pin 
+\t (00:05:54) Using 'T_L80_130_261_M281_150.pad'.
+\i (00:05:56) setwindow form.mini
+\i (00:05:56) FORM mini pad_browse  
+\i (00:05:58) fillin "menu_cancel"
+\i (00:06:00) setwindow pcb
+\i (00:06:00) Esc 
+\w (00:06:00) WARNING(SPMHA1-314): Illegal event.
+\i (00:06:19) text edit 
+\t (00:06:19) Exiting from Add Pin.
+\i (00:06:22) pick grid 1.9784 1.6219
+\t (00:06:22) last pick:  1.9050  1.9050
+\e (00:06:22) ERROR(SPMHA1-441): Text not found.
+\i (00:06:26) setwindow pcb
+\i (00:06:26) property edit 
+\t (00:06:26) Adjust find filter then select an element or group of elements.
+\i (00:06:28) pick grid 2.4319 1.5379
+\t (00:06:28) last pick:  2.5400  1.2700
+\i (00:06:45) setwindow form.editprop1
+\i (00:06:45) FORM editprop1 properties Pkg_Pin_One 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) text edit 
+\i (00:07:27) text edit 
+\i (00:07:29) pick grid 1.8945 1.5883
+\t (00:07:29) last pick:  1.9050  1.9050
+\e (00:07:29) ERROR(SPMHA1-441): Text not found.
+\i (00:07:34) setwindow form.mini
+\i (00:07:34) FORM mini class PIN 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) shadow toggle 
+\i (00:07:38) shadow toggle 
+\i (00:07:39) shadow toggle 
+\i (00:07:43) generaledit 
+\i (00:07:47) text edit 
+\i (00:07:48) pick grid 2.1632 1.6555
+\t (00:07:48) last pick:  2.5400  2.5400
+\e (00:07:48) ERROR(SPMHA1-441): Text not found.
+\i (00:07:49) setwindow pcb
+\i (00:07:49) pick grid 1.5586 1.6555
+\t (00:07:49) last pick:  2.5400  2.5400
+\e (00:07:49) ERROR(SPMHA1-441): Text not found.
+\i (00:07:49) setwindow pcb
+\i (00:07:49) pick grid 1.5418 1.1684
+\t (00:07:49) last pick:  2.5400  0.0000
+\e (00:07:49) ERROR(SPMHA1-441): Text not found.
+\i (00:07:49) setwindow pcb
+\i (00:07:49) pick grid 1.5418 0.6982
+\t (00:07:49) last pick:  2.5400  0.0000
+\e (00:07:49) ERROR(SPMHA1-441): Text not found.
+\i (00:07:49) setwindow pcb
+\i (00:07:49) pick grid 0.7693 0.4127
+\t (00:07:49) last pick:  0.0000  0.0000
+\e (00:07:49) ERROR(SPMHA1-441): Text not found.
+\i (00:07:50) setwindow pcb
+\i (00:07:50) pick grid 0.0639 0.3959
+\t (00:07:50) last pick:  0.0000  0.0000
+\e (00:07:50) ERROR(SPMHA1-441): Text not found.
+\i (00:07:50) setwindow pcb
+\i (00:07:50) pick grid 0.0975 -0.3094
+\t (00:07:50) last pick:  0.0000  0.0000
+\e (00:07:50) ERROR(SPMHA1-441): Text not found.
+\i (00:07:50) setwindow pcb
+\i (00:07:50) pick grid 0.5845 -0.8132
+\t (00:07:50) last pick:  0.0000  0.0000
+\e (00:07:50) ERROR(SPMHA1-441): Text not found.
+\i (00:07:50) setwindow pcb
+\i (00:07:50) pick grid 1.0044 -1.3842
+\t (00:07:50) last pick:  0.0000  -2.5400
+\e (00:07:50) ERROR(SPMHA1-441): Text not found.
+\i (00:07:51) setwindow pcb
+\i (00:07:51) pick grid 0.9708 -1.9216
+\t (00:07:51) last pick:  0.0000  -2.5400
+\e (00:07:51) ERROR(SPMHA1-441): Text not found.
+\i (00:07:51) setwindow pcb
+\i (00:07:51) pick grid 0.9372 -2.6606
+\t (00:07:51) last pick:  0.0000  -2.5400
+\e (00:07:51) ERROR(SPMHA1-441): Text not found.
+\i (00:07:51) setwindow pcb
+\i (00:07:51) pick grid 1.1051 -3.5171
+\t (00:07:51) last pick:  0.0000  -2.5400
+\e (00:07:51) ERROR(SPMHA1-441): Text not found.
+\i (00:07:52) setwindow pcb
+\i (00:07:52) pick grid -3.5636 -4.5247
+\t (00:07:52) last pick:  -2.5400  -5.0800
+\e (00:07:52) ERROR(SPMHA1-441): Text not found.
+\i (00:07:52) setwindow pcb
+\i (00:07:52) pick grid -3.8491 -3.7354
+\t (00:07:52) last pick:  -5.0800  -2.5400
+\e (00:07:52) ERROR(SPMHA1-441): Text not found.
+\i (00:07:53) setwindow pcb
+\i (00:07:53) pick grid 1.1051 3.5364
+\t (00:07:53) last pick:  0.0000  2.5400
+\e (00:07:53) ERROR(SPMHA1-441): Text not found.
+\i (00:08:14) setwindow pcb
+\i (00:08:14) move 
+\t (00:08:14) Select element(s) to move.
+\i (00:08:19) prepopup 2.2807 -0.9476
+\i (00:09:40) add text 
+\t (00:09:40) Pick text location.
+\i (00:09:49) setwindow form.mini
+\i (00:09:49) FORM mini class PACKAGE GEOMETRY 
+\i (00:09:52) FORM mini subclass PIN_NUMBER 
+\t (00:09:52) Pick an element to attach the text to.
+\i (00:10:02) FORM mini subcolor 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) pick grid 1.5586 1.6555
+\t (00:10:07) last pick:  2.5400  2.5400
+\t (00:10:07) Pick text location.
+\i (00:10:15) prepopup 3.8761 1.5379
+\i (00:10:15) cancel 
+\i (00:10:15) generaledit 
+\i (00:10:19) prepopup 2.4990 0.8662
+\i (00:10:22) pick grid 4.1784 1.8738
+\t (00:10:22) last pick:  5.0800  2.5400
+\i (00:10:39) setwindow form.mini
+\i (00:10:39) FORM mini class PIN 
+\i (00:10:59) setwindow pcb
+\i (00:10:59) move 
+\t (00:10:59) Select element(s) to move.
+\i (00:10:59) pick grid 1.7265 1.6051
+\t (00:10:59) last pick:  2.5400  2.5400
+\t (00:11:00) last pick:  1.6500  1.6000
+\t (00:11:00) Pick new location for the element(s).
+\i (00:11:00) pick grid 4.5143 1.3028
+\t (00:11:00) last pick:  5.0800  2.5400
+\i (00:11:05) pick grid 5.6899 1.0509
+\t (00:11:05) last pick:  5.0800  0.0000
+\i (00:11:05) undo 
+\i (00:11:05) trapsize 840
+\i (00:11:05) generaledit 
+\i (00:11:06) undo 
+\i (00:11:06) trapsize 840
+\i (00:11:06) generaledit 
+\i (00:11:50) add text 
+\t (00:11:50) Pick text location.
+\i (00:11:53) setwindow form.mini
+\i (00:11:53) FORM mini class PACKAGE GEOMETRY 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) pick grid 2.1296 1.5379
+\t (00:11:59) last pick:  2.5400  2.5400
+\t (00:11:59) Pick text location.
+\i (00:12:01) pick grid 2.4655 1.6555
+\t (00:12:01) last pick:  2.5400  2.5400
+\t (00:12:01) Enter text string.
+\i (00:12:04) setwindow pcb
+\i (00:12:04) pick 2.5400 2.5400
+\t (00:12:04) Pick an element to attach the text to.
+\i (00:12:07) pick grid 2.2135 1.6051
+\t (00:12:07) last pick:  2.5400  2.5400
+\t (00:12:07) Pick text location.
+\i (00:12:12) Esc 
+\i (00:12:14) prepopup 4.6823 1.1684
+\i (00:12:16) cancel 
+\i (00:12:16) generaledit 
+\i (00:12:19) pick grid 2.3479 0.7822
+\t (00:12:19) last pick:  2.5400  0.0000
+\i (00:12:20) pick grid 2.4487 0.7822
+\t (00:12:20) last pick:  2.5400  0.0000
+\i (00:12:24) add text 
+\t (00:12:24) Pick an element to attach the text to.
+\i (00:12:26) pick grid 2.2135 0.7990
+\t (00:12:26) last pick:  2.5400  0.0000
+\t (00:12:26) Pick text location.
+\i (00:12:28) pick grid 2.2135 0.7990
+\t (00:12:28) last pick:  2.5400  0.0000
+\t (00:12:28) Enter text string.
+\i (00:12:31) setwindow pcb
+\i (00:12:31) pick grid 1.9448 -0.0911
+\t (00:12:31) last pick:  2.5400  0.0000
+\i (00:12:31) setwindow pcb
+\i (00:12:31) pick 2.5400 0.0000
+\t (00:12:31) Pick text location.
+\i (00:12:32) pick grid 1.9784 -0.1079
+\t (00:12:32) last pick:  2.5400  0.0000
+\t (00:12:32) Enter text string.
+\i (00:12:34) setwindow pcb
+\i (00:12:34) pick grid 2.3143 -0.8300
+\t (00:12:34) last pick:  2.5400  0.0000
+\i (00:12:34) setwindow pcb
+\i (00:12:34) pick 2.5400 0.0000
+\t (00:12:34) Pick text location.
+\i (00:12:35) pick grid 2.2975 -0.8468
+\t (00:12:35) last pick:  2.5400  0.0000
+\t (00:12:35) Enter text string.
+\i (00:12:36) setwindow pcb
+\i (00:12:36) pick grid 2.4151 -1.5018
+\t (00:12:36) last pick:  2.5400  -2.5400
+\i (00:12:36) setwindow pcb
+\i (00:12:36) pick 2.5400 0.0000
+\t (00:12:36) Pick text location.
+\i (00:12:40) pick grid 2.3647 -1.5186
+\t (00:12:40) last pick:  2.5400  -2.5400
+\t (00:12:40) Enter text string.
+\i (00:12:45) setwindow pcb
+\i (00:12:45) pick grid 4.1952 -0.0911
+\t (00:12:45) last pick:  5.0800  0.0000
+\i (00:12:45) setwindow pcb
+\i (00:12:45) pick 2.5400 -2.5400
+\w (00:12:45) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (00:12:48) move 
+\t (00:12:48) last pick:  1.6500  0.8000
+\t (00:12:48) Pick new location for the element(s).
+\i (00:12:49) prepopup 3.9937 0.3120
+\i (00:12:50) cancel 
+\i (00:12:50) generaledit 
+\i (00:12:51) pick grid 3.6242 -0.2758
+\t (00:12:51) last pick:  2.5400  0.0000
+\i (00:12:56) pick grid 4.4471 -1.7705
+\t (00:12:56) last pick:  5.0800  -2.5400
+\i (00:12:57) pick grid 2.9189 -2.2071
+\t (00:12:57) last pick:  2.5400  -2.5400
+\i (00:12:58) pick grid 2.8853 -2.3079
+\t (00:12:58) last pick:  2.5400  -2.5400
+\i (00:13:00) move 
+\t (00:13:00) last pick:  2.5400  -2.5400
+\t (00:13:00) Pick new location for the element(s).
+\i (00:13:02) pick grid 3.7922 -2.3415
+\t (00:13:02) last pick:  2.5400  -2.5400
+\i (00:13:02) generaledit 
+\i (00:13:04) define grid 
+\t (00:13:04) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:13:04) generaledit 
+\i (00:13:06) setwindow form.grid
+\i (00:13:06) FORM grid non_etch non_etch_x_grids 1 
+\i (00:13:07) FORM grid non_etch non_etch_y_grids 1 
+\i (00:13:07) FORM grid all_etch all_etch_x_grids 1 
+\i (00:13:08) FORM grid all_etch all_etch_y_grids 1 
+\i (00:13:09) FORM grid done  
+\i (00:13:10) setwindow pcb
+\i (00:13:10) pick grid 2.9693 -2.2407
+\t (00:13:10) last pick:  3.0000  -2.0000
+\i (00:13:11) move 
+\t (00:13:11) last pick:  2.5400  -2.5400
+\t (00:13:11) Pick new location for the element(s).
+\i (00:13:13) pick grid 3.4899 -2.5430
+\t (00:13:13) last pick:  3.0000  -3.0000
+\i (00:13:13) generaledit 
+\i (00:13:15) pick grid 2.9021 -0.1079
+\t (00:13:15) last pick:  3.0000  0.0000
+\i (00:13:17) move 
+\t (00:13:17) last pick:  2.5400  0.0000
+\t (00:13:17) Pick new location for the element(s).
+\i (00:13:19) pick grid 3.4899 -0.0575
+\t (00:13:19) last pick:  3.0000  0.0000
+\i (00:13:19) generaledit 
+\i (00:13:20) pick grid 2.7510 2.3776
+\t (00:13:20) last pick:  3.0000  2.0000
+\i (00:13:21) pick grid 3.6074 2.1593
+\t (00:13:21) last pick:  4.0000  2.0000
+\i (00:13:22) pick grid 2.4990 2.7135
+\t (00:13:22) last pick:  2.0000  3.0000
+\i (00:13:23) move 
+\t (00:13:23) last pick:  2.5400  2.5400
+\t (00:13:23) Pick new location for the element(s).
+\i (00:13:25) pick grid 3.2044 1.5043
+\t (00:13:25) last pick:  3.0000  2.0000
+\i (00:13:25) generaledit 
+\i (00:13:26) pick grid 3.2548 0.9165
+\t (00:13:26) last pick:  3.0000  1.0000
+\i (00:13:27) pick grid 6.8151 -0.2926
+\t (00:13:27) last pick:  7.0000  0.0000
+\i (00:13:28) move 
+\t (00:13:28) Select element(s) to move.
+\i (00:13:29) pick grid 3.4395 0.8494
+\t (00:13:29) last pick:  3.0000  1.0000
+\t (00:13:29) last pick:  1.6500  0.8000
+\t (00:13:29) Pick new location for the element(s).
+\i (00:13:30) prepopup 3.4899 0.9165
+\i (00:13:31) cancel 
+\i (00:13:31) generaledit 
+\i (00:13:32) pick grid 3.3387 0.9837
+\t (00:13:32) last pick:  3.0000  1.0000
+\i (00:13:34) pick grid 3.3555 1.8570
+\t (00:13:34) last pick:  3.0000  2.0000
+\i (00:13:35) move 
+\t (00:13:35) last pick:  3.0000  2.0000
+\t (00:13:35) Pick new location for the element(s).
+\i (00:13:37) pick grid 3.4899 1.5211
+\t (00:13:37) last pick:  3.0000  2.0000
+\i (00:13:37) generaledit 
+\i (00:13:37) pick grid 3.3891 0.9669
+\t (00:13:37) last pick:  3.0000  1.0000
+\i (00:13:38) pick grid 4.5143 0.6478
+\t (00:13:38) last pick:  5.0000  1.0000
+\i (00:13:38) pick grid 3.2212 1.0509
+\t (00:13:38) last pick:  3.0000  1.0000
+\i (00:13:40) pick grid -8.8033 2.7975
+\t (00:13:40) last pick:  -9.0000  3.0000
+\i (00:13:41) move 
+\t (00:13:41) Select element(s) to move.
+\i (00:13:50) setwindow form.find
+\i (00:13:50) FORM find all_off  
+\i (00:13:51) FORM find text YES 
+\i (00:13:52) setwindow pcb
+\i (00:13:52) pick grid 3.1876 1.0173
+\t (00:13:52) last pick:  3.0000  1.0000
+\t (00:13:52) last pick:  3.0000  0.0000
+\t (00:13:52) Pick new location for the element(s).
+\i (00:13:54) pick grid 3.3219 0.5471
+\t (00:13:54) last pick:  3.0000  1.0000
+\i (00:13:55) pick grid 2.1968 0.4967
+\t (00:13:55) last pick:  2.0000  0.0000
+\t (00:13:55) last pick:  2.5400  0.0000
+\t (00:13:55) Pick new location for the element(s).
+\i (00:13:56) pick grid 3.0868 -0.5277
+\t (00:13:56) last pick:  3.0000  -1.0000
+\i (00:13:56) pick grid 2.9189 -2.1400
+\t (00:13:56) last pick:  3.0000  -2.0000
+\t (00:13:56) last pick:  3.0000  -3.0000
+\t (00:13:56) Pick new location for the element(s).
+\i (00:13:57) pick grid 2.9189 -2.1400
+\t (00:13:57) last pick:  3.0000  -2.0000
+\i (00:13:58) pick grid 2.6334 0.4463
+\t (00:13:58) last pick:  3.0000  0.0000
+\t (00:13:58) last pick:  2.5400  0.0000
+\t (00:13:58) Pick new location for the element(s).
+\i (00:13:59) pick grid 2.6334 0.4463
+\t (00:13:59) last pick:  3.0000  0.0000
+\i (00:14:03) setwindow form.find
+\i (00:14:03) FORM find all_on  
+\i (00:14:07) setwindow pcb
+\i (00:14:07) prepopup 6.0594 0.5639
+\i (00:14:08) cancel 
+\i (00:14:08) generaledit 
+\i (00:14:11) move 
+\t (00:14:11) Select element(s) to move.
+\i (00:14:14) setwindow form.find
+\i (00:14:14) FORM find all_off  
+\i (00:14:15) FORM find text YES 
+\i (00:14:16) setwindow pcb
+\i (00:14:16) pick grid 2.9693 0.4463
+\t (00:14:16) last pick:  3.0000  0.0000
+\t (00:14:16) last pick:  2.5400  0.0000
+\t (00:14:16) Pick new location for the element(s).
+\i (00:14:17) pick grid 2.9693 0.4463
+\t (00:14:17) last pick:  3.0000  0.0000
+\i (00:14:17) prepopup 5.3372 0.4295
+\i (00:14:18) done 
+\i (00:14:18) generaledit 
+\i (00:14:18) pick grid 4.3464 0.6310
+\t (00:14:18) last pick:  4.0000  1.0000
+\i (00:14:22) save 
+\i (00:14:24) fillin yes 
+\t (00:14:24) Symbol 'ux60-mb-5s8.psm' created.
+\i (00:14:24) generaledit 
+\i (00:14:25) exit 
+\t (00:14:25)     Journal end - Sun Jan 29 15:46:35 2017

@@ -1,0 +1,46 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 28 16:05:10 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=10036 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/ATMEGA32U2-AU/ATXMEGA-TQFP-32.dra
+\i (00:00:00) trapsize 9184
+\i (00:00:00) trapsize 9300
+\i (00:00:00) trapsize 9888
+\i (00:00:00) trapsize 9316
+\i (00:00:00) trapsize 9316
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in 5.4500 -0.1553
+\i (00:00:01) trapsize 4658
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -18.2116 -0.8074
+\i (00:00:01) trapsize 2329
+\i (00:00:01) zoom in 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom in -18.3979 -0.8073
+\i (00:00:01) trapsize 1164
+\i (00:00:02) zoom out 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom out -5.1000 0.3338
+\i (00:00:02) trapsize 2329
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 2.5620 -2.4142
+\i (00:00:03) trapsize 1164
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 2.6086 -2.4608
+\i (00:00:03) trapsize 582
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 2.5155 -2.4608
+\i (00:00:03) trapsize 1164
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 2.5155 -2.3909
+\i (00:00:03) trapsize 2329
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sat Jan 28 16:05:17 2017

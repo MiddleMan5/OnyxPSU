@@ -1,0 +1,396 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 29 21:12:58 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=14756 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/dmigh/OneDrive/Documents/GitHub/OnyxPSU/Footprint/SnapEDA/DIGIKEY/100MIL_HEADER_TH/AllegroV16_6/2-87215-3.dra
+\i (00:00:02) trapsize 331
+\i (00:00:02) trapsize 323
+\i (00:00:02) trapsize 332
+\i (00:00:02) trapsize 341
+\i (00:00:02) trapsize 341
+\i (00:00:12) reports 
+\i (00:00:17) reports "Symbol Pin Report"
+\i (00:00:23) setwindow text
+\i (00:00:23) close 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) delete 
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 1.14 92.55
+\i (00:00:29) trapsize 681
+\i (00:00:30) roam start
+\i (00:00:30) roam x 144
+\i (00:00:30) roam x 64
+\i (00:00:30) roam end
+\i (00:00:31) pick grid 16.98 93.91
+\t (00:00:31) last pick:  0.00  100.00
+\t (00:00:31) Pin "Ex55y55d35p, A24"
+\i (00:00:32) pick grid 102.85 91.19
+\t (00:00:32) last pick:  100.00  100.00
+\t (00:00:32) Pin "Ex55y55d35p, A25"
+\i (00:00:32) pick grid 214.60 88.46
+\t (00:00:32) last pick:  200.00  100.00
+\t (00:00:32) Pin "Ex55y55d35p, A26"
+\i (00:00:33) pick grid 323.63 92.55
+\t (00:00:33) last pick:  300.00  100.00
+\t (00:00:33) Pin "Ex55y55d35p, A27"
+\i (00:00:33) pick grid 397.23 92.55
+\t (00:00:33) last pick:  400.00  100.00
+\t (00:00:33) Pin "Ex55y55d35p, A28"
+\i (00:00:35) setwindow form.find
+\i (00:00:35) FORM find all_off  
+\i (00:00:36) FORM find pins YES 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) drag_start grid -146.57 280.63
+\i (00:00:37) roam x 64
+\i (00:00:37) roam x 16
+\i (00:00:37) roam x 80
+\i (00:00:37) roam x 32
+\i (00:00:37) roam x 32
+\i (00:00:37) roam x 16
+\i (00:00:37) roam x 16
+\i (00:00:37) roam x 16
+\i (00:00:37) roam x 32
+\i (00:00:37) roam x 32
+\i (00:00:37) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 48
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 32
+\i (00:00:38) roam x 16
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 32
+\i (00:00:39) drag_stop 2303.93 -132.33
+\i (00:00:41) delete 
+\i (00:00:42) roam start
+\i (00:00:42) roam x -80
+\i (00:00:42) roam x -176
+\i (00:00:42) roam y -16
+\i (00:00:42) roam x -256
+\i (00:00:42) roam x -176
+\i (00:00:42) roam x -160
+\i (00:00:42) roam x -224
+\i (00:00:42) roam x -48
+\i (00:00:42) roam x -80
+\i (00:00:42) roam x -96
+\i (00:00:43) roam x -80
+\i (00:00:43) roam end
+\i (00:00:45) add pin 
+\t (00:00:45) Using 'EX55Y55D35P.pad'.
+\i (00:00:48) pick grid 12.90 49.61
+\t (00:00:48) last pick:  0.00  0.00
+\t (00:00:48) Using 'EX55Y55D35P.pad'.
+\i (00:00:48) pick grid 52.42 14.18
+\t (00:00:48) last pick:  100.00  0.00
+\t (00:00:48) Using 'EX55Y55D35P.pad'.
+\i (00:00:49) pick grid 156.00 10.09
+\t (00:00:49) last pick:  200.00  0.00
+\t (00:00:49) Using 'EX55Y55D35P.pad'.
+\i (00:00:51) undo 
+\t (00:00:51) Exiting from Add Pin.
+\i (00:00:52) undo 
+\i (00:00:54) delete 
+\i (00:00:55) pick grid 0.63 6.00
+\t (00:00:55) last pick:  0.00  0.00
+\t (00:00:55) Pin "Ex55y55d35p, 25"
+\i (00:00:55) pick grid 108.30 -0.82
+\t (00:00:55) last pick:  100.00  0.00
+\t (00:00:55) Pin "Ex55y55d35p, 26"
+\i (00:00:56) pick grid 195.52 -2.18
+\t (00:00:56) last pick:  200.00  0.00
+\t (00:00:56) Pin "Ex55y55d35p, 27"
+\i (00:00:56) pick grid 170.99 270.40
+\t (00:00:56) last pick:  200.00  300.00
+\i (00:00:57) add pin 
+\t (00:00:57) Using 'EX55Y55D35P.pad'.
+\i (00:00:59) setwindow form.mini
+\i (00:00:59) FORM mini next_pin_number 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) pick grid -18.45 -48.52
+\t (00:01:04) last pick:  0.00  0.00
+\t (00:01:04) Using 'EX55Y55D35P.pad'.
+\i (00:01:05) pick grid 51.06 -10.36
+\t (00:01:05) last pick:  100.00  0.00
+\t (00:01:05) Using 'EX55Y55D35P.pad'.
+\i (00:01:05) pick grid 160.09 -4.90
+\t (00:01:05) last pick:  200.00  0.00
+\t (00:01:05) Using 'EX55Y55D35P.pad'.
+\i (00:01:06) pick grid 252.77 0.55
+\t (00:01:06) last pick:  300.00  0.00
+\t (00:01:06) Using 'EX55Y55D35P.pad'.
+\i (00:01:06) pick grid 350.89 4.64
+\t (00:01:06) last pick:  400.00  0.00
+\t (00:01:06) Using 'EX55Y55D35P.pad'.
+\i (00:01:07) pick grid 450.39 7.36
+\t (00:01:07) last pick:  500.00  0.00
+\t (00:01:07) Using 'EX55Y55D35P.pad'.
+\i (00:01:07) pick grid 551.24 6.00
+\t (00:01:07) last pick:  600.00  0.00
+\t (00:01:07) Using 'EX55Y55D35P.pad'.
+\i (00:01:08) pick grid 652.09 6.00
+\t (00:01:08) last pick:  700.00  0.00
+\t (00:01:08) Using 'EX55Y55D35P.pad'.
+\i (00:01:08) roam start
+\i (00:01:08) roam x 64
+\i (00:01:08) roam x 112
+\i (00:01:08) roam x 80
+\i (00:01:08) roam x 64
+\i (00:01:08) roam x 32
+\i (00:01:08) roam y -16
+\i (00:01:08) roam x 16
+\i (00:01:08) roam x 48
+\i (00:01:08) roam y -16
+\i (00:01:09) roam x 32
+\i (00:01:09) roam x 32
+\i (00:01:09) roam end
+\i (00:01:18) Esc 
+\w (00:01:18) WARNING(SPMHA1-314): Illegal event.
+\i (00:01:19) delete 
+\t (00:01:19) Exiting from Add Pin.
+\i (00:01:20) pick grid 96.03 3.28
+\t (00:01:20) last pick:  100.00  0.00
+\t (00:01:20) Pin "Ex55y55d35p, 2"
+\i (00:01:21) pick grid 200.97 -7.62
+\t (00:01:21) last pick:  200.00  0.00
+\t (00:01:21) Pin "Ex55y55d35p, 3"
+\i (00:01:21) pick grid 305.92 -7.62
+\t (00:01:21) last pick:  300.00  0.00
+\t (00:01:21) Pin "Ex55y55d35p, 4"
+\i (00:01:22) pick grid 423.13 -7.62
+\t (00:01:22) last pick:  400.00  0.00
+\t (00:01:22) Pin "Ex55y55d35p, 5"
+\i (00:01:23) pick grid 499.45 3.28
+\t (00:01:23) last pick:  500.00  0.00
+\t (00:01:23) Pin "Ex55y55d35p, 6"
+\i (00:01:23) pick grid 603.03 3.28
+\t (00:01:23) last pick:  600.00  0.00
+\t (00:01:23) Pin "Ex55y55d35p, 7"
+\i (00:01:23) pick grid 691.62 -2.17
+\t (00:01:23) last pick:  700.00  0.00
+\t (00:01:23) Pin "Ex55y55d35p, 8"
+\i (00:01:24) pick grid 453.11 202.26
+\t (00:01:24) last pick:  500.00  200.00
+\i (00:01:29) add pin 
+\t (00:01:29) Using 'EX55Y55D35P.pad'.
+\i (00:01:32) setwindow form.mini
+\i (00:01:32) FORM mini next_pin_number 2 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) pick grid -47.07 110.95
+\t (00:01:33) last pick:  0.00  100.00
+\t (00:01:33) Using 'EX55Y55D35P.pad'.
+\i (00:01:33) pick grid 51.05 37.35
+\t (00:01:33) last pick:  100.00  0.00
+\t (00:01:33) Using 'EX55Y55D35P.pad'.
+\i (00:01:35) pick grid 81.04 50.98
+\t (00:01:35) last pick:  100.00  100.00
+\t (00:01:35) Using 'EX55Y55D35P.pad'.
+\i (00:01:35) pick grid 151.91 18.27
+\t (00:01:35) last pick:  200.00  0.00
+\t (00:01:35) Using 'EX55Y55D35P.pad'.
+\i (00:01:36) pick grid 177.80 53.71
+\t (00:01:36) last pick:  200.00  100.00
+\t (00:01:36) Using 'EX55Y55D35P.pad'.
+\i (00:01:36) pick grid 252.76 40.08
+\t (00:01:36) last pick:  300.00  0.00
+\t (00:01:36) Using 'EX55Y55D35P.pad'.
+\i (00:01:37) pick grid 301.83 53.71
+\t (00:01:37) last pick:  300.00  100.00
+\t (00:01:37) Using 'EX55Y55D35P.pad'.
+\i (00:01:37) pick grid 352.26 48.26
+\t (00:01:37) last pick:  400.00  0.00
+\t (00:01:37) Using 'EX55Y55D35P.pad'.
+\i (00:01:38) pick grid 378.15 50.98
+\t (00:01:38) last pick:  400.00  100.00
+\t (00:01:38) Using 'EX55Y55D35P.pad'.
+\i (00:01:38) pick grid 455.84 41.44
+\t (00:01:38) last pick:  500.00  0.00
+\t (00:01:38) Using 'EX55Y55D35P.pad'.
+\i (00:01:39) pick grid 504.90 50.98
+\t (00:01:39) last pick:  500.00  100.00
+\t (00:01:39) Using 'EX55Y55D35P.pad'.
+\i (00:01:39) pick grid 551.24 25.09
+\t (00:01:39) last pick:  600.00  0.00
+\t (00:01:39) Using 'EX55Y55D35P.pad'.
+\i (00:01:39) pick grid 589.40 50.98
+\t (00:01:39) last pick:  600.00  100.00
+\t (00:01:39) Using 'EX55Y55D35P.pad'.
+\i (00:01:40) pick grid 748.86 19.64
+\t (00:01:40) last pick:  700.00  0.00
+\t (00:01:40) Using 'EX55Y55D35P.pad'.
+\i (00:01:41) pick grid 712.06 52.35
+\t (00:01:41) last pick:  700.00  100.00
+\t (00:01:41) Using 'EX55Y55D35P.pad'.
+\i (00:01:41) pick grid 757.04 34.63
+\t (00:01:41) last pick:  800.00  0.00
+\t (00:01:41) Using 'EX55Y55D35P.pad'.
+\i (00:01:42) pick grid 785.66 53.71
+\t (00:01:42) last pick:  800.00  100.00
+\t (00:01:42) Using 'EX55Y55D35P.pad'.
+\i (00:01:42) pick grid 860.62 15.55
+\t (00:01:42) last pick:  900.00  0.00
+\t (00:01:42) Using 'EX55Y55D35P.pad'.
+\i (00:01:42) pick grid 896.05 52.35
+\t (00:01:42) last pick:  900.00  100.00
+\t (00:01:42) Using 'EX55Y55D35P.pad'.
+\i (00:01:43) pick grid 950.57 45.53
+\t (00:01:43) last pick:  1000.00  0.00
+\t (00:01:43) Using 'EX55Y55D35P.pad'.
+\i (00:01:43) pick grid 992.82 50.98
+\t (00:01:43) last pick:  1000.00  100.00
+\t (00:01:43) Using 'EX55Y55D35P.pad'.
+\i (00:01:44) pick grid 1051.42 19.64
+\t (00:01:44) last pick:  1100.00  0.00
+\t (00:01:44) Using 'EX55Y55D35P.pad'.
+\i (00:01:44) pick grid 1081.41 53.71
+\t (00:01:44) last pick:  1100.00  100.00
+\t (00:01:44) Using 'EX55Y55D35P.pad'.
+\i (00:01:45) pick grid 1150.91 40.08
+\t (00:01:45) last pick:  1200.00  0.00
+\t (00:01:45) Using 'EX55Y55D35P.pad'.
+\i (00:01:45) pick grid 1184.99 52.35
+\t (00:01:45) last pick:  1200.00  100.00
+\t (00:01:45) Using 'EX55Y55D35P.pad'.
+\i (00:01:46) pick grid 1250.41 18.27
+\t (00:01:46) last pick:  1300.00  0.00
+\t (00:01:46) Using 'EX55Y55D35P.pad'.
+\i (00:01:46) pick grid 1295.38 52.35
+\t (00:01:46) last pick:  1300.00  100.00
+\t (00:01:46) Using 'EX55Y55D35P.pad'.
+\i (00:01:47) roam start
+\i (00:01:47) roam x 48
+\i (00:01:47) roam x 16
+\i (00:01:47) roam x 64
+\i (00:01:47) roam x 32
+\i (00:01:47) roam y -16
+\i (00:01:47) roam x 48
+\i (00:01:47) roam x 32
+\i (00:01:47) roam y -16
+\i (00:01:47) roam x 16
+\i (00:01:47) roam end
+\i (00:01:48) pick grid 1449.39 -34.88
+\t (00:01:48) last pick:  1400.00  0.00
+\t (00:01:48) Using 'EX55Y55D35P.pad'.
+\i (00:01:49) pick grid 1392.15 50.98
+\t (00:01:49) last pick:  1400.00  100.00
+\t (00:01:49) Using 'EX55Y55D35P.pad'.
+\i (00:01:49) pick grid 1452.11 22.36
+\t (00:01:49) last pick:  1500.00  0.00
+\t (00:01:49) Using 'EX55Y55D35P.pad'.
+\i (00:01:50) pick grid 1488.91 55.07
+\t (00:01:50) last pick:  1500.00  100.00
+\t (00:01:50) Using 'EX55Y55D35P.pad'.
+\i (00:01:50) roam start
+\i (00:01:50) roam x 64
+\i (00:01:50) roam x 112
+\i (00:01:50) roam x 80
+\i (00:01:50) roam x 48
+\i (00:01:50) roam x 32
+\i (00:01:51) roam x 48
+\i (00:01:51) roam x 32
+\i (00:01:51) roam x 16
+\i (00:01:51) roam end
+\i (00:01:51) pick grid 1645.64 10.09
+\t (00:01:51) last pick:  1600.00  0.00
+\t (00:01:51) Using 'EX55Y55D35P.pad'.
+\i (00:01:52) pick grid 1618.38 52.34
+\t (00:01:52) last pick:  1600.00  100.00
+\t (00:01:52) Using 'EX55Y55D35P.pad'.
+\i (00:01:52) pick grid 1666.09 48.25
+\t (00:01:52) last pick:  1700.00  0.00
+\t (00:01:52) Using 'EX55Y55D35P.pad'.
+\i (00:01:54) pick grid 1691.98 50.98
+\t (00:01:54) last pick:  1700.00  100.00
+\t (00:01:54) Using 'EX55Y55D35P.pad'.
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 1600.67 1.92
+\i (00:01:57) trapsize 341
+\i (00:01:59) pick grid 1756.04 44.85
+\t (00:01:59) last pick:  1800.00  0.00
+\t (00:01:59) Using 'EX55Y55D35P.pad'.
+\i (00:02:00) pick grid 1815.32 53.03
+\t (00:02:00) last pick:  1800.00  100.00
+\t (00:02:00) Using 'EX55Y55D35P.pad'.
+\i (00:02:00) pick grid 1892.32 46.21
+\t (00:02:00) last pick:  1900.00  0.00
+\t (00:02:00) Using 'EX55Y55D35P.pad'.
+\i (00:02:01) pick grid 1910.72 50.30
+\t (00:02:01) last pick:  1900.00  100.00
+\t (00:02:01) Using 'EX55Y55D35P.pad'.
+\i (00:02:01) roam start
+\i (00:02:01) roam x 16
+\i (00:02:01) roam x 144
+\i (00:02:01) roam x 96
+\i (00:02:01) roam x 80
+\i (00:02:01) roam x 32
+\i (00:02:01) roam x 48
+\i (00:02:01) roam x 80
+\i (00:02:01) roam x 16
+\i (00:02:01) roam end
+\i (00:02:02) pick grid 2047.66 28.49
+\t (00:02:02) last pick:  2000.00  0.00
+\t (00:02:02) Using 'EX55Y55D35P.pad'.
+\i (00:02:02) pick grid 2019.04 50.30
+\t (00:02:02) last pick:  2000.00  100.00
+\t (00:02:02) Using 'EX55Y55D35P.pad'.
+\i (00:02:03) pick grid 2086.51 49.62
+\t (00:02:03) last pick:  2100.00  0.00
+\t (00:02:03) Using 'EX55Y55D35P.pad'.
+\i (00:02:03) pick grid 2098.09 53.71
+\t (00:02:03) last pick:  2100.00  100.00
+\t (00:02:03) Using 'EX55Y55D35P.pad'.
+\i (00:02:04) pick grid 2150.56 36.67
+\t (00:02:04) last pick:  2200.00  0.00
+\t (00:02:04) Using 'EX55Y55D35P.pad'.
+\i (00:02:04) pick grid 2176.46 54.39
+\t (00:02:04) last pick:  2200.00  100.00
+\t (00:02:04) Using 'EX55Y55D35P.pad'.
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 2017.68 48.26
+\i (00:02:04) trapsize 681
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 2009.51 48.25
+\i (00:02:05) trapsize 1363
+\i (00:02:05) save 
+\t (00:02:05) Exiting from Add Pin.
+\i (00:02:08) fillin yes 
+\t (00:02:08) Symbol '2-87215-3.psm' created.
+\i (00:02:09) exit 
+\t (00:02:10)     Journal end - Sun Jan 29 21:15:08 2017

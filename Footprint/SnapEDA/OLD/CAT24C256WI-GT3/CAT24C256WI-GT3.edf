@@ -1,0 +1,476 @@
+
+(EDIF
+  (rename &2015_32_05_32_21_32_00_32_00_32_00 "2015 05 21 00 00 00")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2015 05 21 00 00 00)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename &2015_32_05_32_21_32_00_32_00_32_00 "2015 05 21 00 00 00")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 10000)
+      )
+    )
+    (cell
+      (rename CAT24C256WI_45_GT3 "CAT24C256WI-GT3")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "U")
+          (property (rename VALUE "Value") (string "CAT24C256WI-GT3"))
+          (port
+            (rename A0 "A0")
+            (designator "1")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename A1 "A1")
+            (designator "2")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename A2 "A2")
+            (designator "3")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename VSS "VSS")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename SDA "SDA")
+            (designator "5")
+            (direction INOUT)
+            (property
+              (rename TYPE "Type")
+              (string "IO")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 4)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename SCL "SCL")
+            (designator "6")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 5)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename WP "WP")
+            (designator "7")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 6)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename VCC "VCC")
+            (designator "8")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 7)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -70000 -80000) (pt 70000 49999)))
+            (portImplementation
+              (name VCC
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 30000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 30000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 30000)
+                    (pt -50000 30000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A0
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 10000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 10000)
+                    (pt -50000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A1
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 0)
+                    (pt -50000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A2
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 -10000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 -10000)
+                    (pt -50000 -10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name SCL
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 -30000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 -30000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 -30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 -30000)
+                    (pt -50000 -30000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name WP
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 -40000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 -40000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 -40000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 -40000)
+                    (pt -50000 -40000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name VSS
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -50000 -60000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -66062 -60000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -70000 -60000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -70000 -60000)
+                    (pt -50000 -60000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name SDA
+                (display PINNAME
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 50000 30000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 66062 30000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 70000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 70000 30000)
+                    (pt 50000 30000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -50000 50000) (pt -50000 -80000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -50000 -80000) (pt 50000 -80000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 50000 -80000) (pt 50000 50000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 50000 50000) (pt -50000 50000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -23000 60200))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15600 -96600))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SOIC127P600X175-8N"))
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "ON_32_SEMICONDUCTOR"))
+            )
+            (property
+              (rename PACKAGE "PACKAGE")
+              (string
+              (stringDisplay "SOIC_45_8_32_ON_32_SEMICONDUCTOR"))
+            )
+            (property
+              (rename DESCRIPTION "DESCRIPTION")
+              (string
+              (stringDisplay "CAT24C256_32_SERIES_32_256_32_KBIT_32__40_32_32_K_32_X_32_8_41__32_1_46_8_32_V_32_I2C_32_CMOS_32_SERIAL_32_EEPROM_32__45__32_SOIC_45_8"))
+            )
+            (property
+              (rename PRICE "PRICE")
+              (string
+              (stringDisplay "&0_46_35_32_USD"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "CAT24C256WI_45_GT3"))
+            )
+            (property
+              (rename AVAILABILITY "AVAILABILITY")
+              (string
+              (stringDisplay "GOOD"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

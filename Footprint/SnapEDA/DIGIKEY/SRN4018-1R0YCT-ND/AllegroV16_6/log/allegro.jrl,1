@@ -1,0 +1,22 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Tue Jan 31 12:51:08 2017
+\t (00:00:00)         Host=QUINN-XPS User=dmigh Pid=14764 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 857
+\i (00:00:00) trapsize 837
+\i (00:00:00) trapsize 861
+\i (00:00:00) trapsize 882
+\i (00:00:00) trapsize 1448
+\i (00:00:01) replay CustomShapes.scr 
+\i (00:00:01) version 14.0 
+\t (00:00:01) Script version: 14.0
+\i (00:00:01) enved 
+\i (00:00:01) setwindow Form.prfedit 
+\i (00:00:01) FORM prfedit treelist Ui 
+\i (00:00:01) FORM prfedit noconfirm YES 
+\e (00:00:01) Form field label not found
+\i (00:00:01) FORM prfedit done 
+\i (00:00:01) setwindow pcb 
+\i (00:00:01) exit 
+\t (00:00:02)     Journal end - Tue Jan 31 12:51:10 2017
