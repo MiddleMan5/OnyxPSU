@@ -158,27 +158,22 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn")
-      (Path "Design Resources"
-         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn"
-         "Design Cache")
+      (Path "Design Resources" ".\onyxpsu.dsn")
+      (Path "Design Resources" ".\onyxpsu.dsn" "Schematic")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "C:\Users\dmigh\OneDrive\Documents\GitHub\OnyxPSU\onyxpsu.dsn"
-         "Design Cache" "PORTRIGHT-L"))
+      (Select "Design Resources" ".\onyxpsu.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 0 414 -8 -31 0 450 0 446"))
+        (Placement "44 2 3 0 414 -8 -31 0 450 0 446"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1359 0 322")
-        (Scroll "-93 21")
+        (Scroll "-93 34")
         (Zoom "116")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
@@ -208,7 +203,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 35 1394 -16 306")
-        (Scroll "1148 0")
+        (Scroll "991 172")
         (Zoom "172")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
@@ -227,8 +222,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1489 130 452")
-        (Scroll "785 503")
+        (Placement "44 0 1 -1 -1 -8 -31 10 1369 -3 319")
+        (Scroll "464 368")
         (Zoom "232")
         (Occurrence "/"))
       (Path "C:\USERS\DMIGH\ONEDRIVE\DOCUMENTS\GITHUB\ONYXPSU\ONYXPSU.DSN")
